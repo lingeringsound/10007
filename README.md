@@ -34,4 +34,12 @@
 | **配置.prop(配置.conf)** | `配置.conf`(配置.prop) 在刷入前(也就是修改模块压缩包)可以用 **[mt文件管理器](https://binmt.lanzoui.com/b01bivkzc)** 修改来自定义模块的一些功能。|
 
 
- 
+ ## 捐赠
+
+如果您觉得我对您有帮助，不妨对我进行支持
+
+<img src=" ./donate/donate2.jpg" style="zoom:15%" />
+
+
+<img src=" ./donate/donate1.png " style="zoom:15%" />
+
