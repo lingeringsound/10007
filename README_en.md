@@ -29,6 +29,16 @@
 | **mod folder** | `mod` The script executes the folder. Each script has different functions. There are comments in the script. If you do not want to execute the script, you can change the suffix name `bak` |
 | **配置.prop(配置.conf)** | `配置.conf`(配置.prop) It can be used before brushing (that is, modify module compression pack) **[mt文件管理器](https://binmt.lanzoui.com/b01bivkzc)** Modify some functions of defining modules.|
 
+## 引用和致谢
+| **Hosts引用链接** | 感谢各位大佬 |
+| :-- | :-- |
+| [大圣净化](https://github.com/jdlingyu/ad-wars) | ❤感谢！❤ |
+| [yhost](https://github.com/VeleSila/yhosts) | ❤感谢！❤ |
+| [Steven Black](https://github.com/StevenBlack/hosts) | ❤感谢！❤ |
+| [oisd](https://oisd.nl/howto) | ❤感谢！❤ |
+| [1024](https://github.com/Goooler/1024_hosts) | ❤感谢！❤ |
+| [adhost](https://github.com/E7KMbb/AD-hosts) | ❤感谢！❤ |
+
 
 ## Donate
 
