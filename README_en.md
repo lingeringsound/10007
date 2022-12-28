@@ -1,9 +1,9 @@
 ## Remove Advertise
 
-- ## v142
+- ## v146
 | **name** | **Link** |  |
 | :-- | :-- | :-- |
-| **142** | [Download link](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads142.zip) |
+| **146** | [Download link](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads146.zip) |
 | **Host(reward)** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/reward)~~ |
 | **Host(all)** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/all)~~ |
 | **ADblock** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/adb.txt)~~|
