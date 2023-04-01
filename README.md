@@ -1,6 +1,7 @@
 ## 去广告
 ## [English](./README_en.md)
-### 啥也不是？
+### 访问统计
+### ![visitors](https://visitor-badge.glitch.me/badge?page_id=lingeringsound.10007&left_color=green&right_color=red)
 ## 在模块压缩包内修改模块！！！！！！！
 
 - ## v153
