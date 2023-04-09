@@ -4,10 +4,10 @@
 ### ![visitors](https://visitor-badge.glitch.me/badge?page_id=lingeringsound.10007&left_color=green&right_color=red)
 ## 在模块压缩包内修改模块！！！！！！！
 
-- ## v153
+- ## v154
 | **名称** | **链接** |  |
 | :-- | :-- | :-- |
-| **153** | [下载链接](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads153.zip) |
+| **154** | [下载链接](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads154.zip) |
 | **Host(保留广告奖励)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | ~~[GITlink订阅链接](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/reward)~~ |
 | **Host(完整版)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | ~~[GITlink订阅链接](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/all)~~ |
 | **ADblock** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | ~~[GITlink订阅链接](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/adb.txt)~~|
