@@ -5,12 +5,12 @@
 ## 在模块压缩包内修改模块！！！！！！！
 
 - ## v158
-| **名称** | **链接** |  |
+| **名称** | **链接** | **国内镜像** |
 | :-- | :-- | :-- |
 | **158** | [下载链接](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads158.zip) |
-| **Host(保留广告奖励)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | ~~[GITlink订阅链接](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/reward)~~ |
-| **Host(完整版)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | ~~[GITlink订阅链接](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/all)~~ |
-| **ADblock** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | ~~[GITlink订阅链接](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/adb.txt)~~|
+| **Host(保留广告奖励)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | [Gitlab订阅链接](https://jihulab.com/foreseeable_boy/10007/-/raw/main/reward)|
+| **Host(完整版)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | [Gitlab订阅链接](https://jihulab.com/foreseeable_boy/10007/-/raw/main/all) |
+| **ADblock** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | [Gitlab订阅链接](https://jihulab.com/foreseeable_boy/10007/-/raw/main/adb.txt)|
 | **蓝奏云链接(密码666)** | [蓝奏云](https://keytoolazy.lanzouw.com/b03j67j0f) |
 
 
