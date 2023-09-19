@@ -16,4 +16,16 @@
  
 - v163
  > #### 可能是最后一次更新了，Gitee账号已经被官方屏蔽。
+- v164
+> #### 解除小米ROM包下载限速，重定向至`123.6.13.6`和`23.202.34.138`。
+> #### 添加酷友的两个规则 不确定后续是否会误杀
+> #### @coolapk [营销号666](http://www.coolapk.com/u/554004)
+````
+127.0.0.1 dsp-x.jd.com
+127.0.0.1 dsp-x.jd.com.gslb.qianxun.com
+````
+> #### @coolapk [GreatYYH](http://www.coolapk.com/u/3241828)
+```
+127.0.0.1 api-cn.store.heytapmobi.com
+```
 
