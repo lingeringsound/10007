@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2024-01-20 20:55:40 
+#更新时间: 2024-01-26 23:57:09 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:37260
+#规则数量:37954
 #GIthub订阅主页: https://github.com/lingeringsound/10007_auto
 #Gitcode订阅主页: https://gitcode.net/weixin_45617236/10007_auto
 #GITlab订阅主页: https://jihulab.com/foreseeable_boy/10007_auto
@@ -32,6 +32,7 @@
 127.0.0.1 0-car01-web-wwww0node-okta-api-docscsr41-cloud.0-132.net.daraz.com
 127.0.0.1 0-car01-web-wwww0node-okta-api-docscsr41-cloud.net.daraz.com
 127.0.0.1 0-car01-web-wwww0node-okta-api-docscsr41-service.net.daraz.com
+127.0.0.1 0-car01-web-wwww0node-okta-api-docscsr41toolbar.0-astrologie.net.daraz.com
 127.0.0.1 0-car01-web-wwww0node-okta-api-docscsr41toolbar.net.daraz.com
 127.0.0.1 0-car21-web-wwww11node-webapp4-partner.net.daraz.com
 127.0.0.1 0-dishpurchasingcorporation.hb-api.tt.omtrdc.net
@@ -41,6 +42,7 @@
 127.0.0.1 0-lib-oa-1-cf23regionapac-partner.0-astrologie.net.daraz.com
 127.0.0.1 0-ns-91.partner.net.daraz.com
 127.0.0.1 0-ns91.partner.net.daraz.com
+127.0.0.1 0-open.net.daraz.com
 127.0.0.1 0-partner-10yo-models1199m.net.daraz.com
 127.0.0.1 0-partner.dcsportal.0-astrologie.net.daraz.com
 127.0.0.1 0.r.msn.com
@@ -260,6 +262,7 @@
 127.0.0.1 0gvncad91wihieja.docs.net.daraz.com
 127.0.0.1 0gw7e6s3wrao9y3q.pro
 127.0.0.1 0hlc8.top
+127.0.0.1 0info-jmedia-en-api-update.hb-api.tt.omtrdc.net
 127.0.0.1 0iymahji16e86wif.partner.net.daraz.com
 127.0.0.1 0jcn4veha2oz.top
 127.0.0.1 0jyhevws57imk432.partner.net.daraz.com
@@ -291,6 +294,7 @@
 127.0.0.1 0psdadj3szljo593-staging.net.daraz.com
 127.0.0.1 0psdadj3szljo593-testbed1.net.daraz.com
 127.0.0.1 0psdadj3szljo593-vpntr4bucky.net.daraz.com
+127.0.0.1 0psdadj3szljo593-w6sellerpackaging-profilekor-billing.net.daraz.com
 127.0.0.1 0psdadj3szljo593-web-vpn-prod-cn-sandbox.net.daraz.com
 127.0.0.1 0psdadj3szljo593-web-vpn-prod-vi-10.net.daraz.com
 127.0.0.1 0psdadj3szljo593-web11-www-engima-twitch-sql.net.daraz.com
@@ -419,6 +423,7 @@
 127.0.0.1 11311.partner.tt.omtrdc.net
 127.0.0.1 11838aaad0.com
 127.0.0.1 118ad81b2a58b54a18825dc8d8988395.watchdene.pl
+127.0.0.1 11aaqian.top
 127.0.0.1 11bet.mobi
 127.0.0.1 11foxentertainment.hb-api.tt.omtrdc.net
 127.0.0.1 11gtest.bj2cu.u3.ucweb.com
@@ -456,6 +461,7 @@
 127.0.0.1 12w.maxuikl.top
 127.0.0.1 12xgetsready12.monster
 127.0.0.1 13-foxentertainment.hb-api.tt.omtrdc.net
+127.0.0.1 13-partner.net.daraz.com
 127.0.0.1 13.32.17.182abcnews.hb-api.tt.omtrdc.net
 127.0.0.1 13.hb-api.tt.omtrdc.net
 127.0.0.1 130ecac72c9a97ade996a15c159066b6.dopla.com.pl
@@ -471,7 +477,6 @@
 127.0.0.1 1406mocoloo8.pro
 127.0.0.1 140pagoc8c2da78781d.traffic.net.daraz.com
 127.0.0.1 142756422eb0ad2b684539fd32b88486.serswise.pl
-127.0.0.1 14badb5195.com
 127.0.0.1 14dishpurchasingcorporation.hb-api.tt.omtrdc.net
 127.0.0.1 14foxentertainment.hb-api.tt.omtrdc.net
 127.0.0.1 14gtest.bj2cu.u3.ucweb.com
@@ -481,7 +486,6 @@
 127.0.0.1 15.182abcnews.hb-api.tt.omtrdc.net
 127.0.0.1 15.t.api.tt.omtrdc.net
 127.0.0.1 1505nigyrou8.pro
-127.0.0.1 15306ad0e1.com
 127.0.0.1 15dcbc41be4f114c6ad70f652cda03cf.serswise.pl
 127.0.0.1 15gtest.bj2cu.u3.ucweb.com
 127.0.0.1 15y.api.tt.omtrdc.net
@@ -559,6 +563,7 @@
 127.0.0.1 1980s.click
 127.0.0.1 19bskyb.hb-api.tt.omtrdc.net
 127.0.0.1 19gtest.bj2cu.u3.ucweb.com
+127.0.0.1 1aaqian.top
 127.0.0.1 1ad6ea4211.com
 127.0.0.1 1asgadsdjsdk1.monster
 127.0.0.1 1auaph69ausv.top
@@ -582,6 +587,7 @@
 127.0.0.1 1host-csg-mailes-ofvpncn.hb-api.tt.omtrdc.net
 127.0.0.1 1inch-audit.top
 127.0.0.1 1inposts.top
+127.0.0.1 1j02claf9p.pro
 127.0.0.1 1k3chg5b11mx.top
 127.0.0.1 1k8sx339iiu1u12l.partner.net.daraz.com
 127.0.0.1 1mari1.inprog.top
@@ -614,7 +620,6 @@
 127.0.0.1 1ts19.top
 127.0.0.1 1up659mg7d5v.top
 127.0.0.1 1upload3ever11.monster
-127.0.0.1 1verifysecure.top
 127.0.0.1 1wek.top
 127.0.0.1 1xlite-208883.top
 127.0.0.1 1xlite-503779.top
@@ -623,6 +628,7 @@
 127.0.0.1 1xlite-564950.top
 127.0.0.1 1y15vrxg6v8h.top
 127.0.0.1 1yn7lh2s8y7w3f4u.partner.net.daraz.com
+127.0.0.1 2-proa11-67-cnatthe.hb-api.tt.omtrdc.net
 127.0.0.1 2.afs.googleadservices.com
 127.0.0.1 2.basedac.maps.api.tt.omtrdc.net
 127.0.0.1 2.codetop1a.click
@@ -719,7 +725,6 @@
 127.0.0.1 2aadf0c0fe.com
 127.0.0.1 2ad.de
 127.0.0.1 2ad.wtf
-127.0.0.1 2ade7d2008.com
 127.0.0.1 2ajvsdjhad2.monster
 127.0.0.1 2baners.ero-advertising.com
 127.0.0.1 2bdfad8db309b30ccd0d6db3bdc0001c.podisat.pl
@@ -892,6 +897,7 @@
 127.0.0.1 435.activeprog2.top
 127.0.0.1 435a63dad5.com
 127.0.0.1 43aa1a3fbe8efb6ade04251679fe6ab4.visolaw.pl
+127.0.0.1 43ad77aab7db64bf3338bc3f49238993.puoli.pl
 127.0.0.1 4444444.activpl-pro.site
 127.0.0.1 449868ad48652e16b1d2008a6d604fdd.twojedom.pl
 127.0.0.1 44c3e357e4bfb39d4cadf2bf46c2f94c.bitgro.pl
@@ -910,6 +916,7 @@
 127.0.0.1 4an0u0avxj66.top
 127.0.0.1 4anners.ero-advertising.com
 127.0.0.1 4b49srgf0gth.top
+127.0.0.1 4cadde268849f31ead5281e2222a9b36.puoli.pl
 127.0.0.1 4chan-ads.org
 127.0.0.1 4cugtlwvzr6mx6aj.partner.net.daraz.com
 127.0.0.1 4d245cb24ecadc5f97ad90571a32af38.pocklag.pl
@@ -1012,6 +1019,7 @@
 127.0.0.1 631.dlads.cn
 127.0.0.1 63341ad6b2a097bf30cc530a2ab3dce3.dopla.com.pl
 127.0.0.1 636-145.api.tt.omtrdc.net
+127.0.0.1 637ad964271257ca2a8abfb6cb88c324.puoli.pl
 127.0.0.1 63c.us.api.tt.omtrdc.net
 127.0.0.1 6410c7b36b7a4e8e8c1ad60ec7506d60.podisat.pl
 127.0.0.1 6424c28994fd9ade08e585a6ad2041e5.dopla.com.pl
@@ -1022,6 +1030,7 @@
 127.0.0.1 6888i.top
 127.0.0.1 69-5tew.top
 127.0.0.1 698daad2.tt.omtrdc.net
+127.0.0.1 69a3ad94244833ee3aec2052ce7bf2b7.puoli.pl
 127.0.0.1 69b41f240ad380ee149e69c09cbc8032.sijla.pl
 127.0.0.1 69b6d38a6ec64fec5e0e6ad4e90eedbe.ffrosa.pl
 127.0.0.1 69vip.pro
@@ -1033,6 +1042,7 @@
 127.0.0.1 6d734ecd6ebdea52eead1c9803697066.liamartem.pl
 127.0.0.1 6eqa98t4ad6h4c8h.net.daraz.com
 127.0.0.1 6fff7b700eead3cb5099ba2d80490310.psdora.pl
+127.0.0.1 6firewall.0psdadj3szljo593.net.daraz.com
 127.0.0.1 6gtest.bj2cu.u3.ucweb.com
 127.0.0.1 6ltij743rmvywhup.ad.net.daraz.com
 127.0.0.1 6ltij743rmvywhup.api-xspace.net.daraz.com
@@ -1048,7 +1058,6 @@
 127.0.0.1 72156805274cbded7c718cad7ec66ed1.dopla.com.pl
 127.0.0.1 734b5622159f4b3add49dfba1f4902ce.teratu.pl
 127.0.0.1 73ad252ea1bb6a9e0830dcc604310bf4.liamartem.pl
-127.0.0.1 749cad1027.com
 127.0.0.1 74edf210ec8e73b7ad0c45c2d99c033f.serswise.pl
 127.0.0.1 760ead33eb.com
 127.0.0.1 76d66bade2df7a7da9205c00ba4e5e99.watchdene.pl
@@ -1254,7 +1263,6 @@
 127.0.0.1 a.32.17.251espn.hb-api.tt.omtrdc.net
 127.0.0.1 a.6984f5d294b35c5575efc0312f3e6e03bbb4437adb0e92f297ec07e1.com
 127.0.0.1 a.ad.gt
-127.0.0.1 a.ad.guru
 127.0.0.1 a.ad.playstation.net
 127.0.0.1 a.ad7.com
 127.0.0.1 a.adk2x.com
@@ -1284,7 +1292,6 @@
 127.0.0.1 a.bf-ad.net
 127.0.0.1 a.bizonads-ssp.com
 127.0.0.1 a.blogroll.click
-127.0.0.1 a.bp9l1pi60.pro
 127.0.0.1 a.cntv.cn
 127.0.0.1 a.cnzz.com
 127.0.0.1 a.cookpad-ads.com
@@ -1312,13 +1319,13 @@
 127.0.0.1 a.unoadsrv.com
 127.0.0.1 a.vlion.cn
 127.0.0.1 a.vserv.mobi
-127.0.0.1 a.wlen1bty92.pro
 127.0.0.1 a.youdao.com
 127.0.0.1 a.zxcvads.com
 127.0.0.1 a025-8.idmapper.api.api.tt.omtrdc.net
 127.0.0.1 a07ad39e4828442dbb54b947ed15b9a1.hb-fa-dev.tt.omtrdc.net
 127.0.0.1 a1.api.bbc.co.uk
 127.0.0.1 a1.api.bbc.com
+127.0.0.1 a11-67-cn.hb-api.tt.omtrdc.net
 127.0.0.1 a18n5nh14xos.click
 127.0.0.1 a1c4bf1b4119440ee08fad19d9e32ed0.hb-fa-dev.tt.omtrdc.net
 127.0.0.1 a21130e401e541ad32271edc564f0f13.pyskalo.pl
@@ -1436,6 +1443,7 @@
 127.0.0.1 abcotv.hb-api.tt.omtrdc.net
 127.0.0.1 abeenrwvyrew.top
 127.0.0.1 abeenrwvyrqj.top
+127.0.0.1 abkajbvozmbwa.top
 127.0.0.1 ablink-api.i-api.tt.omtrdc.net
 127.0.0.1 ablink.click.depop.com
 127.0.0.1 about.twitter.com
@@ -1483,6 +1491,7 @@
 127.0.0.1 access.pangolin-sdk-toutiao-b.com
 127.0.0.1 access.partner.net.daraz.com
 127.0.0.1 access.twitter.com
+127.0.0.1 accessbot.pro
 127.0.0.1 accidentadvicehelpline.co.uk
 127.0.0.1 acclaimculminate.top
 127.0.0.1 acclog001.shop-pro.jp
@@ -1492,6 +1501,7 @@
 127.0.0.1 account-billing-update.com
 127.0.0.1 account-emailvision-www.partner-payseller.net.daraz.com
 127.0.0.1 account-emailvisionaccount-emailvisionaccount-emailvision.partner-pay-getter.net.daraz.com
+127.0.0.1 account-metric-mvm-vcnndapi.hb-api.tt.omtrdc.net
 127.0.0.1 account.1192360.sitamet.click
 127.0.0.1 account.api-docsprint-mo.net.daraz.com
 127.0.0.1 account.api.drift.com
@@ -1974,6 +1984,7 @@
 127.0.0.1 ad.crwdcntrl.netadapj.rtb.adx1.com
 127.0.0.1 ad.culture.pl
 127.0.0.1 ad.cya2.net
+127.0.0.1 ad.cyycoy.com
 127.0.0.1 ad.danawa.com
 127.0.0.1 ad.dangkygo88.in
 127.0.0.1 ad.daum.net
@@ -2375,6 +2386,7 @@
 127.0.0.1 ad.plus
 127.0.0.1 ad.poco.madserving.com
 127.0.0.1 ad.policeone.com
+127.0.0.1 ad.polskiprzemysl.com.pl
 127.0.0.1 ad.polymorphicads.jp
 127.0.0.1 ad.popin.cc
 127.0.0.1 ad.pornimg.xyz
@@ -2441,6 +2453,7 @@
 127.0.0.1 ad.seeyouyima.com
 127.0.0.1 ad.sensismediasmart.com
 127.0.0.1 ad.sensismediasmart.com.au
+127.0.0.1 ad.serenitysphereforyou.com
 127.0.0.1 ad.serv1for.pro
 127.0.0.1 ad.setn.com
 127.0.0.1 ad.setrowid.com
@@ -2591,6 +2604,7 @@
 127.0.0.1 ad.yo88vn.com
 127.0.0.1 ad.yo88vn.vip
 127.0.0.1 ad.yonhapnews.co.kr
+127.0.0.1 ad.youku.com
 127.0.0.1 ad.yourcomfortzenzone.com
 127.0.0.1 ad.yourexpertpath.com
 127.0.0.1 ad.yourfitfocus.com
@@ -2724,7 +2738,6 @@
 127.0.0.1 ad1e220ebc.com
 127.0.0.1 ad1game.ru
 127.0.0.1 ad1rtb.com
-127.0.0.1 ad1x.com
 127.0.0.1 ad2.360yield.com
 127.0.0.1 ad2.adecn.com
 127.0.0.1 ad2.adfarm1.adition.com
@@ -2817,6 +2830,7 @@
 127.0.0.1 ad2games.com
 127.0.0.1 ad2iction.com
 127.0.0.1 ad2links.com
+127.0.0.1 ad2the.net
 127.0.0.1 ad2up.com
 127.0.0.1 ad2upapp.com
 127.0.0.1 ad3.adfarm1.adition.com
@@ -2946,8 +2960,6 @@
 127.0.0.1 ad6.horvitznewspapers.net
 127.0.0.1 ad6.on.cc
 127.0.0.1 ad6.speedbit.com
-127.0.0.1 ad6011520d.com
-127.0.0.1 ad64463ef9.com
 127.0.0.1 ad6digital.checkm8.com
 127.0.0.1 ad6media.co.uk
 127.0.0.1 ad6media.fr
@@ -3088,6 +3100,7 @@
 127.0.0.1 ade3.b.tt.omtrdc.net
 127.0.0.1 adeko.mobi
 127.0.0.1 adekwatnosc24h.click
+127.0.0.1 adekwatnyfakt.click
 127.0.0.1 adelachrist.top
 127.0.0.1 adelogs.adobe.com
 127.0.0.1 aden.baidu.com
@@ -3181,7 +3194,7 @@
 127.0.0.1 admidadsp.com
 127.0.0.1 admin-2-6.idmapper.api.api.tt.omtrdc.net
 127.0.0.1 admin-api.nummus.tt.omtrdc.net
-127.0.0.1 admin.ad.guru
+127.0.0.1 admin-prod-saa-sip.hb-api.tt.omtrdc.net
 127.0.0.1 admin.ads.basal.ca
 127.0.0.1 admin.adsplay.net
 127.0.0.1 admin.adstuff.io
@@ -3192,6 +3205,7 @@
 127.0.0.1 admin.update.cochat.tt.omtrdc.net
 127.0.0.1 admin.vserv.mobi
 127.0.0.1 admin.www.partner.net.daraz.com
+127.0.0.1 admin2.fpssl.hb-api.tt.omtrdc.net
 127.0.0.1 adminicdn-print-motratorcdn-print-mo-yancancook.net.daraz.com
 127.0.0.1 administration.hb-api.tt.omtrdc.net
 127.0.0.1 administrator-fresheggwwwiad.partner-pay.net.daraz.com
@@ -3222,12 +3236,14 @@
 127.0.0.1 adnewnc.app.autohome.com.cn
 127.0.0.1 adnitro.pro
 127.0.0.1 adnotacjaszybka.click
+127.0.0.1 adnotacje24.click
 127.0.0.1 adnxs-simple.com
 127.0.0.1 adnxs.com
 127.0.0.1 adnxs.net
 127.0.0.1 adnxs.revsci.net
 127.0.0.1 ado.pro-market.net
 127.0.0.1 ado52.tt.omtrdc.net
+127.0.0.1 adobe-analytics-dc.belastingdienst.nl
 127.0.0.1 adobe-analytics.vionicshoes.com
 127.0.0.1 adobe-dev-landingpageprefix.descubre.interbank.pe
 127.0.0.1 adobe-ep.cms.gov
@@ -4085,7 +4101,6 @@
 127.0.0.1 ads.greatoutdoors.com
 127.0.0.1 ads.gree.net
 127.0.0.1 ads.greenbaypressgazette.com
-127.0.0.1 ads.greengeeks.com
 127.0.0.1 ads.greenvilleonline.com
 127.0.0.1 ads.grindinggears.com
 127.0.0.1 ads.groupcommerce.com
@@ -4248,6 +4263,7 @@
 127.0.0.1 ads.kiemsat.vn
 127.0.0.1 ads.kinxxx.com
 127.0.0.1 ads.kitidi.com
+127.0.0.1 ads.klewmedia.com
 127.0.0.1 ads.klp.no
 127.0.0.1 ads.kompass.com
 127.0.0.1 ads.konsept.is
@@ -5019,13 +5035,13 @@
 127.0.0.1 ads.waploaded.com
 127.0.0.1 ads.waps.cn
 127.0.0.1 ads.wapx.cn
-127.0.0.1 ads.warrelics.eu
 127.0.0.1 ads.wasu.tv
 127.0.0.1 ads.watchmygf.net
 127.0.0.1 ads.watson.ch
 127.0.0.1 ads.weather.ca
 127.0.0.1 ads.weathercn.com
 127.0.0.1 ads.web.de
+127.0.0.1 ads.web.nl
 127.0.0.1 ads.web.tr
 127.0.0.1 ads.web1tv.de
 127.0.0.1 ads.web21.com
@@ -5182,7 +5198,6 @@
 127.0.0.1 ads10.focalink.com
 127.0.0.1 ads10.speedbit.com
 127.0.0.1 ads10.unoadsrv.com
-127.0.0.1 ads101.adtelligent.com
 127.0.0.1 ads101.unoadsrv.com
 127.0.0.1 ads101.vertamedia.com
 127.0.0.1 ads102.adtelligent.com
@@ -5990,6 +6005,7 @@
 127.0.0.1 adserver.pl
 127.0.0.1 adserver.planet-multiplayer.de
 127.0.0.1 adserver.pld.dk
+127.0.0.1 adserver.pm
 127.0.0.1 adserver.portal.pl
 127.0.0.1 adserver.portalofevil.com
 127.0.0.1 adserver.portugalmail.net
@@ -6015,6 +6031,7 @@
 127.0.0.1 adserver.smashtv.com
 127.0.0.1 adserver.smgfiles.com
 127.0.0.1 adserver.snapads.com
+127.0.0.1 adserver.sniffies.com
 127.0.0.1 adserver.snowball.com
 127.0.0.1 adserver.so-rummet.se
 127.0.0.1 adserver.softonic.com
@@ -6086,7 +6103,6 @@
 127.0.0.1 adserver4.fluent.ltd.uk
 127.0.0.1 adserver9.contextad.com
 127.0.0.1 adserverc.cliipa.com
-127.0.0.1 adservercheck.net
 127.0.0.1 adserverhd.com
 127.0.0.1 adserverplus.com
 127.0.0.1 adserverpub.com
@@ -6102,7 +6118,6 @@
 127.0.0.1 adservice.dk
 127.0.0.1 adservice.google.ad
 127.0.0.1 adservice.google.al
-127.0.0.1 adservice.google.az
 127.0.0.1 adservice.google.be
 127.0.0.1 adservice.google.bf
 127.0.0.1 adservice.google.bi
@@ -6119,6 +6134,7 @@
 127.0.0.1 adservice.google.co.jp
 127.0.0.1 adservice.google.co.ke
 127.0.0.1 adservice.google.co.ls
+127.0.0.1 adservice.google.co.ma
 127.0.0.1 adservice.google.co.tz
 127.0.0.1 adservice.google.co.ug
 127.0.0.1 adservice.google.co.uz
@@ -6227,7 +6243,6 @@
 127.0.0.1 adservr.de
 127.0.0.1 adservrs.com
 127.0.0.1 adservrs.com.edgekey.net
-127.0.0.1 adserwer.afilo.pl
 127.0.0.1 adserwer.xwords.pl
 127.0.0.1 adsession.com
 127.0.0.1 adsession.exacdn.com
@@ -6245,7 +6260,6 @@
 127.0.0.1 adsfcdn.com
 127.0.0.1 adsfeed.brabys.com
 127.0.0.1 adsfeed3.brabys.co.za
-127.0.0.1 adsfgy.odtgs.xyz
 127.0.0.1 adsfile.bssdlbig.kugou.com
 127.0.0.1 adsfile.qq.com
 127.0.0.1 adsfirm.com
@@ -6388,7 +6402,6 @@
 127.0.0.1 adsnative.com
 127.0.0.1 adsnetworkbr.ml
 127.0.0.1 adsnetworkplus.com
-127.0.0.1 adsnetworkserver.com
 127.0.0.1 adsnew.gsmarena.com
 127.0.0.1 adsninja.b-cdn.net
 127.0.0.1 adsninja.ca
@@ -6844,14 +6857,12 @@
 127.0.0.1 advancelocal-adapter-image-uploads.s3.amazonaws.com
 127.0.0.1 advancelocal.blueconic.net
 127.0.0.1 advancelocalthemes.net.daraz.com
-127.0.0.1 advancementaccrue.com
 127.0.0.1 advancemycommission.com
 127.0.0.1 advancenative.com
 127.0.0.1 advancenopregnancy.com
 127.0.0.1 advanceofferstk.com
 127.0.0.1 advancepeak.info
 127.0.0.1 advanceprocarpet.comwww.14diasparaativar.com
-127.0.0.1 advancesrl.eu
 127.0.0.1 advancets.org
 127.0.0.1 advancing.acams.org
 127.0.0.1 advancinginfinitely.com
@@ -6922,7 +6933,6 @@
 127.0.0.1 adventurejourney.cfd
 127.0.0.1 adventureparkcostarica.com
 127.0.0.1 adventureprojectiononly.com
-127.0.0.1 adventurercraft.com
 127.0.0.1 adventuresbest.com
 127.0.0.1 adventuresofskip.com
 127.0.0.1 adventureurgently.com
@@ -7049,6 +7059,7 @@
 127.0.0.1 advertisers.speakol.com
 127.0.0.1 advertiseru.net
 127.0.0.1 advertiserurl.com
+127.0.0.1 advertises-for-business.com
 127.0.0.1 advertiseserve.com
 127.0.0.1 advertisespace.com
 127.0.0.1 advertiseworld.com
@@ -7062,6 +7073,7 @@
 127.0.0.1 advertising.amazon.in
 127.0.0.1 advertising.aol.com
 127.0.0.1 advertising.apartmenttherapy.com
+127.0.0.1 advertising.apple.com
 127.0.0.1 advertising.bayoubuzz.com
 127.0.0.1 advertising.bbcworldwide.com
 127.0.0.1 advertising.christiansunite.com
@@ -7410,6 +7422,7 @@
 127.0.0.1 agency.quant-online.click
 127.0.0.1 agenda-6.idmapper.api.tt.omtrdc.net
 127.0.0.1 agentchannel.api.duapp.com
+127.0.0.1 agentwypadkowy.click
 127.0.0.1 aggrologis.top
 127.0.0.1 agility.tbs.com
 127.0.0.1 agitated-potential.pro
@@ -7445,6 +7458,7 @@
 127.0.0.1 aid-ad.jp
 127.0.0.1 aidenhome-server-cdnblogwebip.hb-api.tt.omtrdc.net
 127.0.0.1 aijiamao.top
+127.0.0.1 ainposr-xqo.top
 127.0.0.1 ainpostpl.top
 127.0.0.1 aio.lp.mydas.mobi
 127.0.0.1 aipostpol.top
@@ -7471,6 +7485,7 @@
 127.0.0.1 akilacms.adswizz.com
 127.0.0.1 akme-club.pro
 127.0.0.1 akn.analytics.autodesk.com
+127.0.0.1 akredytacyjnosc.click
 127.0.0.1 aks-245890-azure-24589089-r-6ad05a-8b3314f6.hb-fa-dev.tt.omtrdc.net
 127.0.0.1 aks-a14-uat-centralus-dns-efab0989.hb-fa-dev.tt.omtrdc.net
 127.0.0.1 aks-aztest01-dns-f1f5e716.hb-fa-dev.tt.omtrdc.net
@@ -7490,6 +7505,7 @@
 127.0.0.1 aksla.polskitred.top
 127.0.0.1 aksvnetdns-5ad6992b.hb-fa-dev.tt.omtrdc.net
 127.0.0.1 akswbeta-dns-7c6db5d1.hb-fa-dev.tt.omtrdc.net
+127.0.0.1 aktprawny.click
 127.0.0.1 aktualizacja.top
 127.0.0.1 aktualnefakty.click
 127.0.0.1 aktualneinformacje.click
@@ -7624,7 +7640,7 @@
 127.0.0.1 amaasretrims.top
 127.0.0.1 amads.fun
 127.0.0.1 amads.xyz
-127.0.0.1 amavirgin.pro
+127.0.0.1 amassmodel.top
 127.0.0.1 amaz.emailon.top
 127.0.0.1 amazinelistrun.pro
 127.0.0.1 amazon-adsystem.com
@@ -7642,6 +7658,7 @@
 127.0.0.1 amendedcar.top
 127.0.0.1 amer.rel.msn.com
 127.0.0.1 american.laughingcircuit.click
+127.0.0.1 americvbet.click
 127.0.0.1 amiapi.adsafeprotected.com
 127.0.0.1 amiauth.adsafeprotected.com
 127.0.0.1 amici.adsafeprotected.com
@@ -7739,6 +7756,7 @@
 127.0.0.1 analytics-nssl.bradyid.com
 127.0.0.1 analytics-phi-nfl.yinzcam.com
 127.0.0.1 analytics-pit-nfl.yinzcam.com
+127.0.0.1 analytics-prd.aws.wehaa.net
 127.0.0.1 analytics-prod-gcp.ff.avast.com
 127.0.0.1 analytics-prod-ingress.bricknet.com
 127.0.0.1 analytics-prod2.glance-internal.inmobi.com
@@ -7767,6 +7785,7 @@
 127.0.0.1 analytics-tracker.thescore.com
 127.0.0.1 analytics-tracking.meetup.com
 127.0.0.1 analytics-wcms.joins.net
+127.0.0.1 analytics-wlan-switch.net.daraz.com
 127.0.0.1 analytics-yancancook-cdn1.net.daraz.com
 127.0.0.1 analytics-zone-1.api.leadfamly.com
 127.0.0.1 analytics.112.2o7.net
@@ -8169,6 +8188,7 @@
 127.0.0.1 analytics.inform.com
 127.0.0.1 analytics.inlinemanual.com
 127.0.0.1 analytics.innologica.com
+127.0.0.1 analytics.insendi.com
 127.0.0.1 analytics.iraiser.eu
 127.0.0.1 analytics.irancell.ir
 127.0.0.1 analytics.ishopchangi.com
@@ -8268,7 +8288,6 @@
 127.0.0.1 analytics.media-proweb.de
 127.0.0.1 analytics.mefeedia.com
 127.0.0.1 analytics.meituan.net
-127.0.0.1 analytics.mercadolibre.cl
 127.0.0.1 analytics.mercadolibre.co.cr
 127.0.0.1 analytics.mercadolibre.com.do
 127.0.0.1 analytics.mercadolibre.com.ec
@@ -8392,6 +8411,7 @@
 127.0.0.1 analytics.paddle.com
 127.0.0.1 analytics.pagefly.io
 127.0.0.1 analytics.pancake.vn
+127.0.0.1 analytics.pangle-ads.com
 127.0.0.1 analytics.partcommunity.com
 127.0.0.1 analytics.paste.ee
 127.0.0.1 analytics.peraichi.com
@@ -8549,6 +8569,7 @@
 127.0.0.1 analytics.snidigital.com
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 analytics.socialbakers.com
+127.0.0.1 analytics.socialcube.me
 127.0.0.1 analytics.sohatv.vn
 127.0.0.1 analytics.soluforce.com
 127.0.0.1 analytics.sona-mira.co.jp
@@ -8825,7 +8846,9 @@
 127.0.0.1 androidgo.duapp.com
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 andrqd.play.aiseet.atianqi.com
+127.0.0.1 aneksowy24h.click
 127.0.0.1 anemenzemkwkm.top
+127.0.0.1 anethumangoise.top
 127.0.0.1 anewordeal.top
 127.0.0.1 anewuat-wserver-r-itssl.hb-api.tt.omtrdc.net
 127.0.0.1 anfilm.mobi
@@ -8836,7 +8859,6 @@
 127.0.0.1 anicli.click
 127.0.0.1 animadvert.life
 127.0.0.1 animated-button.pro
-127.0.0.1 animated-company.pro
 127.0.0.1 animelab.adspeed.net
 127.0.0.1 ank.btspolsky.top
 127.0.0.1 anldnews.pro
@@ -9254,10 +9276,8 @@
 127.0.0.1 api-pravoved.s3.amazonaws.com
 127.0.0.1 api-pre-webimhost.net.daraz.com
 127.0.0.1 api-presns2.twtelecom.net.daraz.com
-127.0.0.1 api-print-mo.net.daraz.com
 127.0.0.1 api-privtatic-privtage.net.daraz.com
 127.0.0.1 api-prod-ingest.gls.tt.omtrdc.net
-127.0.0.1 api-production-amec.net.daraz.com
 127.0.0.1 api-production-k8s-local-1v8sr3-1185111760.net.daraz.com
 127.0.0.1 api-promotion-worker.tt.omtrdc.net
 127.0.0.1 api-proxy.bee7.com
@@ -9268,7 +9288,6 @@
 127.0.0.1 api-read.facebook.com
 127.0.0.1 api-reporting-staging.tt.omtrdc.net
 127.0.0.1 api-research.cloud-research.cloud.tt.omtrdc.net
-127.0.0.1 api-resetdatar-oa-1ocsprint-mo.net.daraz.com
 127.0.0.1 api-resource.youzicheng.net
 127.0.0.1 api-rewarded-video.fyber.com
 127.0.0.1 api-rssocks.youzicheng.net
@@ -9279,12 +9298,8 @@
 127.0.0.1 api-services.api-platform.origin.dev.ip.tt.omtrdc.net
 127.0.0.1 api-sitgl-sitbr.api.lyve.tt.omtrdc.net
 127.0.0.1 api-slotxo.com
-127.0.0.1 api-socialxocsns2.twtelecom.net.daraz.com
 127.0.0.1 api-spcar40ing.net.daraz.com
-127.0.0.1 api-sprawing.net.daraz.com
 127.0.0.1 api-sprindmetric.net.daraz.com
-127.0.0.1 api-spring-cvs-car10.net.daraz.com
-127.0.0.1 api-spring-partnerdevops.net.daraz.com
 127.0.0.1 api-spring.csr41.net.daraz.com
 127.0.0.1 api-spring.r-oa-2.net.daraz.com
 127.0.0.1 api-spring02.net.daraz.com
@@ -9324,13 +9339,9 @@
 127.0.0.1 api-static-stage.oapi.net.daraz.com
 127.0.0.1 api-static-stage.pluto.net.daraz.com
 127.0.0.1 api-static-stage.rg-sg.net.daraz.com
-127.0.0.1 api-static-stage.stgxwww.net.daraz.com
-127.0.0.1 api-static-stage.summer.net.daraz.com
 127.0.0.1 api-static-stage01-car21-web-wwww0node.net.daraz.com
 127.0.0.1 api-static-stage23pago.docs.net.daraz.com
 127.0.0.1 api-static-stagedata.freya.net.daraz.com
-127.0.0.1 api-static-stagelib.net.daraz.com
-127.0.0.1 api-static-stagepush-drzlive.net.daraz.com
 127.0.0.1 api-stg.ensonhaber.com
 127.0.0.1 api-switch.net.daraz.com
 127.0.0.1 api-talaria.tt.omtrdc.net
@@ -9520,6 +9531,7 @@
 127.0.0.1 api.android.dianru.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 api.anythinktech.com
+127.0.0.1 api.apiok.net.iberostar.com
 127.0.0.1 api.app.skysrt.com
 127.0.0.1 api.appc-b-vir-d1.vz8y.p1.tt.omtrdc.net
 127.0.0.1 api.appcloudbox.net
@@ -9877,6 +9889,7 @@
 127.0.0.1 api.monetate.net
 127.0.0.1 api.monetizer101.com
 127.0.0.1 api.moogos.com
+127.0.0.1 api.mouseflow.com
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 api.mu88.ag
 127.0.0.1 api.mu88.mu
@@ -10303,7 +10316,6 @@
 127.0.0.1 app.auge.pro.br
 127.0.0.1 app.chat.global.xiaomi.net.iberostar.com
 127.0.0.1 app.corp.tableausoftware.com
-127.0.0.1 app.extradirect.click
 127.0.0.1 app.flurry.com
 127.0.0.1 app.indoleads.com
 127.0.0.1 app.leadspin.dk
@@ -10389,6 +10401,7 @@
 127.0.0.1 aqiongbei.top
 127.0.0.1 aqqjqknzvnka.top
 127.0.0.1 aqua-adserver.com
+127.0.0.1 aqwmbwybzwbmv.top
 127.0.0.1 ar-l.hb-api.tt.omtrdc.net
 127.0.0.1 ar.ad.lgsmartad.com
 127.0.0.1 ar.ads.justpremium.com
@@ -10406,6 +10419,7 @@
 127.0.0.1 archive.coolerads.com
 127.0.0.1 arcor-partner.de
 127.0.0.1 arcturus-investing.pro
+127.0.0.1 arewzvqbeklan.top
 127.0.0.1 arewzvqbevrzj.top
 127.0.0.1 argo.v2.api.tt.omtrdc.net
 127.0.0.1 arielsystem.pro
@@ -10413,6 +10427,8 @@
 127.0.0.1 arlyreven.top
 127.0.0.1 armada-api.corp.tt.omtrdc.net
 127.0.0.1 arn.deliveryengine.adswizz.com
+127.0.0.1 aromatic-possibility.pro
+127.0.0.1 arpadd822.wixstudio.io
 127.0.0.1 arpe.top
 127.0.0.1 arqznlwzkkaev.top
 127.0.0.1 arqznlwzkkjla.top
@@ -10426,6 +10442,7 @@
 127.0.0.1 artisticcount.pro
 127.0.0.1 arto.nergas.top
 127.0.0.1 artpress.top
+127.0.0.1 artykulik24.click
 127.0.0.1 arvbjqavenjba.top
 127.0.0.1 arvbjqavenqbj.top
 127.0.0.1 aryabzerznbkj.top
@@ -10500,7 +10517,6 @@
 127.0.0.1 asia.adswizz.com
 127.0.0.1 asia2.idmapper.api.tt.omtrdc.net
 127.0.0.1 asian-maturedates.click
-127.0.0.1 asianporn.xyz.7mmtv.top
 127.0.0.1 asiapushstan17.click
 127.0.0.1 askads.ask.com
 127.0.0.1 askfm.adspirit.de
@@ -10582,7 +10598,6 @@
 127.0.0.1 attainmentbiss.top
 127.0.0.1 attitudebiz.top
 127.0.0.1 attr.union.ucweb.com
-127.0.0.1 attractiveother.pro
 127.0.0.1 attribution.adswizz.com
 127.0.0.1 atzzrq.tbs.co.jp
 127.0.0.1 au-3-6.idmapper.api.api.tt.omtrdc.net
@@ -10609,6 +10624,7 @@
 127.0.0.1 audiogo.adswizz.com
 127.0.0.1 audiomatic.adswizz.com
 127.0.0.1 audioserve.adswizz.com
+127.0.0.1 augustads.com
 127.0.0.1 auiopt.unityads.unity3d.com
 127.0.0.1 auntlyseniors.top
 127.0.0.1 aupeo.adswizz.com
@@ -10642,6 +10658,7 @@
 127.0.0.1 authenticatemail.partner-docsnewnautilus12345proxy3.net.daraz.com
 127.0.0.1 authenticatemail.partner-marketing-chef.net.daraz.com
 127.0.0.1 authenticatemail.partner.berndpulchmedotcom-merchant.net.daraz.com
+127.0.0.1 authenticatemail.partner.net.daraz.com
 127.0.0.1 authenticatemail.pull-bd-alt1-drzlive-partner.net.daraz.com
 127.0.0.1 authenticationkeele-nnw-leis-mc-leis.mail.partner.net.daraz.com
 127.0.0.1 authenticatupload-beta-interaction.partner.net.daraz.com
@@ -10685,8 +10702,6 @@
 127.0.0.1 avenueroadadvertising.com
 127.0.0.1 average-champion.pro
 127.0.0.1 aveugleghettos.top
-127.0.0.1 avgle.com.7mmtv.top
-127.0.0.1 avgle.com.jav-7mmtv.top
 127.0.0.1 avi-gads88000c.pubmatic.com
 127.0.0.1 avi-showads77000.pubmatic.com
 127.0.0.1 aviatournivaladdiev.hb-api.tt.omtrdc.net
@@ -10739,11 +10754,16 @@
 127.0.0.1 azerpost-aqh.top
 127.0.0.1 azoogleads.com
 127.0.0.1 azqqloborwwba.top
+127.0.0.1 azvneyrknejew.top
+127.0.0.1 azvneyrknekev.top
+127.0.0.1 azvneyrknevjn.top
 127.0.0.1 azwkjjkmbqavv.top
+127.0.0.1 azwkjjkmbqvye.top
 127.0.0.1 azx.takilon.top
 127.0.0.1 azxhnt.uniformadvantage.com
 127.0.0.1 azxsd.pro
 127.0.0.1 azyyyeyeqeaav.top
+127.0.0.1 azyyyeyeqrelm.top
 127.0.0.1 b-api.facebook.com
 127.0.0.1 b-api.omnitagjs.com
 127.0.0.1 b-click.net
@@ -10816,8 +10836,6 @@
 127.0.0.1 badjs.weixinbridge.com
 127.0.0.1 badk0utla2ga56q8.net.daraz.com
 127.0.0.1 bads.creative-serving.com
-127.0.0.1 badsabs.com
-127.0.0.1 badsans.com
 127.0.0.1 badsbads.com
 127.0.0.1 badsecs.com
 127.0.0.1 badsender.fr
@@ -10838,6 +10856,7 @@
 127.0.0.1 bag.newprogram.top
 127.0.0.1 bagdepartment.top
 127.0.0.1 baggy-fail.pro
+127.0.0.1 bagiefights.top
 127.0.0.1 bagleadership.top
 127.0.0.1 bagwyncam.top
 127.0.0.1 bahm.byseniscon.top
@@ -10886,6 +10905,7 @@
 127.0.0.1 baltticpl.top
 127.0.0.1 baltticpll.top
 127.0.0.1 bam.programmtrad.top
+127.0.0.1 bamboo-partner.net.daraz.com
 127.0.0.1 bamboowww.partner.006-zigzagstr.net.daraz.com
 127.0.0.1 ban.programtts.top
 127.0.0.1 ban3ers.ero-advertising.com
@@ -11112,6 +11132,7 @@
 127.0.0.1 barren-date.pro
 127.0.0.1 barrenmixture.pro
 127.0.0.1 bas.newprogram.top
+127.0.0.1 bas.tex-prog.top
 127.0.0.1 base-usps.top
 127.0.0.1 base.api.my7v.com
 127.0.0.1 bashfuladvancedeliberately.com
@@ -11125,6 +11146,7 @@
 127.0.0.1 batchcream.click
 127.0.0.1 batecrowle.click
 127.0.0.1 bats.dazll.click
+127.0.0.1 battledninos.top
 127.0.0.1 bau.onlineprog.top
 127.0.0.1 bav.onlineprogram.click
 127.0.0.1 bav.programtts.top
@@ -11151,11 +11173,14 @@
 127.0.0.1 bbj.startto.top
 127.0.0.1 bbmrraevneawv.top
 127.0.0.1 bbmrraevnevnk.top
+127.0.0.1 bbnnjqwqaryaz.top
 127.0.0.1 bbs-1.idmapper.api.api.tt.omtrdc.net
 127.0.0.1 bbvbyzzyrebek.top
 127.0.0.1 bbvc.mmtsa.top
 127.0.0.1 bbvgd.formhh.top
 127.0.0.1 bbvgp.foryts.top
+127.0.0.1 bbwzzwremrqma.top
+127.0.0.1 bbwzzwremrrmr.top
 127.0.0.1 bbwzzwremrvkl.top
 127.0.0.1 bbxvsg.formhh.top
 127.0.0.1 bc-click.net
@@ -11163,7 +11188,6 @@
 127.0.0.1 bcb.neuru.top
 127.0.0.1 bcbsla.tt.hb-api.tt.omtrdc.net
 127.0.0.1 bccard.tt.hb-api.tt.omtrdc.net
-127.0.0.1 bcd7ad4271.com
 127.0.0.1 bcdn-god.we-stats.com
 127.0.0.1 bcdn.grmtas.com
 127.0.0.1 bce.baidu.com
@@ -11239,9 +11263,11 @@
 127.0.0.1 beloamalls.top
 127.0.0.1 beloved-ideal.pro
 127.0.0.1 bemydate.mobi
+127.0.0.1 bensonbethune.top
 127.0.0.1 bent2bent.pro
 127.0.0.1 beq.comfirty.top
 127.0.0.1 berativ.top
+127.0.0.1 berr.malza.top
 127.0.0.1 bersadshop.com
 127.0.0.1 berzde.lixprog.click
 127.0.0.1 beserte.pro
@@ -11277,9 +11303,9 @@
 127.0.0.1 besthealthblog.pro
 127.0.0.1 bestmarketstoday.click
 127.0.0.1 bestofmoneysurvey.top
-127.0.0.1 bestone.postgch.top
 127.0.0.1 bestopendownloads.com
 127.0.0.1 bestphoneapps.mobi
+127.0.0.1 bestsellerdnia.click
 127.0.0.1 bestvenadvertising.com
 127.0.0.1 bestwithdrawal.pro
 127.0.0.1 bet-x.heavycloud.top
@@ -11309,6 +11335,7 @@
 127.0.0.1 bezkresneprzyjemnosci.click
 127.0.0.1 bezpieczny-transfer.top
 127.0.0.1 bezposredniosc.click
+127.0.0.1 beztroskibeztenis.click
 127.0.0.1 beztroskiemomenty.click
 127.0.0.1 bf-ad.net
 127.0.0.1 bf.eutrty.top
@@ -11330,7 +11357,6 @@
 127.0.0.1 bi-analytics.cloudapp.net
 127.0.0.1 bi-api.fitanalytics.com
 127.0.0.1 bi.adview.pl
-127.0.0.1 bid.adservercheck.net
 127.0.0.1 bid.adview.cn
 127.0.0.1 bid.adview.com
 127.0.0.1 bid.g.doubleclick.net
@@ -11409,6 +11435,7 @@
 127.0.0.1 bittads.com
 127.0.0.1 bittoday.pro
 127.0.0.1 bitz.cashhs-news.top
+127.0.0.1 biuletynmiasta.click
 127.0.0.1 biz.live.xunlei.com
 127.0.0.1 biz5.sandai.net
 127.0.0.1 bizmoxie.top
@@ -11443,6 +11470,9 @@
 127.0.0.1 bkrzykymkvea.top
 127.0.0.1 bksdkconfig.play.cp81.ott.cibntv.net
 127.0.0.1 bksoup.v.qq.com
+127.0.0.1 bkvzrjrqvlzlv.top
+127.0.0.1 bkzwzyznzqabk.top
+127.0.0.1 bkzwzyznzqjzl.top
 127.0.0.1 bl.hoengnk2.click
 127.0.0.1 bl.lsisd.top
 127.0.0.1 bl.shotm.top
@@ -11548,7 +11578,10 @@
 127.0.0.1 bmbvrjylevrba.top
 127.0.0.1 bmfads.com
 127.0.0.1 bmjlzyjwwmbyr.top
+127.0.0.1 bmjlzyjwwmraz.top
 127.0.0.1 bmjlzyjwwmwaw.top
+127.0.0.1 bmjlzyjwwmwyk.top
+127.0.0.1 bmodelawaretrust.hb-api.tt.omtrdc.net
 127.0.0.1 bmonesbittburns.com.insight.hb-api.tt.omtrdc.net
 127.0.0.1 bms.partner.net.daraz.com
 127.0.0.1 bmvip.alimama.cn
@@ -11635,6 +11668,7 @@
 127.0.0.1 bouden-invest.pro
 127.0.0.1 bounce-ads.de
 127.0.0.1 bounceads.net
+127.0.0.1 bovineslagly.top
 127.0.0.1 bowed-common.pro
 127.0.0.1 bowresi.top
 127.0.0.1 boxadstop.com
@@ -11686,6 +11720,7 @@
 127.0.0.1 bravica.pro
 127.0.0.1 brc.goxsite.top
 127.0.0.1 breakingnews-24.pro
+127.0.0.1 brecciastroke.top
 127.0.0.1 bregman.click
 127.0.0.1 brettroads.com
 127.0.0.1 breynvqbjrww.top
@@ -11733,6 +11768,7 @@
 127.0.0.1 brprt.stsdk.vivo.com.cn
 127.0.0.1 bruceleadx1.com
 127.0.0.1 bruceleadx2.com
+127.0.0.1 brukowiecinfo.click
 127.0.0.1 brvkzwjrjzzav.top
 127.0.0.1 brwaraykbrkrv.top
 127.0.0.1 brwaraykbrlrl.top
@@ -11783,8 +11819,11 @@
 127.0.0.1 btt-club.pro
 127.0.0.1 btw.ero-advertising.com
 127.0.0.1 bubbly-condition.pro
+127.0.0.1 buda.forrum.top
 127.0.0.1 buda.tradx.top
+127.0.0.1 budda.forrum.top
 127.0.0.1 budda.tradx.top
+127.0.0.1 budowadrogi.click
 127.0.0.1 bugly.qq.com
 127.0.0.1 bugsee-api-prod.elasticbeanstalk.com
 127.0.0.1 build.partner.net.daraz.com
@@ -11801,11 +11840,11 @@
 127.0.0.1 buq.programtts.top
 127.0.0.1 burdensome-gene.pro
 127.0.0.1 burnett.radsport.pl
-127.0.0.1 burporess.pro
 127.0.0.1 bursa.conxxx.pro
 127.0.0.1 bus1.eutradepeopl.top
 127.0.0.1 bus2.eutradepeopl.top
 127.0.0.1 businesinitiative.top
+127.0.0.1 business-accounts-supports-pages-ads-development.vercel.app
 127.0.0.1 business-ads-support.com
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 business.adsverifyrestrictions.com
@@ -11815,6 +11854,7 @@
 127.0.0.1 businessenter.top
 127.0.0.1 businessenterfor.top
 127.0.0.1 businessenterr.top
+127.0.0.1 businesseszz.top
 127.0.0.1 businesseventskp.top
 127.0.0.1 businesshelp-center.pages.pro.br
 127.0.0.1 businesshelp-contact.pages.pro.br
@@ -11865,6 +11905,7 @@
 127.0.0.1 bwgmaska.mllight.top
 127.0.0.1 bwinc.hb-api.tt.omtrdc.net
 127.0.0.1 bwingrtracksdk.optimove.net
+127.0.0.1 bwmvzwkbqlkll.top
 127.0.0.1 bwmvzwkbqlmrz.top
 127.0.0.1 bwmxdg.kimono-365.jp
 127.0.0.1 bwp.download.com
@@ -11873,6 +11914,7 @@
 127.0.0.1 bwzlmmqwrrnea.top
 127.0.0.1 bxjch.top
 127.0.0.1 bxs5.tentaklsistem.click
+127.0.0.1 bxumze.gadsdentimes.com
 127.0.0.1 bxvh.formhh.top
 127.0.0.1 bybocla.everadpro.click
 127.0.0.1 bybyhh.inventnamb.click
@@ -11886,6 +11928,8 @@
 127.0.0.1 byr9k.interfoxprog.click
 127.0.0.1 bysah.everadpro.click
 127.0.0.1 bytcjaksoni.click
+127.0.0.1 byvammyazlwna.top
+127.0.0.1 byyas.papiashvili.top
 127.0.0.1 byzkrjamkqbal.top
 127.0.0.1 byzkrjamkqyjr.top
 127.0.0.1 byzkrjamkqykw.top
@@ -11895,6 +11939,7 @@
 127.0.0.1 bzndsz.top
 127.0.0.1 bzvgt.mmtsa.top
 127.0.0.1 bzzmlqkljkrw.top
+127.0.0.1 bzzmlqkljmrl.top
 127.0.0.1 bzzmlqkljyer.top
 127.0.0.1 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 127.0.0.1 c-adash.m.taobao.com
@@ -12057,6 +12102,7 @@
 127.0.0.1 campaign.adobe.com
 127.0.0.1 campaign.ateam-ad.jp
 127.0.0.1 canada14-lib-oa-1-admin8jenkins.net.daraz.com
+127.0.0.1 canada24.co
 127.0.0.1 canadapost-postescanada.uwpackege.top
 127.0.0.1 canadapro.pro
 127.0.0.1 canadvideotr.weebly.com
@@ -12310,6 +12356,7 @@
 127.0.0.1 cdn.engine.adsupply.com
 127.0.0.1 cdn.engine.labs.adsupply.com
 127.0.0.1 cdn.exoticads.com
+127.0.0.1 cdn.fds.api.xiaomi.com
 127.0.0.1 cdn.flurry.com
 127.0.0.1 cdn.fusionads.net
 127.0.0.1 cdn.gameads.io
@@ -12438,6 +12485,7 @@
 127.0.0.1 centralads.simpli.fi
 127.0.0.1 centro.pixel.ad
 127.0.0.1 centrum24.pro
+127.0.0.1 centrumkamera.click
 127.0.0.1 cert-click-oa-1.net.daraz.com
 127.0.0.1 cert-lib-oa-uploadsemailvision.net.daraz.com
 127.0.0.1 cert.share.emailvision.net.daraz.com
@@ -12579,6 +12627,7 @@
 127.0.0.1 chdhar-www.partner.net.daraz.com
 127.0.0.1 chdr02-www.partner.net.daraz.com
 127.0.0.1 che.ch-pemx.top
+127.0.0.1 che.ch-peyf.top
 127.0.0.1 che.che-pcht.top
 127.0.0.1 cheap-ads.net
 127.0.0.1 cheap-result.pro
@@ -12621,6 +12670,7 @@
 127.0.0.1 chfos.dddplat.top
 127.0.0.1 chhd.formhh.top
 127.0.0.1 chickenads.offerstrack.net
+127.0.0.1 chiefegg.pro
 127.0.0.1 chiefoil.top
 127.0.0.1 chiliadv.com
 127.0.0.1 chimera.hb-api.tt.omtrdc.net
@@ -12687,7 +12737,6 @@
 127.0.0.1 cityadspix.com
 127.0.0.1 cityadstrack.com
 127.0.0.1 civadsoo.net
-127.0.0.1 civil.topendpower.top
 127.0.0.1 ciwhacheho.pro
 127.0.0.1 cixyzui0.pro
 127.0.0.1 cj.aboutnews.top
@@ -12721,7 +12770,6 @@
 127.0.0.1 cl.yourchance.top
 127.0.0.1 cl0ms.top
 127.0.0.1 cladsneezesugar.com
-127.0.0.1 claim-dana-kaget.adsme.biz.id
 127.0.0.1 claimdelude.top
 127.0.0.1 clairiose.pro
 127.0.0.1 claroads.com
@@ -12735,6 +12783,7 @@
 127.0.0.1 clean.api.hermesccloud.com
 127.0.0.1 cleaningmovies.analytics.qlook.net
 127.0.0.1 cleanmediaads.com
+127.0.0.1 clear-speech.pro
 127.0.0.1 clearancetastybroadsheet.com
 127.0.0.1 clearchannel.deliveryengine.adswizz.com
 127.0.0.1 clefsgast.top
@@ -12871,7 +12920,6 @@
 127.0.0.1 click.comm.rcibank.co.uk
 127.0.0.1 click.community.carousell.com
 127.0.0.1 click.compli.com
-127.0.0.1 click.cyclegear.com
 127.0.0.1 click.dagbladet.no
 127.0.0.1 click.dangdang.com
 127.0.0.1 click.datanyze.com
@@ -12917,6 +12965,7 @@
 127.0.0.1 click.expoclknw.com
 127.0.0.1 click.eyk.net
 127.0.0.1 click.favordelivery.com
+127.0.0.1 click.financialglobalhub.com
 127.0.0.1 click.findyourbodybliss.com
 127.0.0.1 click.flourishfrontiershub.com
 127.0.0.1 click.food.mercato.com
@@ -12949,6 +12998,7 @@
 127.0.0.1 click.hooligapps.com
 127.0.0.1 click.hotlog.ru
 127.0.0.1 click.howdoesin.net
+127.0.0.1 click.hqbath.net
 127.0.0.1 click.hubspotanalytics.com
 127.0.0.1 click.i.southwesternrailway.com
 127.0.0.1 click.icptrack.com
@@ -12980,6 +13030,7 @@
 127.0.0.1 click.linkstattrack.com
 127.0.0.1 click.linktech.cn
 127.0.0.1 click.livejasmin.com
+127.0.0.1 click.lmbcustomersupport.com
 127.0.0.1 click.lobbyguard.com
 127.0.0.1 click.lozukowski.com
 127.0.0.1 click.m.ambientplatform.vn
@@ -13088,6 +13139,7 @@
 127.0.0.1 click.us-benefit.org
 127.0.0.1 click.us-relief.org
 127.0.0.1 click.uve.mobile.sina.cn
+127.0.0.1 click.vacasa.com
 127.0.0.1 click.vcommission.com
 127.0.0.1 click.vgnett.no
 127.0.0.1 click.vieon.vn
@@ -13144,6 +13196,7 @@
 127.0.0.1 clients.adventmedia.net
 127.0.0.1 clientsdk.luminati.io
 127.0.0.1 clifads.com
+127.0.0.1 clinkumfalsen.top
 127.0.0.1 clips.coolerads.com
 127.0.0.1 clisatf.top
 127.0.0.1 clivads.com
@@ -13239,7 +13292,6 @@
 127.0.0.1 cn2.adserver.yahoo.com
 127.0.0.1 cname-ali-asia-stsdk.vivoglobal.com
 127.0.0.1 cname-asia-stsdk09.vivoglobal.com
-127.0.0.1 cnc-share.com
 127.0.0.1 cnf.adbana.com
 127.0.0.1 cnf.adshuffle.com
 127.0.0.1 cnn.sdk.beemray.com
@@ -13295,6 +13347,7 @@
 127.0.0.1 codziennainspiracja.click
 127.0.0.1 codziennawiedza.click
 127.0.0.1 codziennecuda.click
+127.0.0.1 codziennesytuacje.click
 127.0.0.1 codzienny-szyk.top
 127.0.0.1 cofz9.top
 127.0.0.1 coin-ad.com
@@ -13390,7 +13443,6 @@
 127.0.0.1 confirmprotection.pro
 127.0.0.1 confiskbriggs.top
 127.0.0.1 confluence.indoleads.com
-127.0.0.1 confused-classic.pro
 127.0.0.1 congnb.analytics.saas-vn.network
 127.0.0.1 coni-pro.hotpr0g.site
 127.0.0.1 connect-dre.hispace.hicloud.com
@@ -13464,6 +13516,7 @@
 127.0.0.1 coraligy.top
 127.0.0.1 cordialhoist.top
 127.0.0.1 core-api-frontendlogger.front.vpgrp.net
+127.0.0.1 core-click.net
 127.0.0.1 core-waw-1.wildcard.dns.army
 127.0.0.1 core.ad20.net
 127.0.0.1 core.buysellads.com
@@ -13516,6 +13569,7 @@
 127.0.0.1 costaegomesadv.com.br
 127.0.0.1 cotads.adscale.de
 127.0.0.1 coti.activeprog3.top
+127.0.0.1 cotydzen.newstriy.top
 127.0.0.1 counciladvertising.net
 127.0.0.1 count.advanseads.com
 127.0.0.1 count.atm.youku.com
@@ -13540,6 +13594,7 @@
 127.0.0.1 cox.deliveryengine.adswizz.com
 127.0.0.1 coxxs.top
 127.0.0.1 cp-home-pl-02fa9a4ad7c.platamix.com
+127.0.0.1 cp-home-pl-4110cad20fb.isavastore.com
 127.0.0.1 cp-home-pl-691aad34cfe.solidinterimmanagement.nl
 127.0.0.1 cp-home-pl-9ad28fcfa67.platamix.com
 127.0.0.1 cp-home-pl-ad19ba99990.solidinterimmanagement.nl
@@ -13547,6 +13602,7 @@
 127.0.0.1 cp-home-pl-b6b4ad05683.installprofi.nl
 127.0.0.1 cp-home-pl-b72ad15b53c.platamix.com
 127.0.0.1 cp-home-pl-d1f2bdad676.solidinterimmanagement.nl
+127.0.0.1 cp-home-pl-d68694ad9b3.isavastore.com
 127.0.0.1 cp-home-pl-d76adb9d103.solidinterimmanagement.nl
 127.0.0.1 cp-home-pl-e4ade65641b.solidinterimmanagement.nl
 127.0.0.1 cp.oupeng.com
@@ -13710,6 +13766,7 @@
 127.0.0.1 csgomix.top
 127.0.0.1 csgoneo.top
 127.0.0.1 csgonight.pro
+127.0.0.1 csgoplg.top
 127.0.0.1 csgosource2.pro
 127.0.0.1 csgoswaps.top
 127.0.0.1 csgotoptrader.pro
@@ -13775,6 +13832,7 @@
 127.0.0.1 cutdoor.top
 127.0.0.1 cutedolls.top
 127.0.0.1 cvcc.innplats.top
+127.0.0.1 cvd.btspolsky.top
 127.0.0.1 cvfr.formhh.top
 127.0.0.1 cvr.ad-brix.com
 127.0.0.1 cvt.mydas.mobi
@@ -13807,11 +13865,13 @@
 127.0.0.1 cypruspostsu.top
 127.0.0.1 cypruspostt.top
 127.0.0.1 cytyz.vertysbos.top
+127.0.0.1 czarnedowody.click
 127.0.0.1 czarnypunkt.click
 127.0.0.1 czasdlasiebie.click
 127.0.0.1 czasnaodkrycia.click
 127.0.0.1 czasnawiadomienia.click
 127.0.0.1 czasopisma24h.click
+127.0.0.1 czasopismowe.click
 127.0.0.1 czasyplrozne.click
 127.0.0.1 czechtrade01.webtrekk.net
 127.0.0.1 czfsf.formhh.top
@@ -13852,7 +13912,6 @@
 127.0.0.1 d247ad0b4d81e24aa25344a37409c8f8.vipwl.pl
 127.0.0.1 d24ak3f2b.top
 127.0.0.1 d24c70757f9074b15399be8c166ad87a.dioprl.pl
-127.0.0.1 d28.04022.top
 127.0.0.1 d2b7n13v8adl6f.cloudfront.net
 127.0.0.1 d2kadvyeq051an.cloudfront.net
 127.0.0.1 d3.adsplay.net
@@ -13927,6 +13986,7 @@
 127.0.0.1 dadtbgt.tt.hb-api.tt.omtrdc.net
 127.0.0.1 dadultswim.hb-api.tt.omtrdc.net
 127.0.0.1 dadw11.com
+127.0.0.1 dadw22.com
 127.0.0.1 dadw55.com
 127.0.0.1 dae.worldtrades.top
 127.0.0.1 daea.ero-advertising.com
@@ -14132,8 +14192,8 @@
 127.0.0.1 dbg52463.moatads.com
 127.0.0.1 dbmobile-update.info
 127.0.0.1 dbs.com.sg.dbspaylah.mobi
-127.0.0.1 dbs55335.top
-127.0.0.1 dbs66886.top
+127.0.0.1 dbs33773.top
+127.0.0.1 dbs63636.top
 127.0.0.1 dbsbank-sg.top
 127.0.0.1 dbta.ero-advertising.com
 127.0.0.1 dbvsh.neuru.top
@@ -14162,7 +14222,9 @@
 127.0.0.1 dco-jads-727222375.us-west-2.elb.amazonaws.com
 127.0.0.1 dcp-poc-api.tt.omtrdc.net
 127.0.0.1 dcp.pro-activprofit.site
+127.0.0.1 dcs.polskitred.top
 127.0.0.1 dcspaylah.pro
+127.0.0.1 dcx.polskitred.top
 127.0.0.1 dd-bskyb.hb-api.tt.omtrdc.net
 127.0.0.1 dd.aboutnews.top
 127.0.0.1 dd.eutrty.top
@@ -14211,6 +14273,7 @@
 127.0.0.1 deepdelver.top
 127.0.0.1 deeplink.api-sandbox.notarycam.com
 127.0.0.1 deezer.deliveryengine.adswizz.com
+127.0.0.1 def.fusda.top
 127.0.0.1 defacto-analytics.net
 127.0.0.1 defakto.tentaklsistem.click
 127.0.0.1 default.ads.justpremium.com
@@ -14281,6 +14344,7 @@
 127.0.0.1 dellveryollx3700.cewnts103.click
 127.0.0.1 delphilawadvisory.com
 127.0.0.1 deltalore.pro
+127.0.0.1 dem.newlvlpro.top
 127.0.0.1 demifa.top
 127.0.0.1 demo.adsame.com
 127.0.0.1 demo.adsparc.net
@@ -14319,6 +14383,7 @@
 127.0.0.1 destinia-ad.eulerian.net
 127.0.0.1 det.comfirty.top
 127.0.0.1 deta.ero-advertising.com
+127.0.0.1 details-update.com
 127.0.0.1 details.tesla-bot.top
 127.0.0.1 detour.click
 127.0.0.1 detroit-mi.tt.omtrdc.net
@@ -14388,6 +14453,7 @@
 127.0.0.1 dfp.doubleclick.net
 127.0.0.1 dfpdz.top
 127.0.0.1 dfpposti.top
+127.0.0.1 dfq.btspolsky.top
 127.0.0.1 dfrh.dddplat.top
 127.0.0.1 dfsdkkka.com
 127.0.0.1 dfslk.online-cashhh.top
@@ -14397,6 +14463,7 @@
 127.0.0.1 dg.syst-pltrade4.site
 127.0.0.1 dgafgadsgkjg.top
 127.0.0.1 dgfjsy.myways.top
+127.0.0.1 dgg.btspolsky.top
 127.0.0.1 dgolin.top
 127.0.0.1 dgqpjkjn.lungcomplacency.top
 127.0.0.1 dh.pro1wrld.top
@@ -14442,6 +14509,7 @@
 127.0.0.1 digitaladvisor.dk
 127.0.0.1 digitalfreedownloads.com
 127.0.0.1 digitalproductdownloads.com
+127.0.0.1 digitalservdirect.click
 127.0.0.1 diligentrefrigerator.pro
 127.0.0.1 dinersclubcanada.hb-api.tt.omtrdc.net
 127.0.0.1 dinfritid.ads.ramsalt.com
@@ -14538,7 +14606,6 @@
 127.0.0.1 dk.ads.justpremium.com
 127.0.0.1 dk.adserver.yahoo.com
 127.0.0.1 dka.goxsite.top
-127.0.0.1 dkb.info-emails.click
 127.0.0.1 dkinpnsit.top
 127.0.0.1 dkjshka.top
 127.0.0.1 dkllslls.tentaklsistem.click
@@ -14660,12 +14727,15 @@
 127.0.0.1 dns1.partner-paysellerlogin-freshegg.net.daraz.com
 127.0.0.1 dns1.profiles.api-static-stage.freshegg.net.daraz.com
 127.0.0.1 dns1.profiles.fresheggfrontpage-partner.net.daraz.com
+127.0.0.1 dnsbl.test.adobe.tt.omtrdc.net
 127.0.0.1 do-not-reply.cash-ads.com
 127.0.0.1 do.ads.justpremium.com
 127.0.0.1 do99.pro
 127.0.0.1 doatgiveaway.top
 127.0.0.1 dobreprogramy.pro
+127.0.0.1 dobreuczynki.click
 127.0.0.1 dobroczynni24.click
+127.0.0.1 dobrodziejstwo.click
 127.0.0.1 doc.cnzz.com
 127.0.0.1 doc.lifetradefx.top
 127.0.0.1 doceloweinfo.click
@@ -14693,6 +14763,7 @@
 127.0.0.1 dogfood.ns.emailvision.apac-partner.net.daraz.com
 127.0.0.1 dogfuse.pro
 127.0.0.1 dogodnewiadomosci.click
+127.0.0.1 dogokala.top
 127.0.0.1 dogus-ads-cdn.dygdigital.com
 127.0.0.1 doiadvisionumentr-is-1-2.net.daraz.com
 127.0.0.1 doikladnakl.click
@@ -14727,6 +14798,7 @@
 127.0.0.1 domx.cashhs-news.top
 127.0.0.1 don.goxsite.top
 127.0.0.1 donate-api.recorder.duapps.com
+127.0.0.1 doniesienia24h.click
 127.0.0.1 doniesienie24h.click
 127.0.0.1 doniesienieinfo.click
 127.0.0.1 doniv.adsame.com
@@ -14734,7 +14806,9 @@
 127.0.0.1 doownl0ad3s.com
 127.0.0.1 dooyoouwoorkherre-354128.click
 127.0.0.1 dopaleads.com
+127.0.0.1 dopelnienia24.click
 127.0.0.1 dopfumeuse.top
+127.0.0.1 dopisnotatek.click
 127.0.0.1 doralinvest.pro
 127.0.0.1 dorangesource.alicdn.com
 127.0.0.1 dorilis-invest.pro
@@ -14766,6 +14840,7 @@
 127.0.0.1 douploadsnewnautilus12345proxy3.net.daraz.com
 127.0.0.1 dowiadujemyprawdy.click
 127.0.0.1 dowiedzsie.click
+127.0.0.1 dowjones.hb-api.tt.omtrdc.net
 127.0.0.1 down.360.cn
 127.0.0.1 down.apps.sina.cn
 127.0.0.1 down.us2.mclick.mobi
@@ -14795,6 +14870,7 @@
 127.0.0.1 download-hack.org
 127.0.0.1 download-hacks.us
 127.0.0.1 download-minecraft.ru
+127.0.0.1 download-pdf-gov-bdd-mail.kesug.com
 127.0.0.1 download-ready.net
 127.0.0.1 download-readynow.com
 127.0.0.1 download-shares.com
@@ -14916,6 +14992,7 @@
 127.0.0.1 downloadstestlib-ln-1.net.daraz.com
 127.0.0.1 dowodzimyinfo.click
 127.0.0.1 dowozimydowody.click
+127.0.0.1 dowozimyprawde.click
 127.0.0.1 dox.cashhs-news.top
 127.0.0.1 dozdrowiegdzie.click
 127.0.0.1 dozorinformacji.click
@@ -14989,13 +15066,16 @@
 127.0.0.1 drk.goxsite.top
 127.0.0.1 drm-google-analtyic.com
 127.0.0.1 drmcmm.baidu.com
+127.0.0.1 drobnygest.click
 127.0.0.1 drogamiastowa.click
 127.0.0.1 drogaszkoly.click
+127.0.0.1 drogipamietniku.click
 127.0.0.1 drogowakatastrofa.click
 127.0.0.1 drogowakatastrofa24.click
 127.0.0.1 drogowamakabra.click
 127.0.0.1 drogowekolizje.click
 127.0.0.1 drogowepotyczki.click
+127.0.0.1 drogoweraportowanie.click
 127.0.0.1 drogoweszalenstwo.click
 127.0.0.1 drogowewiadomosci.click
 127.0.0.1 drogowewiesci.click
@@ -15011,10 +15091,9 @@
 127.0.0.1 drop-cases.pro
 127.0.0.1 dropbox-download-eu.com
 127.0.0.1 dropbox-download.com
-127.0.0.1 dropme.pro
 127.0.0.1 dropped.rtb.adx1.com
+127.0.0.1 drp.tesxprofit.top
 127.0.0.1 drspostsar.top
-127.0.0.1 drtladv.cc
 127.0.0.1 drupal.www.partner.net.daraz.com
 127.0.0.1 drzliving.mgmt.partner.net.daraz.com
 127.0.0.1 ds-api-public.addthis.com.edgekey.net
@@ -15137,18 +15216,23 @@
 127.0.0.1 dynsrv.wps.cn
 127.0.0.1 dyrektoralarmuje.click
 127.0.0.1 dyrektorinformuje.click
+127.0.0.1 dyrektywnosc.click
 127.0.0.1 dyskusjainternetowa.click
 127.0.0.1 dyskusjapowaitowa.click
 127.0.0.1 dz.ads.justpremium.com
 127.0.0.1 dz.mmstat.com
 127.0.0.1 dzibaninvesting.pro
 127.0.0.1 dzieckoumarlo.click
+127.0.0.1 dziennesprawy.click
 127.0.0.1 dziennikinfo24h.click
 127.0.0.1 dziennikmiasta.click
 127.0.0.1 dziennikporanny.click
+127.0.0.1 dziennikportal.click
+127.0.0.1 dziewczynkakolizja.click
 127.0.0.1 dziewczynkapotracenie.click
 127.0.0.1 dzisiajszasprawa.click
 127.0.0.1 dzisiejszakatastrofa.click
+127.0.0.1 dzisiejszeposuniecie.click
 127.0.0.1 dzisiejszepytania.click
 127.0.0.1 dzisiejszynews.click
 127.0.0.1 dzwonnadrodze.click
@@ -15185,8 +15269,8 @@
 127.0.0.1 e8de3381129db280aceeb80bf707ad97.spgros.pl
 127.0.0.1 e8ogh1jm8xqdiaon.partner.net.daraz.com
 127.0.0.1 eads-com01.webtrekk.net
+127.0.0.1 eads.com
 127.0.0.1 eads.org
-127.0.0.1 eads.to
 127.0.0.1 eadsenergy.com
 127.0.0.1 eadsq01.wt-eu02.net
 127.0.0.1 eadsrv.com
@@ -15195,9 +15279,11 @@
 127.0.0.1 eagleasp.adsame.com
 127.0.0.1 eainpostpl.top
 127.0.0.1 ealone.startone.top
+127.0.0.1 eamqbaqzaerzb.top
 127.0.0.1 eamqbaqzaewwq.top
 127.0.0.1 eanntm3jqbd6gu7y.partner.net.daraz.com
 127.0.0.1 eanrzzvvmjkl.top
+127.0.0.1 eanrzzvvnkev.top
 127.0.0.1 eappsvision.wwwdmetrictest.partner-pay.net.daraz.com
 127.0.0.1 earnallgainsurvey.top
 127.0.0.1 earningoogl.top
@@ -15233,6 +15319,8 @@
 127.0.0.1 easyway2.click
 127.0.0.1 eatonaero.advancedtech.com
 127.0.0.1 eawp2ra7.top
+127.0.0.1 eayeewlvmeaeb.top
+127.0.0.1 eayeewlvmeqel.top
 127.0.0.1 eazyleads.com
 127.0.0.1 ebanking.ch1-uqs.click
 127.0.0.1 ebayadvertising.com
@@ -15241,7 +15329,6 @@
 127.0.0.1 ebiads.ebiuniverse.com
 127.0.0.1 ebmember-partner.net.daraz.com
 127.0.0.1 ebmzp.top
-127.0.0.1 ebod.7mmtv.top
 127.0.0.1 ebook-res.meizu.com
 127.0.0.1 ebook.res.meizu.com
 127.0.0.1 ebp.renren.com
@@ -15297,6 +15384,7 @@
 127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 ecgivision-partner.net.daraz.com
 127.0.0.1 echomiasta.click
+127.0.0.1 echomiastowe.click
 127.0.0.1 echomiejskie.click
 127.0.0.1 echoportal.click
 127.0.0.1 echopowiatowe.click
@@ -15307,6 +15395,7 @@
 127.0.0.1 ecmb.bdimg.com
 127.0.0.1 ecmc.bdimg.com
 127.0.0.1 ecmsvisionkube-partner.net.daraz.com
+127.0.0.1 ecn-analytics-nssl.emc.com
 127.0.0.1 ecn-analytics.emc.com
 127.0.0.1 eco-api.meiqia.com
 127.0.0.1 eco.taobao.com
@@ -15325,6 +15414,7 @@
 127.0.0.1 ecrtb.unoadsrv.com
 127.0.0.1 ecs.mb.moatads.com
 127.0.0.1 ecsss-partner.net.daraz.com
+127.0.0.1 ecstatic-rope.pro
 127.0.0.1 ectyet.top
 127.0.0.1 ed35c8249fd33dca4beca68ad7f5dba4.twojedom.pl
 127.0.0.1 eda5.pltradelife.top
@@ -15361,6 +15451,7 @@
 127.0.0.1 edgeray-shv-01-mad1.facebook.com
 127.0.0.1 edgexads.com
 127.0.0.1 edinetadv.com
+127.0.0.1 editionoverlookadvocate.com
 127.0.0.1 editsnail.pro
 127.0.0.1 edland.pro
 127.0.0.1 edls-partner.net.daraz.com
@@ -15466,6 +15557,7 @@
 127.0.0.1 elm1.lifepeoplexf.top
 127.0.0.1 elmiestkanuri.top
 127.0.0.1 elmkrljayamrb.top
+127.0.0.1 elmkrljayazlw.top
 127.0.0.1 elnexcore.click
 127.0.0.1 elon-inv.pro
 127.0.0.1 elon2011.pro
@@ -15488,6 +15580,7 @@
 127.0.0.1 eltdeh.top
 127.0.0.1 elwwwiadsticbewwwiadnstwwwiadlkywwwiadncwwwiadncook.net.daraz.com
 127.0.0.1 elysianelmcam.click
+127.0.0.1 elyvbqkmlamjq.top
 127.0.0.1 elyvbqkmlqkqw.top
 127.0.0.1 elzbieta.everadpro.click
 127.0.0.1 em.baidu.com
@@ -15509,6 +15602,7 @@
 127.0.0.1 email.cbs.hb-api.tt.omtrdc.net
 127.0.0.1 email.corp-spring.freya.net.daraz.com
 127.0.0.1 email.headsuphealth.com
+127.0.0.1 email.minvoice.pro
 127.0.0.1 email.molly-9982.pro
 127.0.0.1 email.partner.net.daraz.com
 127.0.0.1 email1.advisorycloud.com
@@ -15519,6 +15613,7 @@
 127.0.0.1 emailenlist.top
 127.0.0.1 emailon.top
 127.0.0.1 emails.advisor2advisor.com
+127.0.0.1 emailsfi.click
 127.0.0.1 emal1.peoplefxlife.top
 127.0.0.1 emarketing.sina.com.cn
 127.0.0.1 embarrassed-slice.pro
@@ -15578,6 +15673,7 @@
 127.0.0.1 ems.cp12.wasu.tv
 127.0.0.1 ems.youku.com
 127.0.0.1 emu.ilovemp3.top
+127.0.0.1 emzlbqqnnbmwm.top
 127.0.0.1 ena-native-ads4.com
 127.0.0.1 enatyl.top
 127.0.0.1 enchanted-stretch.pro
@@ -15622,6 +15718,7 @@
 127.0.0.1 enormous-society.pro
 127.0.0.1 enormous-use.pro
 127.0.0.1 enormouswar.pro
+127.0.0.1 enqkeynmmnawq.top
 127.0.0.1 enqkeynmmnbzb.top
 127.0.0.1 enrichprone.top
 127.0.0.1 enrobeskaithy.top
@@ -15663,6 +15760,7 @@
 127.0.0.1 eqads.com
 127.0.0.1 eqkjmvkkmvvkj.top
 127.0.0.1 eqmyjnyjzqzkl.top
+127.0.0.1 eqqnewnlaknww.top
 127.0.0.1 eqx-secure.smartadserver.com
 127.0.0.1 eqx-tmk-geoloc.smartadserver.com
 127.0.0.1 eqx.smartadserver.com
@@ -15696,6 +15794,7 @@
 127.0.0.1 es.advertising.yahoo.com
 127.0.0.1 es.ero-advertising.com
 127.0.0.1 es.inprog.top
+127.0.0.1 es.progofficial.top
 127.0.0.1 es.tubeadvertising.eu
 127.0.0.1 es1.peoplefxlife.top
 127.0.0.1 esanciw.top
@@ -15720,6 +15819,7 @@
 127.0.0.1 esq.lifetradefx.top
 127.0.0.1 esreal.top
 127.0.0.1 essayads.com
+127.0.0.1 essedadhooras.top
 127.0.0.1 essences.top
 127.0.0.1 essentialpiece.pro
 127.0.0.1 esset.top
@@ -15745,6 +15845,7 @@
 127.0.0.1 etr.valuez.top
 127.0.0.1 etsllx.activpl-pro.site
 127.0.0.1 ettsl.activpl-pro.site
+127.0.0.1 etw.valuez.top
 127.0.0.1 etxjbxs.top
 127.0.0.1 eu-ad.sam4m.com
 127.0.0.1 eu-ads.adpone.com
@@ -15876,6 +15977,7 @@
 127.0.0.1 ewandlw.top
 127.0.0.1 ewapps.top
 127.0.0.1 ewbmrwzmbkzv.top
+127.0.0.1 ewbmrwzmbrwq.top
 127.0.0.1 ewbmrwzmbvzb.top
 127.0.0.1 ewebappr-oa-2s-partner.net.daraz.com
 127.0.0.1 ewew.tentaklsistem.click
@@ -15901,7 +16003,6 @@
 127.0.0.1 exchange.nativeads.com
 127.0.0.1 exchange.nativeadshb.com
 127.0.0.1 exchangeskin.pro
-127.0.0.1 excitableclub.pro
 127.0.0.1 excitablefew.pro
 127.0.0.1 excitingwill.pro
 127.0.0.1 exclusiveplumbingleads.com
@@ -15927,7 +16028,6 @@
 127.0.0.1 expensivesurvey.click
 127.0.0.1 expert-bon.top
 127.0.0.1 expert-pt.top
-127.0.0.1 expert-top.com
 127.0.0.1 expleates.pro
 127.0.0.1 explorads.com
 127.0.0.1 explorads.xml-v4.ak-is2.net
@@ -15961,9 +16061,11 @@
 127.0.0.1 eyeviewads.com
 127.0.0.1 ezgo.advancedtech.com
 127.0.0.1 ezinemark.top
+127.0.0.1 ezkaeybzejlaj.top
 127.0.0.1 ezkpfppewzrg9la4.partner.net.daraz.com
 127.0.0.1 ezqbbqybwjbvm.top
 127.0.0.1 ezwnjnnkjaamw.top
+127.0.0.1 ezwnjnnkjaayv.top
 127.0.0.1 ezyebrbaymnb.top
 127.0.0.1 ezzllnpwcbrwhwx6.partner.net.daraz.com
 127.0.0.1 ezzmmvzleavnj.top
@@ -15994,7 +16096,6 @@
 127.0.0.1 f42fc1f181320389f92c8ad5e23b5083.magazynsz.pl
 127.0.0.1 f53ad9059d.com
 127.0.0.1 f5w.as12df.top
-127.0.0.1 f688add167.com
 127.0.0.1 f70896e52938ef7c34489ad19a4cf431.lisapwa.pl
 127.0.0.1 f8bets.pro
 127.0.0.1 f8ch6jg71zblcmk5.partner.net.daraz.com
@@ -16050,7 +16151,6 @@
 127.0.0.1 famdlik-invest.pro
 127.0.0.1 famous-line.pro
 127.0.0.1 famousfellowship.top
-127.0.0.1 famousfox.pro
 127.0.0.1 fanners.ero-advertising.com
 127.0.0.1 fanserv.us-east-1.stinger-ad.bidr.io
 127.0.0.1 fanserv.us-west-2.stinger-ad.bidr.io
@@ -16085,6 +16185,7 @@
 127.0.0.1 fau.programtts.top
 127.0.0.1 fav.simba.taobao.com
 127.0.0.1 favorable-lady.pro
+127.0.0.1 favorit.byseniscon.top
 127.0.0.1 favorite-option.pro
 127.0.0.1 favorite-tonight.pro
 127.0.0.1 faw7.top
@@ -16156,7 +16257,6 @@
 127.0.0.1 fet.posdtiom.top
 127.0.0.1 fet.staff-partner.net.daraz.com
 127.0.0.1 fewcmx7ba37vybl6.partner.net.daraz.com
-127.0.0.1 fewplan.pro
 127.0.0.1 fex.bdstatic.com
 127.0.0.1 fexclick.baidu.com
 127.0.0.1 ff.doubleclick.net
@@ -16173,7 +16273,6 @@
 127.0.0.1 fgm4wugdiytfwt78.partner.net.daraz.com
 127.0.0.1 fgre9.top
 127.0.0.1 fgwerg.top
-127.0.0.1 fgy3tg.jav-7mmtv.top
 127.0.0.1 fgyy.innplats.top
 127.0.0.1 fh7ch7w3s6nnvss4.partner.net.daraz.com
 127.0.0.1 fhatfee.ero-advertising.com
@@ -16249,6 +16348,7 @@
 127.0.0.1 filteradkernel.adsimilate.com
 127.0.0.1 filz.dazll.click
 127.0.0.1 fim.adnxs.com
+127.0.0.1 fin.malza.top
 127.0.0.1 finance-advise.com
 127.0.0.1 finance-corp.info
 127.0.0.1 finance-earn.click
@@ -16269,6 +16369,7 @@
 127.0.0.1 find.my-xiaomi.live
 127.0.0.1 findiphone.mobi
 127.0.0.1 findlak-investing.pro
+127.0.0.1 findpackage.top
 127.0.0.1 findyourhalf.top
 127.0.0.1 fineblog.top
 127.0.0.1 finelco.adswizz.com
@@ -16397,6 +16498,7 @@
 127.0.0.1 focusin.ads.targetnet.com
 127.0.0.1 fod-cm-ad-v.webcdn.stream.ne.jp
 127.0.0.1 fod.kolas.top
+127.0.0.1 fod.wekza.top
 127.0.0.1 fofka.lixprog.click
 127.0.0.1 foguroli.pro
 127.0.0.1 folder.adsunflower.com
@@ -16450,6 +16552,7 @@
 127.0.0.1 foxentertainmentsupport.hb-api.tt.omtrdc.net
 127.0.0.1 foxentertainmentus-east-10.hb-api.tt.omtrdc.net
 127.0.0.1 foxfile.pro
+127.0.0.1 foxnews-365.com
 127.0.0.1 fozd.vallz.click
 127.0.0.1 fp-analytics.hotstar.com
 127.0.0.1 fp.advertising.microsoft.com
@@ -16492,7 +16595,6 @@
 127.0.0.1 fra1-ib.adnxs-simple.com
 127.0.0.1 fra1.mobile.adnxs.com
 127.0.0.1 fragpads.com
-127.0.0.1 frail-lock.pro
 127.0.0.1 framentyder.pro
 127.0.0.1 france.adswizz.com
 127.0.0.1 francophiles.pro
@@ -16509,9 +16611,12 @@
 127.0.0.1 free-share-buttons.com
 127.0.0.1 free-traffic.xyz
 127.0.0.1 free-website-traffic.com
+127.0.0.1 free-windows.pro
 127.0.0.1 free247downloads.com
 127.0.0.1 freedatalabs.top
 127.0.0.1 freedownloadsoftware4all.info
+127.0.0.1 freefromads.com
+127.0.0.1 freefromads.pro
 127.0.0.1 freemoney.pro
 127.0.0.1 freewayadventureexactly.com
 127.0.0.1 freezerlarking.top
@@ -16547,6 +16652,7 @@
 127.0.0.1 frontpage-partner-123pago.net.daraz.com
 127.0.0.1 frontpage-partner-connected.net.daraz.com
 127.0.0.1 frontpage-partner-dmetrictest.net.daraz.com
+127.0.0.1 frontpage-partner-hr.macys.net.daraz.com
 127.0.0.1 frontpage-partner-images.net.daraz.com
 127.0.0.1 frontpage-partner-laboratorio.net.daraz.com
 127.0.0.1 frontpage-partner-marketing.net.daraz.com
@@ -16582,12 +16688,10 @@
 127.0.0.1 froturkeyage-partner.net.daraz.com
 127.0.0.1 frowebmasterpage-partner.net.daraz.com
 127.0.0.1 frsolaristpage-partner.net.daraz.com
-127.0.0.1 frugalpurpose.pro
 127.0.0.1 fruklon-invest.pro
 127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 fsadvisors.net.daraz.com
 127.0.0.1 fsastore.adspeed.net
-127.0.0.1 fsdss.7mmtv.top
 127.0.0.1 fsharp.adswizz.com
 127.0.0.1 fshe.fallz.click
 127.0.0.1 fslrsdoijewdspjoew0spojwq0eqrcodid.bewnoew.top
@@ -16603,6 +16707,7 @@
 127.0.0.1 ftxofficial.click
 127.0.0.1 ftxofficial.top
 127.0.0.1 fuckmehd.pro
+127.0.0.1 fucmoadsoako.com
 127.0.0.1 fuel-pumpes.pro
 127.0.0.1 fug.comfirty.top
 127.0.0.1 fugleparges.top
@@ -16643,7 +16748,6 @@
 127.0.0.1 fw-emailvisionapp.www.partner-pay.net.daraz.com
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 fw.corp-springallseason.net.daraz.com
-127.0.0.1 fw3etgf2.jav-7mmtv.top
 127.0.0.1 fwapi.adsafeprotected.com
 127.0.0.1 fwr-email-partner-pay-1.net.daraz.com
 127.0.0.1 fwr-yancancook.api.net.daraz.com
@@ -16655,7 +16759,6 @@
 127.0.0.1 fyglovilo.pro
 127.0.0.1 fyls88zqyb.content-ad.net
 127.0.0.1 fyneti.top
-127.0.0.1 fyp17jq.tokenapp.download
 127.0.0.1 fzf1.top
 127.0.0.1 fztmn.top
 127.0.0.1 g.163.com
@@ -16764,6 +16867,7 @@
 127.0.0.1 gariger.top
 127.0.0.1 gas.data.pplive.com
 127.0.0.1 gas.heavycloud.top
+127.0.0.1 gas.masterch.top
 127.0.0.1 gas.programmtrad.top
 127.0.0.1 gaseousarmy.pro
 127.0.0.1 gat.newprogram.top
@@ -16794,6 +16898,8 @@
 127.0.0.1 gaz.programtts.top
 127.0.0.1 gazeta-p1.pro
 127.0.0.1 gazeta-pl.pro
+127.0.0.1 gazetacodzienna.click
+127.0.0.1 gazetainfo.click
 127.0.0.1 gazetalokalna.click
 127.0.0.1 gazetamiastowa.click
 127.0.0.1 gazetamiejska.click
@@ -16864,6 +16970,7 @@
 127.0.0.1 gesum.top
 127.0.0.1 get-ads.ru
 127.0.0.1 get-c.dorismatyg.top
+127.0.0.1 get-cbs.hb-api.tt.omtrdc.net
 127.0.0.1 get-click.net
 127.0.0.1 get-click.ru
 127.0.0.1 get-commercial-solar.com
@@ -16890,6 +16997,7 @@
 127.0.0.1 getmyads24.com
 127.0.0.1 getoptad360.com
 127.0.0.1 getpy-click.info
+127.0.0.1 getresponse-login.microsoftonline.zpovdbsyft.click
 127.0.0.1 getshowads.com
 127.0.0.1 getskin.pro
 127.0.0.1 getsomedownloads.com
@@ -16945,6 +17053,8 @@
 127.0.0.1 gidro-partner.ru
 127.0.0.1 gift-package.connectusps.top
 127.0.0.1 gift-package.goofedgoods.top
+127.0.0.1 gift-package.linkusps.top
+127.0.0.1 gift-package.wrongdrop.top
 127.0.0.1 gifttopsurvey.top
 127.0.0.1 gigaads.xyz
 127.0.0.1 gimg.baidu.com
@@ -17076,12 +17186,17 @@
 127.0.0.1 gmaster-pro.com
 127.0.0.1 gmgbtg1b9srow19f.partner.net.daraz.com
 127.0.0.1 gminainfo.click
+127.0.0.1 gminainfo24h.click
 127.0.0.1 gminamieszkancow.click
 127.0.0.1 gminnanotka.click
 127.0.0.1 gminnawiadomosc.click
+127.0.0.1 gminnepotracenia.click
 127.0.0.1 gminnewiadomosci.click
 127.0.0.1 gminnewypadki.click
+127.0.0.1 gminnyinformator.click
 127.0.0.1 gminnykurier.click
+127.0.0.1 gminnyportal.click
+127.0.0.1 gminnyradca.click
 127.0.0.1 gmx10.top
 127.0.0.1 gmx11.top
 127.0.0.1 gmx12.top
@@ -17180,6 +17295,7 @@
 127.0.0.1 goblin.hupu.com
 127.0.0.1 gobmxxx.top
 127.0.0.1 goboxs2.pro
+127.0.0.1 gobpeposts.top
 127.0.0.1 godsadvice.com
 127.0.0.1 godsendbiz.top
 127.0.0.1 godsendhh.top
@@ -17204,6 +17320,7 @@
 127.0.0.1 goniecosiedla.click
 127.0.0.1 goniecwojewodzki.click
 127.0.0.1 gonimysprawce.click
+127.0.0.1 gonzalodaemon.top
 127.0.0.1 goo-access-analytics.appspot.com
 127.0.0.1 goodads.de
 127.0.0.1 goodadvert.com.ua
@@ -17221,6 +17338,7 @@
 127.0.0.1 google-pagerank.net
 127.0.0.1 google-pl.com
 127.0.0.1 google-placement.com.re.getclicky.com
+127.0.0.1 google-plays.bid
 127.0.0.1 google-shopping-v2.sapoapps.vn
 127.0.0.1 google-shopping.sapoapps.vn
 127.0.0.1 google.bv-hilden-west.de
@@ -17235,7 +17353,6 @@
 127.0.0.1 google.rtb.adx1.com
 127.0.0.1 google.schreinerei-wohlfart.de
 127.0.0.1 google.trk.oeremil.com
-127.0.0.1 google.webaccess-alerts.net
 127.0.0.1 googleaccounts.jiqigushi.top
 127.0.0.1 googleads-cn.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -17278,6 +17395,7 @@
 127.0.0.1 gov.covid-fp.top
 127.0.0.1 gov.pl-szybki.top
 127.0.0.1 government-ads.com
+127.0.0.1 gowojs.top
 127.0.0.1 goxcup.pro
 127.0.0.1 gp.quanntum.top
 127.0.0.1 gp1v9wfj79mphulb.partner.net.daraz.com
@@ -17288,12 +17406,15 @@
 127.0.0.1 gpt-sc.ofishlprog1.click
 127.0.0.1 gq.adsame.com
 127.0.0.1 gr.adserver.yahoo.com
+127.0.0.1 graceraman.top
 127.0.0.1 grafana.indoleads.com
 127.0.0.1 grafana.tt.hb-api.tt.omtrdc.net
+127.0.0.1 graientpyompte.pro
 127.0.0.1 gralliczenana.top
 127.0.0.1 grand-prix.cityads.com
 127.0.0.1 grandlay.pro
 127.0.0.1 grandnerve.pro
+127.0.0.1 granicarozsadku.click
 127.0.0.1 granular-picture.pro
 127.0.0.1 grapf.click
 127.0.0.1 graphics.medleyads.com
@@ -17341,6 +17462,7 @@
 127.0.0.1 grudzien-wiado1.website
 127.0.0.1 gruesome-comfortable.pro
 127.0.0.1 grumpy-fear.pro
+127.0.0.1 grupawsparcia.click
 127.0.0.1 grushashuka.pro
 127.0.0.1 grygrothapi.pro
 127.0.0.1 gs-ad.jp
@@ -17377,6 +17499,7 @@
 127.0.0.1 guess.mediav.com
 127.0.0.1 guess.tf.360.cn
 127.0.0.1 guetploron.pro
+127.0.0.1 gug-a.top
 127.0.0.1 guidesetup.pro
 127.0.0.1 guldenstypps.top
 127.0.0.1 gullible-lawyer.pro
@@ -17492,7 +17615,6 @@
 127.0.0.1 handy1915-impoct-pl.pushpin.top
 127.0.0.1 handy9034-impoct-pl.toychest.top
 127.0.0.1 handyranche.pro
-127.0.0.1 hangzhou168.aliyun-oss.com.baihuajump.top
 127.0.0.1 hangzhouhdb.top
 127.0.0.1 hanpost-po.top
 127.0.0.1 hao.360.cn
@@ -17528,6 +17650,7 @@
 127.0.0.1 hazeproads.com
 127.0.0.1 hb-analytics.hotstar.com
 127.0.0.1 hb-api-fra01.omnitagjs.com
+127.0.0.1 hb-api-hulu.hb.tt.omtrdc.net
 127.0.0.1 hb-api.omnitagjs.com
 127.0.0.1 hb-api.omtrdc.netabcnews.hb-api.tt.omtrdc.net
 127.0.0.1 hb-api.omtrdc.netcbs.hb-api.tt.omtrdc.net
@@ -17578,11 +17701,11 @@
 127.0.0.1 headswell.net
 127.0.0.1 health-metrics-api.setapp.com
 127.0.0.1 health-partner.net
+127.0.0.1 health0psdadj3szljo593-795f1a2370f044fa85c08ff0679502a5.net.daraz.com
 127.0.0.1 healthadvocacyforyou.com
 127.0.0.1 healthbeauty-advice.com
 127.0.0.1 hearbreakingfizz.top
 127.0.0.1 heather.radsport.pl
-127.0.0.1 heavenly-test.pro
 127.0.0.1 hed.programtts.top
 127.0.0.1 hegarberetrof.pro
 127.0.0.1 hegk01a.top
@@ -17641,7 +17764,6 @@
 127.0.0.1 hichannel-15-portal.partner.net.daraz.com
 127.0.0.1 hichannelmailstage.partner.net.daraz.com
 127.0.0.1 hiexsmax.pages.pro.br
-127.0.0.1 hifix.pro
 127.0.0.1 hifyeldu.top
 127.0.0.1 high-tech-project.top
 127.0.0.1 highcopywatches.top
@@ -17817,6 +17939,7 @@
 127.0.0.1 hruk.jjikk.top
 127.0.0.1 hs-analytics.net
 127.0.0.1 hs-banner.com
+127.0.0.1 hs.histtory.top
 127.0.0.1 hsadspixel.net
 127.0.0.1 hsb-corp.com
 127.0.0.1 hslbahu.top
@@ -17864,11 +17987,13 @@
 127.0.0.1 hueadsortb.com
 127.0.0.1 hueadsxml.com
 127.0.0.1 hufajushi.top
+127.0.0.1 huge-trp.click
 127.0.0.1 huggerrailly.top
 127.0.0.1 hugregregy.pro
 127.0.0.1 huichuan.sm.cn
 127.0.0.1 huid.ad.360.cn
 127.0.0.1 huizhouzx.top
+127.0.0.1 hulichuang.mobi
 127.0.0.1 human.siliconbrains.click
 127.0.0.1 humble-green.pro
 127.0.0.1 humiliating-risk.pro
@@ -17884,7 +18009,6 @@
 127.0.0.1 huryds.top
 127.0.0.1 husky-chain.pro
 127.0.0.1 huskydesigner.pro
-127.0.0.1 hvjtos.sm-city.ru
 127.0.0.1 hvjug.formew.top
 127.0.0.1 hvmxvowx.top
 127.0.0.1 hvn.formhh.top
@@ -18029,7 +18153,6 @@
 127.0.0.1 ib.adnxs.com
 127.0.0.1 ib.anycast.adnxs.com
 127.0.0.1 ib.bounceads.net
-127.0.0.1 ib.snssdk.com
 127.0.0.1 ibd-as-api.iq.com
 127.0.0.1 ibeat-analytics.com
 127.0.0.1 ibjkdwsdko.com
@@ -18042,7 +18165,6 @@
 127.0.0.1 ibv.ladsp.jp
 127.0.0.1 ibz6kgqsyq11bz06.partner.net.daraz.com
 127.0.0.1 ic.ksosoft.com
-127.0.0.1 ic.snssdk.com
 127.0.0.1 ic.wps.cn
 127.0.0.1 icdn.batmobi.net
 127.0.0.1 ice-creamstammer.top
@@ -18099,6 +18221,7 @@
 127.0.0.1 id.sv388.mobi
 127.0.0.1 idealadvertising.net
 127.0.0.1 idealitys.click
+127.0.0.1 identifiez-vous-pro.hubside.fr
 127.0.0.1 identity-resolver.api.kochava.com
 127.0.0.1 identity.api.wmcdp.io
 127.0.0.1 identyfikacje-now.2show4tv.click
@@ -18124,6 +18247,7 @@
 127.0.0.1 ievad3rs.com
 127.0.0.1 ifa.camads.net
 127.0.0.1 ifacelog.iqiyi.com
+127.0.0.1 ifd.valuez.top
 127.0.0.1 ifeng.adsame.com
 127.0.0.1 ifengad.3g.ifeng.com
 127.0.0.1 iflow.uczzd.com.cn
@@ -18148,10 +18272,13 @@
 127.0.0.1 ikasgok-invest.pro
 127.0.0.1 ikedseeed.click
 127.0.0.1 ikhgg.snalkdl.top
+127.0.0.1 ikjuygtrfsewqaxdf.top
 127.0.0.1 iklanads.com
 127.0.0.1 ikloa.lixprog.click
 127.0.0.1 iknpost-pl.top
+127.0.0.1 ikoljuhygtfrdewqadszs.top
 127.0.0.1 ikw.formpr.top
+127.0.0.1 il-ekii-co-jp.open.atpeeoh.cn
 127.0.0.1 ilce.alicdn.com
 127.0.0.1 ill.infinitypro.top
 127.0.0.1 illiterate-estate.pro
@@ -18301,6 +18428,7 @@
 127.0.0.1 impservice.youdao.com
 127.0.0.1 impservice2.youdao.com
 127.0.0.1 imputesmere.top
+127.0.0.1 imtoken-nr.top
 127.0.0.1 in-adsjssdk.vivoglobal.com
 127.0.0.1 in-apost.top
 127.0.0.1 in-appadvertising.com
@@ -18331,6 +18459,7 @@
 127.0.0.1 in-poslluds.top
 127.0.0.1 in-post-cp.top
 127.0.0.1 in-post-eo.top
+127.0.0.1 in-post-in.top
 127.0.0.1 in-post-jo.top
 127.0.0.1 in-post-opl.top
 127.0.0.1 in-post-pc.top
@@ -18405,6 +18534,7 @@
 127.0.0.1 incrmlu.top
 127.0.0.1 indemandads.com
 127.0.0.1 independentsoftwareadvisors.com
+127.0.0.1 india-post.top
 127.0.0.1 india.activity.browser.intl.miui.com
 127.0.0.1 indirads.org
 127.0.0.1 indirads.work
@@ -18495,6 +18625,7 @@
 127.0.0.1 informacjeonline.click
 127.0.0.1 informacjeztrasy.click
 127.0.0.1 informacjezyciowe.click
+127.0.0.1 informacyjny24h.click
 127.0.0.1 informacyjnyportal.click
 127.0.0.1 informacyjnyportal24h.click
 127.0.0.1 informacyjnysmak.click
@@ -18508,10 +18639,12 @@
 127.0.0.1 informatorlokalny.click
 127.0.0.1 informatormiejski.click
 127.0.0.1 informatormiejski24h.click
+127.0.0.1 informatorpotral.click
 127.0.0.1 informer.yandex.ru
 127.0.0.1 informujemywas.click
 127.0.0.1 infoszpital.click
 127.0.0.1 infotes.top
+127.0.0.1 infotracker.top
 127.0.0.1 infowypadki.click
 127.0.0.1 infowypadki24h.click
 127.0.0.1 infozdrogi.click
@@ -18577,6 +18710,7 @@
 127.0.0.1 inplatform.click
 127.0.0.1 inplosts.top
 127.0.0.1 inpocst-pl.top
+127.0.0.1 inpoeb.top
 127.0.0.1 inpoes.top
 127.0.0.1 inpoist.top
 127.0.0.1 inpolinpostpl.top
@@ -18595,6 +18729,7 @@
 127.0.0.1 inposllud.top
 127.0.0.1 inposlt.top
 127.0.0.1 inposluden.top
+127.0.0.1 inposoet.top
 127.0.0.1 inpospel.top
 127.0.0.1 inpospl.top
 127.0.0.1 inposrt.top
@@ -18991,6 +19126,7 @@
 127.0.0.1 inpostipli.top
 127.0.0.1 inpostiplonline.top
 127.0.0.1 inpostit.top
+127.0.0.1 inpostj.top
 127.0.0.1 inpostk.top
 127.0.0.1 inpostl.top
 127.0.0.1 inpostlc.top
@@ -19243,6 +19379,7 @@
 127.0.0.1 internalads.gammae.com
 127.0.0.1 internalswwwstaff.partner.net.daraz.com
 127.0.0.1 internet-partner.pl
+127.0.0.1 internetoweecho.click
 127.0.0.1 internetoweinfo24h.click
 127.0.0.1 internettraffic.click
 127.0.0.1 interpower.mllight.top
@@ -19268,9 +19405,11 @@
 127.0.0.1 investiin.top
 127.0.0.1 investing-corp.org
 127.0.0.1 investingclub.click
+127.0.0.1 investinpost.top
 127.0.0.1 investinposts.top
 127.0.0.1 investmaib.top
 127.0.0.1 investman.click
+127.0.0.1 investorfortwo.pro
 127.0.0.1 investpoint.pro
 127.0.0.1 invideo.ero-advertising.com
 127.0.0.1 invitus.top
@@ -19316,7 +19455,9 @@
 127.0.0.1 ipm.atm.cp31.ott.cibntv.net
 127.0.0.1 ipm.atm.youku.com
 127.0.0.1 ipmatm.cp12.wasu.tv
+127.0.0.1 iposoai-yqn.top
 127.0.0.1 ipost-nat.top
+127.0.0.1 ipost-rma.top
 127.0.0.1 ipost.284965swojid.top
 127.0.0.1 ipost.287501idpl.top
 127.0.0.1 ipost.405835przelew.top
@@ -19337,7 +19478,6 @@
 127.0.0.1 iposytc-df.top
 127.0.0.1 ipryes.top
 127.0.0.1 ipw.metadsp.co.uk
-127.0.0.1 ipx.7mmtv.top
 127.0.0.1 iq.ads.justpremium.com
 127.0.0.1 iqacyu.top
 127.0.0.1 iqiebgne.top
@@ -19404,7 +19544,6 @@
 127.0.0.1 it.tubeadvertising.eu
 127.0.0.1 it3-api.tt.omtrdc.net
 127.0.0.1 itad2.americas.dyn.tt.omtrdc.net
-127.0.0.1 itchy-storm.pro
 127.0.0.1 item.mediav.com
 127.0.0.1 itienlo.top
 127.0.0.1 itnpost-pl.top
@@ -19433,14 +19572,17 @@
 127.0.0.1 iwanad.baidu.com
 127.0.0.1 iwandlo.top
 127.0.0.1 iwnpost-pl.top
+127.0.0.1 ixhvdktusdklt.xyz
 127.0.0.1 ixnpost-pl.top
 127.0.0.1 iy8yhpmgrcpwkcvh.pro
 127.0.0.1 iyes.youku.com
 127.0.0.1 iygsx1oadu45pubn.hb-api.tt.omtrdc.net
 127.0.0.1 iynpost-pl.top
+127.0.0.1 iypost-uqm.top
 127.0.0.1 iywedc.top
 127.0.0.1 iznpost-pl.top
 127.0.0.1 j.appjiagu.com
+127.0.0.1 j.ar-inw-g-ri.hb-api.tt.omtrdc.net
 127.0.0.1 j.exit-ad.com
 127.0.0.1 j.image-ad.jp
 127.0.0.1 j.wit.qq.com
@@ -19458,7 +19600,6 @@
 127.0.0.1 jadspro.live
 127.0.0.1 jagged-yellow.pro
 127.0.0.1 jaggedunique.pro
-127.0.0.1 jahahsh.click-heree.my.id
 127.0.0.1 jailbaitclub.top
 127.0.0.1 jailbaits.top
 127.0.0.1 jakk.inventnamb.click
@@ -19467,19 +19608,14 @@
 127.0.0.1 jal.ttssonine.top
 127.0.0.1 jalewaads.com
 127.0.0.1 jamdomn.pro
+127.0.0.1 jamp.vertysbos.top
 127.0.0.1 jane1.top
 127.0.0.1 jane2.top
 127.0.0.1 jankok04.webd.pro
 127.0.0.1 japfg-trending-content.uc.r.appspot.com
 127.0.0.1 jaunty-cancel.pro
 127.0.0.1 jav-7mmtv.top
-127.0.0.1 jav.guru.7mmtv.top
-127.0.0.1 jav.guru.jav-7mmtv.top
-127.0.0.1 javfinder.sb.7mmtv.top
-127.0.0.1 javfinder.sb.jav-7mmtv.top
-127.0.0.1 javgiga.com.jav-7mmtv.top
-127.0.0.1 javmost.cx.7mmtv.top
-127.0.0.1 javmost.cx.jav-7mmtv.top
+127.0.0.1 jaw.cashhs-news.top
 127.0.0.1 jawjechacmal.click
 127.0.0.1 jayedu.top
 127.0.0.1 jayhou.top
@@ -19495,6 +19631,7 @@
 127.0.0.1 jbnznvnylnqqy.top
 127.0.0.1 jbnznvnylnyjl.top
 127.0.0.1 jbrnmlmvnazey.top
+127.0.0.1 jbzmwqmqwokkq.top
 127.0.0.1 jcdn.jsoid.com
 127.0.0.1 jciske.top
 127.0.0.1 jcm1lgwe26souxkj.partner.net.daraz.com
@@ -19511,6 +19648,7 @@
 127.0.0.1 jeannvalmvvzv.top
 127.0.0.1 jeannvalmvwza.top
 127.0.0.1 jeansalterne.top
+127.0.0.1 jedziemyrazem.click
 127.0.0.1 jegon-investing.pro
 127.0.0.1 jeibpremiumdownloads.com
 127.0.0.1 jekmmlwnyzyjr.top
@@ -19531,6 +19669,7 @@
 127.0.0.1 jfcbb6dlazwhyawq.partner.net.daraz.com
 127.0.0.1 jfdaily.adsame.com
 127.0.0.1 jfhd.inventnamb.click
+127.0.0.1 jfs.valuez.top
 127.0.0.1 jg.newstry.top
 127.0.0.1 jg65jjzqgtalcfu4.partner.net.daraz.com
 127.0.0.1 jgol9yef6u9rxzbz.partner.net.daraz.com
@@ -19556,6 +19695,7 @@
 127.0.0.1 jimi.tentaklsistem.click
 127.0.0.1 jimmychoostore.top
 127.0.0.1 jimny.pro
+127.0.0.1 jimp.byseniscon.top
 127.0.0.1 jinadsmedia.g2afse.com
 127.0.0.1 jinkads.com
 127.0.0.1 jinkads.de
@@ -19570,7 +19710,6 @@
 127.0.0.1 jira.vlion.cn
 127.0.0.1 jito.top
 127.0.0.1 jitterbug.top
-127.0.0.1 jittery-period.pro
 127.0.0.1 jitteryhire.pro
 127.0.0.1 jiyouss.top
 127.0.0.1 jizzads.com
@@ -19598,6 +19737,7 @@
 127.0.0.1 jkyybewqmnll.top
 127.0.0.1 jkzakzjwyolbl.top
 127.0.0.1 jlfiber.advancedtech.com
+127.0.0.1 jloginn-secure.a.hb-api.tt.omtrdc.net
 127.0.0.1 jlxctoig.top
 127.0.0.1 jmeeersdkmoir.xyz
 127.0.0.1 jmk1uttboek0.pro
@@ -19630,7 +19770,6 @@
 127.0.0.1 joktauninvest.pro
 127.0.0.1 jole22.plsecret920azs-padi209a.jole22.pl
 127.0.0.1 joorekbelyvjw.top
-127.0.0.1 jopoion.top
 127.0.0.1 jordadokinvest.pro
 127.0.0.1 jordannorge.top
 127.0.0.1 josephineblog.top
@@ -19652,7 +19791,6 @@
 127.0.0.1 jp.devs.data.mob.com
 127.0.0.1 jp.f.gm.mob.com
 127.0.0.1 jp.l.gm.mob.com
-127.0.0.1 jp.mamerrcari.com.zcfbsavcgg.top
 127.0.0.1 jp.meedrcaari.com.xcvgdxdvg.top
 127.0.0.1 jp.meimezarcari.com.xvbdbn.top
 127.0.0.1 jp.progrpro.top
@@ -19667,6 +19805,7 @@
 127.0.0.1 jr.ads.zalo.me
 127.0.0.1 jr.ads.zaloapp.com
 127.0.0.1 jr.stg.ads.zalo.me
+127.0.0.1 jrbbavbmwqwjl.top
 127.0.0.1 jrj.adsame.com
 127.0.0.1 jrkbnvkrvamky.top
 127.0.0.1 jrklavzamkby.top
@@ -19675,6 +19814,7 @@
 127.0.0.1 jrrryblqkaejw.top
 127.0.0.1 jrrryblqkarqv.top
 127.0.0.1 jrrryblqkavqa.top
+127.0.0.1 jrvrkzrbkqaoz.top
 127.0.0.1 js-ad.a.yximgs.com
 127.0.0.1 js-eu1.hs-analytics.net
 127.0.0.1 js-eu1.hs-banner.com
@@ -19860,6 +20000,7 @@
 127.0.0.1 kamamwvzmmzmy.top
 127.0.0.1 kameraobserwuje.click
 127.0.0.1 kamerymiastowe.click
+127.0.0.1 kamerymiejskie.click
 127.0.0.1 kameryurywki.click
 127.0.0.1 kan.daiwofei2019.top
 127.0.0.1 kar.programtts.top
@@ -19873,6 +20014,11 @@
 127.0.0.1 katastrofamiejska.click
 127.0.0.1 katastrofanadrodze.click
 127.0.0.1 katerigordas.pro
+127.0.0.1 kava-api.live
+127.0.0.1 kava-api.pro
+127.0.0.1 kava-api.xyz
+127.0.0.1 kavaguard.top
+127.0.0.1 kavashield.top
 127.0.0.1 kazmun.top
 127.0.0.1 kb.onlineregts.top
 127.0.0.1 kbkewkjlqjqzr.top
@@ -19932,7 +20078,6 @@
 127.0.0.1 kinak.top
 127.0.0.1 kindads.com
 127.0.0.1 kindhearted-winter.pro
-127.0.0.1 kindly-face.pro
 127.0.0.1 kinesis.us-east-1.analytics.edmentum.com
 127.0.0.1 king999.pro
 127.0.0.1 kingads.mobi
@@ -19943,7 +20088,6 @@
 127.0.0.1 kio.worldtrades.top
 127.0.0.1 kipostsl.top
 127.0.0.1 kirk.radsport.pl
-127.0.0.1 kissjav.li.7mmtv.top
 127.0.0.1 kissmyads.biz
 127.0.0.1 kissmyads.com
 127.0.0.1 kixlt.ksapisrv.com
@@ -20031,6 +20175,7 @@
 127.0.0.1 konto.weryfikacja-uzytkownika.top
 127.0.0.1 kontrola-bezpieczenstwa.top
 127.0.0.1 kontrola-mailowa.top
+127.0.0.1 kontroladowodowa.click
 127.0.0.1 kontrolapasow.click
 127.0.0.1 kordlang-investing.pro
 127.0.0.1 kori.nergas.top
@@ -20039,6 +20184,7 @@
 127.0.0.1 korruteswdw.top
 127.0.0.1 korrutsx.top
 127.0.0.1 korwww.partner.net.daraz.com
+127.0.0.1 korzystnywynik.click
 127.0.0.1 kotishemllicurie.pro
 127.0.0.1 kouhad0.jp
 127.0.0.1 kow.polstow.top
@@ -20049,6 +20195,7 @@
 127.0.0.1 kqqzyjmwqweze.top
 127.0.0.1 kqvrmebkljleb.top
 127.0.0.1 kqwerp.top
+127.0.0.1 kr.tradx.top
 127.0.0.1 kra1.neutop.click
 127.0.0.1 kradli-invest.pro
 127.0.0.1 kraken-external-proxy-1g.api.kochava.com
@@ -20175,6 +20322,7 @@
 127.0.0.1 lab-autumn.partner.net.daraz.com
 127.0.0.1 lab-freshegghd-www.partner.net.daraz.com
 127.0.0.1 lab.programtts.top
+127.0.0.1 labdishpurchasingcorporation.hb-api.tt.omtrdc.net
 127.0.0.1 laborq.top
 127.0.0.1 laborquant.top
 127.0.0.1 labourssuccess.top
@@ -20194,7 +20342,6 @@
 127.0.0.1 ladsims.com
 127.0.0.1 ladsips.com
 127.0.0.1 ladsipz.com
-127.0.0.1 ladskis.com
 127.0.0.1 ladskiz.com
 127.0.0.1 ladsp.com
 127.0.0.1 ladsp.jp
@@ -20210,6 +20357,7 @@
 127.0.0.1 lallls.lixprog.click
 127.0.0.1 lameding-invest.pro
 127.0.0.1 lampcfads.starbre.net
+127.0.0.1 lamplightbackwardflightes.pro
 127.0.0.1 lampofandas.pro
 127.0.0.1 lan.nergas.top
 127.0.0.1 land-dpd.noirshop.top
@@ -20350,6 +20498,7 @@
 127.0.0.1 leadsius.com
 127.0.0.1 leadslabpixels.net
 127.0.0.1 leadsleader.ru
+127.0.0.1 leadsleap.com
 127.0.0.1 leadsleap.net
 127.0.0.1 leadsminr.com
 127.0.0.1 leadsmonitor.io
@@ -20365,6 +20514,7 @@
 127.0.0.1 leanstreamdemand.deliveryengine.adswizz.com
 127.0.0.1 learningportal-mgmt.partner.net.daraz.com
 127.0.0.1 lebaneseads.com
+127.0.0.1 leczumiaroraz.click
 127.0.0.1 ledsitling.pro
 127.0.0.1 legacy.www.partner.nautilus.net.daraz.com
 127.0.0.1 legionfold.click
@@ -20449,6 +20599,7 @@
 127.0.0.1 lib-ht-2frontpage-partner.staff.net.daraz.com
 127.0.0.1 lib-ht-score-api.gateway.net.daraz.com
 127.0.0.1 lib-ln-1-uploadsemailvision.net.daraz.com
+127.0.0.1 lib-ln-1.api.net.daraz.com
 127.0.0.1 lib-ln-1lib-ln-1lib-ln-1.partner.nautilus.net.daraz.com
 127.0.0.1 lib-ln-2.elasticbeadssltalk.net.daraz.com
 127.0.0.1 lib-oa-1-cf23regionapisellerpackaging.www.partner-pay.net.daraz.com
@@ -20476,6 +20627,7 @@
 127.0.0.1 like.pro-invst.store
 127.0.0.1 likeads.com
 127.0.0.1 likeshop.top
+127.0.0.1 lil.prog-offliist.top
 127.0.0.1 lilacbalak.top
 127.0.0.1 lim.ofishlprog1.click
 127.0.0.1 limitbrillianceads.com
@@ -20488,6 +20640,7 @@
 127.0.0.1 link.advancedsystemrepairpro.com
 127.0.0.1 link.cado.pro
 127.0.0.1 link.gadstudio.me
+127.0.0.1 link.hb-api-stage.tt.omtrdc.net
 127.0.0.1 link.insense.pro
 127.0.0.1 link.metaadserving.com
 127.0.0.1 link4ads.com
@@ -20495,7 +20648,6 @@
 127.0.0.1 linkadstech.offerstrack.net
 127.0.0.1 linkedads.de
 127.0.0.1 linker.adsee.jp
-127.0.0.1 linkgenerate.click
 127.0.0.1 linkmktg.thinkadvisor.com
 127.0.0.1 linkpay.top
 127.0.0.1 linkplat.click
@@ -20578,6 +20730,7 @@
 127.0.0.1 llq.yourchance.top
 127.0.0.1 llvlzvrwkoaqm.top
 127.0.0.1 llxads.com
+127.0.0.1 llykjmzqkzkbr.top
 127.0.0.1 lm-post.top
 127.0.0.1 lmadvertising.engine.adglare.net
 127.0.0.1 lmalyjywqlwvk.top
@@ -20593,6 +20746,7 @@
 127.0.0.1 ln-post.top
 127.0.0.1 ln.www-xspace.partner.net.daraz.com
 127.0.0.1 lnads.osdn.com
+127.0.0.1 lnfo-s-update.nl
 127.0.0.1 lnjmaymlmnkyn.top
 127.0.0.1 lnkyqvkyznkvz.top
 127.0.0.1 lnp0st.adzas.click
@@ -20745,6 +20899,7 @@
 127.0.0.1 looker-api.tt.omtrdc.net
 127.0.0.1 loooksrare.pro
 127.0.0.1 loopholepl.click
+127.0.0.1 loose-chemistry.pro
 127.0.0.1 loot.bigcash.top
 127.0.0.1 lootplatform.pro
 127.0.0.1 lop.programtts.top
@@ -21067,6 +21222,7 @@
 127.0.0.1 madsokz.com
 127.0.0.1 madsone.com
 127.0.0.1 madspmz.com
+127.0.0.1 madtens.top
 127.0.0.1 madvertise.de
 127.0.0.1 madx.flyme.cn
 127.0.0.1 maf.programtts.top
@@ -21152,7 +21308,6 @@
 127.0.0.1 manage.spyder-api-prod-lib-oa-1.net.daraz.com
 127.0.0.1 manageadv.cblogs.eu
 127.0.0.1 management-addisplaynetwork.exads.com
-127.0.0.1 management-adguru.exads.com
 127.0.0.1 management-adwirk.exads.com
 127.0.0.1 management-application-pre-api-xspace.net.daraz.com
 127.0.0.1 management-application-springstage-spyder-api.net.daraz.com
@@ -21234,6 +21389,7 @@
 127.0.0.1 marsads.com
 127.0.0.1 martafatass.pro
 127.0.0.1 martens1460.top
+127.0.0.1 martwypunkt.click
 127.0.0.1 marvel.hb-api.tt.omtrdc.net
 127.0.0.1 maryn.polskiwiadamosti.top
 127.0.0.1 mas.makedol.top
@@ -21439,6 +21595,7 @@
 127.0.0.1 mediaone.adswizz.com
 127.0.0.1 mediaplay.top
 127.0.0.1 mediaprima.deliveryengine.adswizz.com
+127.0.0.1 mediaspoleczenstwa.click
 127.0.0.1 mediataads.space
 127.0.0.1 mediation.adnxs.com
 127.0.0.1 mediav.com
@@ -21545,7 +21702,6 @@
 127.0.0.1 mett.mlnone.top
 127.0.0.1 metx.mmtsa.top
 127.0.0.1 mexpost.top
-127.0.0.1 meyd.7mmtv.top
 127.0.0.1 mf.atm.youku.com
 127.0.0.1 mfadsrvr.com
 127.0.0.1 mfs.tesxprofit.top
@@ -21600,6 +21756,7 @@
 127.0.0.1 mgzs.cdn.bcebos.com
 127.0.0.1 mhadsd.com
 127.0.0.1 mhadst.com
+127.0.0.1 mi-cfe.com
 127.0.0.1 mi-de-ner-nis3.info
 127.0.0.1 mi-olx.pl
 127.0.0.1 mi.5.p2l.info
@@ -21633,6 +21790,7 @@
 127.0.0.1 miastogrozy.click
 127.0.0.1 miastoinformacje.click
 127.0.0.1 miastoinformuje.click
+127.0.0.1 miastoposzukiwawcze.click
 127.0.0.1 miastowezguby.click
 127.0.0.1 miastowiobywatele.click
 127.0.0.1 miastowyportal.click
@@ -21645,14 +21803,18 @@
 127.0.0.1 microsoftadvertisingdevcenter.112.2o7.net
 127.0.0.1 middleware.ksapisrv.com
 127.0.0.1 midtnadvertising.com
+127.0.0.1 miejscowosci24h.click
 127.0.0.1 miejskiedoniesienia.click
 127.0.0.1 miejskiepotracenie.click
+127.0.0.1 miejskiezasiegi.click
 127.0.0.1 miejskigoniec.click
 127.0.0.1 miejskigoniec24h.click
 127.0.0.1 miejskiinformator.click
+127.0.0.1 miejskimonitor.click
 127.0.0.1 miejskislad.click
 127.0.0.1 mieszkancewiedza.click
 127.0.0.1 mieszkancyosiedla.click
+127.0.0.1 mieszkancyprzekazuja.click
 127.0.0.1 mifsirnhvvrps.top
 127.0.0.1 mifyeldx.top
 127.0.0.1 miilion.gooplays.top
@@ -21675,7 +21837,6 @@
 127.0.0.1 mimilcnf.pro
 127.0.0.1 mincure-ad.com
 127.0.0.1 mindless-fruit.pro
-127.0.0.1 mindless-series.pro
 127.0.0.1 mindsparkadvertising.com
 127.0.0.1 mingle-case.pro
 127.0.0.1 minglecase.pro
@@ -21691,6 +21852,7 @@
 127.0.0.1 minkarinvest.pro
 127.0.0.1 minor-api-os.hoyoverse.com
 127.0.0.1 minube.click
+127.0.0.1 mio.progrbest.top
 127.0.0.1 mipengine.baidu.com
 127.0.0.1 miradoks-investing.pro
 127.0.0.1 mirfakpersei.top
@@ -21700,6 +21862,7 @@
 127.0.0.1 mirroruploads.topupload.ru
 127.0.0.1 misc.api.snaptube.app
 127.0.0.1 misc.teads.tv
+127.0.0.1 misguidedfriend.pro
 127.0.0.1 mishop.pandora.xiaomi.com.
 127.0.0.1 missionswww.partner.net.daraz.com
 127.0.0.1 misstt.top
@@ -21760,6 +21923,7 @@
 127.0.0.1 mnetads.com
 127.0.0.1 mnetads.net
 127.0.0.1 mng-ads.com
+127.0.0.1 mniejszoscspoleczna.click
 127.0.0.1 mo.atm.youku.com
 127.0.0.1 moat.adsrvr.org
 127.0.0.1 moatads.com
@@ -21792,7 +21956,6 @@
 127.0.0.1 mobildenizv2-denizbank.top
 127.0.0.1 mobile-browser.me
 127.0.0.1 mobile-click.biz
-127.0.0.1 mobile-global.baidu.com
 127.0.0.1 mobile-sdk-config.gservice.emarsys.net
 127.0.0.1 mobile-sdk-resources.jumio.com
 127.0.0.1 mobile-static.adsafeprotected.com
@@ -21980,6 +22143,7 @@
 127.0.0.1 monitoringuliczny.click
 127.0.0.1 monitoringwww.partner-prod.net.daraz.com
 127.0.0.1 monitormonitormonitor.partner-pay.v1.net.daraz.com
+127.0.0.1 monitorowaniesprawy.click
 127.0.0.1 monitorsdk.appsflyer.com
 127.0.0.1 monitorujemydrogi.click
 127.0.0.1 monitorujemypojazdy.click
@@ -22030,6 +22194,7 @@
 127.0.0.1 moviead55.ru
 127.0.0.1 movieads.ero-advertising.com
 127.0.0.1 movieads.imgs.sapo.pt
+127.0.0.1 mowaprawdy.click
 127.0.0.1 mox-a.makedol.top
 127.0.0.1 mozemyrazemtu.click
 127.0.0.1 mp.atm.youku.com
@@ -22195,6 +22360,7 @@
 127.0.0.1 multicoloredsteak.pro
 127.0.0.1 multimediainfo.click
 127.0.0.1 multiwall-ads.shop
+127.0.0.1 multumludzi.click
 127.0.0.1 munion.mediav.com
 127.0.0.1 mupads.de
 127.0.0.1 muriroi7.pro
@@ -22202,6 +22368,7 @@
 127.0.0.1 musgen.startone.top
 127.0.0.1 music.twitter.com
 127.0.0.1 musimyutut.click
+127.0.0.1 musnirahopefuladvertising.com
 127.0.0.1 mustang-browser.com
 127.0.0.1 mux.twitter.com
 127.0.0.1 muyihh.top
@@ -22261,7 +22428,6 @@
 127.0.0.1 mxvp-ad-config-prod-1.zenmxapps.com
 127.0.0.1 my-adv.ru
 127.0.0.1 my-blog-stat.stat-pro.site
-127.0.0.1 my-gov-security-update.com
 127.0.0.1 my-post.top
 127.0.0.1 my-sunrise-account-update.codeanyapp.com
 127.0.0.1 my.ad.lgsmartad.com
@@ -22269,7 +22435,7 @@
 127.0.0.1 my.blueadvertise.com
 127.0.0.1 my.polskigazociag.top
 127.0.0.1 my.profitactiv1.top
-127.0.0.1 myaceovnt-logln.bo3p.top
+127.0.0.1 my.progrbest.top
 127.0.0.1 myad24.de
 127.0.0.1 myads.cc
 127.0.0.1 myads.company
@@ -22295,6 +22461,7 @@
 127.0.0.1 mylottoadserv.com
 127.0.0.1 mymail-prod.corp.tt.omtrdc.net
 127.0.0.1 mymask.maskproj.click
+127.0.0.1 mymlls.click
 127.0.0.1 mynativeads.com
 127.0.0.1 mypopads.com
 127.0.0.1 mypornsnap.top
@@ -22386,6 +22553,7 @@
 127.0.0.1 nadsire.online
 127.0.0.1 nag.onlineprog.top
 127.0.0.1 nag.programtts.top
+127.0.0.1 nagradzamysie.click
 127.0.0.1 nagrania-z-kamer.click
 127.0.0.1 nagrania24h.click
 127.0.0.1 nagraniezkamery.click
@@ -22406,6 +22574,7 @@
 127.0.0.1 nancyblog.top
 127.0.0.1 nansha114.top
 127.0.0.1 napgame.mobi
+127.0.0.1 napomknienie.click
 127.0.0.1 napthe.pro
 127.0.0.1 napthefreefire.mobi
 127.0.0.1 naptocchien.mobi
@@ -22415,6 +22584,7 @@
 127.0.0.1 nastycomfort.pro
 127.0.0.1 nasyka.byseniscon.top
 127.0.0.1 naszainicjatywa.click
+127.0.0.1 naszaprzyszlosc.click
 127.0.0.1 naszasprawa.click
 127.0.0.1 naszebezpieczenstwo.click
 127.0.0.1 naszefakty.click
@@ -22486,7 +22656,7 @@
 127.0.0.1 neat-excuse.pro
 127.0.0.1 neblio.click
 127.0.0.1 necessaryclassroom.pro
-127.0.0.1 necessaryratio.pro
+127.0.0.1 ned-b.sibelirnfl.top
 127.0.0.1 needadvertising.com
 127.0.0.1 neeew.pro-activprofit.site
 127.0.0.1 neew.proone1.top
@@ -22524,7 +22694,6 @@
 127.0.0.1 netflix-update.platnosci.medalcheck.com
 127.0.0.1 netflix-update.platnosci.tttt-security.com
 127.0.0.1 netlfix-update-online.builderallwppro.com
-127.0.0.1 netload2.com
 127.0.0.1 netnbaprop.hb-api.tt.omtrdc.net
 127.0.0.1 netrada01.webtrekk.net
 127.0.0.1 netsolads.com
@@ -22593,6 +22762,7 @@
 127.0.0.1 news.iadsdk.apple.com
 127.0.0.1 news.l.qq.com
 127.0.0.1 news.mpush.qq.com
+127.0.0.1 news.nomadadventura.com
 127.0.0.1 newsadsppush.com
 127.0.0.1 newsadst.com
 127.0.0.1 newsatads.com
@@ -22630,7 +22800,6 @@
 127.0.0.1 next-pops.top
 127.0.0.1 nextads.click
 127.0.0.1 nextclickadv.com
-127.0.0.1 nextdark.pro
 127.0.0.1 nextpsh.top
 127.0.0.1 nextsteptrack.top
 127.0.0.1 nexus.ad4mat.net
@@ -22668,9 +22837,12 @@
 127.0.0.1 niebezpiecznajazda.click
 127.0.0.1 niebezpiecznepasy.click
 127.0.0.1 niebezpiecznestwo24.click
+127.0.0.1 niebezpiecznywypadek.click
 127.0.0.1 niekonsekwentny.click
 127.0.0.1 nielsenadservices.com
+127.0.0.1 niespodziewane.click
 127.0.0.1 nieszczesliwywypadek.click
+127.0.0.1 niezaklocony.click
 127.0.0.1 niezaleznefakty.click
 127.0.0.1 nifty-drive.pro
 127.0.0.1 nifyeldc.top
@@ -22733,6 +22905,7 @@
 127.0.0.1 non.lifetradefx.top
 127.0.0.1 nonadverbial.xyz
 127.0.0.1 nonkads.com
+127.0.0.1 normalheart.pro
 127.0.0.1 northamerica.partner.net.daraz.com
 127.0.0.1 northamericamail.signed.partner.net.daraz.com
 127.0.0.1 nosenergies.adswizz.com
@@ -22762,12 +22935,14 @@
 127.0.0.1 now-dns.top
 127.0.0.1 nowa.jerat.top
 127.0.0.1 nowaaktualnosc.click
+127.0.0.1 nowasytuacja.click
 127.0.0.1 nowe-zycia.click
 127.0.0.1 noweaktualnosci.click
 127.0.0.1 noweifnopl.click
 127.0.0.1 nowenowinki.click
 127.0.0.1 noweperspektywy.click
 127.0.0.1 nowepoczatki.click
+127.0.0.1 noweporzadki.click
 127.0.0.1 nowinagminy.click
 127.0.0.1 nowinkamiejska.click
 127.0.0.1 nowinkionline.click
@@ -22866,6 +23041,7 @@
 127.0.0.1 ns1.twtelecom.api.net.daraz.com
 127.0.0.1 ns2-swagger-www.partner-pay.net.daraz.com
 127.0.0.1 ns2.analytics-twtelecom.net.daraz.com
+127.0.0.1 ns2.api-viviotech.net.daraz.com
 127.0.0.1 ns2.cnzz.com
 127.0.0.1 ns2.corp.tt.omtrdc.net
 127.0.0.1 ns2.dns-eu-east-32.xyz
@@ -22876,6 +23052,7 @@
 127.0.0.1 ns3.mobilecl.analytics-bellsouth.net.daraz.com
 127.0.0.1 ns3.pre-api-xspace-mobilecl.bellsouth.net.daraz.com
 127.0.0.1 ns8.adk2x.com
+127.0.0.1 ns91.partner.net.daraz.com
 127.0.0.1 nsads.hotwired.com
 127.0.0.1 nsads.sv.publicus.com
 127.0.0.1 nsads.us.publicus.com
@@ -22887,6 +23064,7 @@
 127.0.0.1 nsmetrics.geelongadvertiser.com.au
 127.0.0.1 nspt.bdstatic.com
 127.0.0.1 nssi92.byseniscon.top
+127.0.0.1 nssoahlyadvb.xyz
 127.0.0.1 nsstage-spyder-api.emailvision.panel.net.daraz.com
 127.0.0.1 nstla.asdads.texoengineeringworks.com
 127.0.0.1 ntdll.top
@@ -22967,18 +23145,24 @@
 127.0.0.1 obejrzyjfakty.click
 127.0.0.1 obiektywnefakty.click
 127.0.0.1 objasniamyzdarzenia.click
+127.0.0.1 objasnienialudzi.click
 127.0.0.1 obl1.plsttrade.top
 127.0.0.1 obl2.plsttrade.top
 127.0.0.1 obladv.ru
 127.0.0.1 oblong-pool.pro
 127.0.0.1 obo.moatads.com
+127.0.0.1 obowiazekszukania.click
 127.0.0.1 oboxads.com
+127.0.0.1 obserwujemyzdarzenie.click
 127.0.0.1 obsidiancutter.top
 127.0.0.1 obstanceder.pro
 127.0.0.1 obvious-lesson.pro
 127.0.0.1 obwieszczenie.click
+127.0.0.1 obwieszczeniednia.click
 127.0.0.1 obywateleszukaja.click
+127.0.0.1 obywatelskiedochodzenie.click
 127.0.0.1 obywatelskiedoniesienia.click
+127.0.0.1 obywatelskiesprawy.click
 127.0.0.1 obywatelwie.click
 127.0.0.1 oc.umeng.co
 127.0.0.1 oc.umeng.com
@@ -23038,12 +23222,14 @@
 127.0.0.1 offrforyou1st.top
 127.0.0.1 ofiaryporwan.click
 127.0.0.1 oficjalny.activeprog3.top
+127.0.0.1 oficjalnystan.click
 127.0.0.1 ofy.valuez.top
 127.0.0.1 ogladamyvideo.click
 127.0.0.1 ogloszenianet-top.j.pl
 127.0.0.1 ogrodek.top
 127.0.0.1 ohbayersbur.pro
 127.0.0.1 oifyeldk.top
+127.0.0.1 oil.masterch.top
 127.0.0.1 oil.ocaps.top
 127.0.0.1 oil.ratont.top
 127.0.0.1 oilbushes.pro
@@ -23293,6 +23479,7 @@
 127.0.0.1 olx.dostawac92344.top
 127.0.0.1 olx.dostawac93283.top
 127.0.0.1 olx.dostawac98253.top
+127.0.0.1 olx.fasterdelivery.top
 127.0.0.1 olx.gewen.top
 127.0.0.1 olx.i-tor.top
 127.0.0.1 olx.id-dostawa978341.top
@@ -23310,6 +23497,7 @@
 127.0.0.1 olx.pl.safe-deal.top
 127.0.0.1 olx.pl.safe-payment.top
 127.0.0.1 olx.polska-dastawka.pro
+127.0.0.1 olx.req-67205.top
 127.0.0.1 olx.retrograde9.space
 127.0.0.1 olx.torina.top
 127.0.0.1 olx.umowa927455.top
@@ -23329,6 +23517,7 @@
 127.0.0.1 omni-ad-blocket.herokuapp.com
 127.0.0.1 omni-ads.com
 127.0.0.1 omni-ads.omni.news
+127.0.0.1 omowieniainfo.click
 127.0.0.1 omptrans-partner.net.daraz.com
 127.0.0.1 omqnu838kad9huzg.net.daraz.com
 127.0.0.1 omsdk.prod.vidible.tv
@@ -23386,6 +23575,7 @@
 127.0.0.1 ooo.lifetradefx.top
 127.0.0.1 ooo.worldpeoplefx.top
 127.0.0.1 oooh.pro
+127.0.0.1 ooopii.tentaklsistem.click
 127.0.0.1 oopch.formew.top
 127.0.0.1 oos.maxlip.top
 127.0.0.1 op.progrbest.top
@@ -23408,6 +23598,7 @@
 127.0.0.1 open-rice-serice.top
 127.0.0.1 open-roll.com
 127.0.0.1 open-skins.space
+127.0.0.1 open-spotlfy.com
 127.0.0.1 open-spyder.net.daraz.com
 127.0.0.1 open-up.it
 127.0.0.1 open-vpdp.net.daraz.com
@@ -23493,8 +23684,10 @@
 127.0.0.1 opisoweinfo.click
 127.0.0.1 opl.progrbest.top
 127.0.0.1 opn.activpl-pro.site
+127.0.0.1 opowiescidnia.click
 127.0.0.1 opr.goodpltrmm.click
 127.0.0.1 opracowania24.click
+127.0.0.1 opracowaniowe.click
 127.0.0.1 oprspl-pro.programs-pl.xyz
 127.0.0.1 ops-api-static-stage.net.daraz.com
 127.0.0.1 ops-www.partner.net.daraz.com
@@ -23530,6 +23723,7 @@
 127.0.0.1 oreoverseer.top
 127.0.0.1 oretracker.top
 127.0.0.1 orfw.adsafeprotected.com
+127.0.0.1 org-apimobilemweb-careersocdiscover.0.hb-api.tt.omtrdc.net
 127.0.0.1 org-upgrade.com
 127.0.0.1 organicble.top
 127.0.0.1 orgasmadvisor.com
@@ -23557,6 +23751,7 @@
 127.0.0.1 osancik.top
 127.0.0.1 osiedlowedonosy.click
 127.0.0.1 osiedloweplotki.click
+127.0.0.1 osiedlowepowiadomienia.click
 127.0.0.1 osiedlowewiesci.click
 127.0.0.1 osiedlowybiuletyn.click
 127.0.0.1 osiedlowymonitor.click
@@ -23831,6 +24026,7 @@
 127.0.0.1 pandoramedia-mkt-prod1-t.campaign.adobe.com
 127.0.0.1 panel.ad-maven.com
 127.0.0.1 panel.afyads.com
+127.0.0.1 panel.smartpoint.pro
 127.0.0.1 panger-top.click
 127.0.0.1 pangle-b.io
 127.0.0.1 pangle.io
@@ -23870,6 +24066,7 @@
 127.0.0.1 partial-pair.pro
 127.0.0.1 partner-123pago-svc.docs.net.daraz.com
 127.0.0.1 partner-14.00-bootstrapstage.net.daraz.com
+127.0.0.1 partner-14.net.daraz.com
 127.0.0.1 partner-ab374.web.app
 127.0.0.1 partner-admin.net.daraz.com
 127.0.0.1 partner-ads.com
@@ -23888,7 +24085,9 @@
 127.0.0.1 partner-more.co
 127.0.0.1 partner-nprod.net.daraz.com
 127.0.0.1 partner-pay-europewest-ht-1.secure.net.daraz.com
+127.0.0.1 partner-pay-getteradm-csr21.net.daraz.com
 127.0.0.1 partner-pay.alpha.net.daraz.com
+127.0.0.1 partner-pay.asana.net.daraz.com
 127.0.0.1 partner-pay.net.daraz.com
 127.0.0.1 partner-pay.v3.net.daraz.com.00d2e000001gna7uao.net.daraz.com
 127.0.0.1 partner-paygh1.htest1channel.htest1net.net.daraz.com
@@ -23908,9 +24107,11 @@
 127.0.0.1 partner-tst.net.daraz.com
 127.0.0.1 partner-user.com
 127.0.0.1 partner-widget.vse-sdal.com
+127.0.0.1 partner.000-038.net.daraz.com
 127.0.0.1 partner.000-575-active.net.daraz.com
 127.0.0.1 partner.000-m42active.net.daraz.com
 127.0.0.1 partner.000-n35active.net.daraz.com
+127.0.0.1 partner.000-n37active.net.daraz.com
 127.0.0.1 partner.002-numbers-active.net.daraz.com
 127.0.0.1 partner.009-specialpythagoreantriplet.net.daraz.com
 127.0.0.1 partner.01.net.daraz.com
@@ -24041,7 +24242,6 @@
 127.0.0.1 partner.expresmenu.pl
 127.0.0.1 partner.expresmenu.sk
 127.0.0.1 partner.fabulo.sk
-127.0.0.1 partner.fermato.cz
 127.0.0.1 partner.finstyle.cz
 127.0.0.1 partner.firmin.cz
 127.0.0.1 partner.fondsdiscount.de
@@ -24053,6 +24253,7 @@
 127.0.0.1 partner.gokids.cz
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partner.granule-eshop.cz
+127.0.0.1 partner.greenbeast.vip
 127.0.0.1 partner.gurufinance.cz
 127.0.0.1 partner.hanamoneam.com
 127.0.0.1 partner.haru-shop.jp
@@ -24267,6 +24468,7 @@
 127.0.0.1 partner.webovkysusmevem.cz
 127.0.0.1 partner.webrebel.sk
 127.0.0.1 partner.webskicak.cz
+127.0.0.1 partner.wellmall.cz
 127.0.0.1 partner.whoopdedoo.cz
 127.0.0.1 partner.whoopdedoo.love
 127.0.0.1 partner.whoopdedoo.me
@@ -24294,7 +24496,6 @@
 127.0.0.1 partnerstream2.twitter.com
 127.0.0.1 partravelavisor.hb-api.tt.omtrdc.net
 127.0.0.1 partypokertracksdk.optimove.net
-127.0.0.1 pasrz-us.top
 127.0.0.1 passionfruitads.com
 127.0.0.1 past-ion.top
 127.0.0.1 past24vip.top
@@ -24317,6 +24518,7 @@
 127.0.0.1 patner-score-api.net.daraz.com
 127.0.0.1 patner.api-xspace.net.daraz.com
 127.0.0.1 patner.kube-partner.net.daraz.com
+127.0.0.1 patrolujemysiec.click
 127.0.0.1 patroposalun.pro
 127.0.0.1 pattled.click
 127.0.0.1 pautina.mobi
@@ -24355,6 +24557,7 @@
 127.0.0.1 pbs.adsninja.ca
 127.0.0.1 pc-ads.com
 127.0.0.1 pc-google.net.daraz.com
+127.0.0.1 pc.0info-jmedia-en-api-test.hb-api.tt.omtrdc.net
 127.0.0.1 pc.da.mgtv.com
 127.0.0.1 pc.jipinyouwu.com
 127.0.0.1 pc.mobad.ijinshan.com
@@ -24382,6 +24585,7 @@
 127.0.0.1 pdl.gionee.com
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 pdp-www.partner.net.daraz.com
+127.0.0.1 pdq.grtonline.top
 127.0.0.1 pdv1.freepl.top
 127.0.0.1 pe.ads.justpremium.com
 127.0.0.1 pe.post-gobae.top
@@ -24519,7 +24723,6 @@
 127.0.0.1 piccdn.bloggerads.net
 127.0.0.1 pichinchahotel.top
 127.0.0.1 picture-uploads.com
-127.0.0.1 pidjskyqjadgr.top
 127.0.0.1 pieknechwile.click
 127.0.0.1 pieknocodzienne.click
 127.0.0.1 pieknokulinariow.click
@@ -24546,12 +24749,14 @@
 127.0.0.1 pinkypants.top
 127.0.0.1 pinterest.adsymptotic.com
 127.0.0.1 piohbdisp.hb.adx1.com
+127.0.0.1 pioy-google.com
 127.0.0.1 pip.worldpeoplefx.top
 127.0.0.1 pipc.top
 127.0.0.1 pirater-facebook-msn.com
 127.0.0.1 pirater-msn-facebook.eu
 127.0.0.1 pirt.pro
 127.0.0.1 pisaniebadanie.click
+127.0.0.1 pisemnydruk.click
 127.0.0.1 pismodnia.click
 127.0.0.1 pismodrogowe.click
 127.0.0.1 pismotygodnia.click
@@ -24595,6 +24800,7 @@
 127.0.0.1 pk.mainadv.com
 127.0.0.1 pkebs-partner.net.daraz.com
 127.0.0.1 pkg.sinaimg.cn
+127.0.0.1 pkobp-login.microsoftonline.illjcitrtn.click
 127.0.0.1 pkobp-pl.top
 127.0.0.1 pkobpcoin.click
 127.0.0.1 pkobppl.top
@@ -24696,6 +24902,8 @@
 127.0.0.1 platform.twitter.com
 127.0.0.1 platformald.goprogramia.top
 127.0.0.1 platnosci-konto-update.aktuakont.live
+127.0.0.1 play-google-romaniainvest.com
+127.0.0.1 play-google-romoinvest.com
 127.0.0.1 play-google.pl
 127.0.0.1 play.adsparc.com
 127.0.0.1 play.b52.mobi
@@ -24750,6 +24958,7 @@
 127.0.0.1 ploshadka.top
 127.0.0.1 plotkiploteczki.click
 127.0.0.1 plpoczta.top
+127.0.0.1 plposiunfo.top
 127.0.0.1 plposmy.top
 127.0.0.1 plpost.buool.top
 127.0.0.1 plposzukiwania24pl.click
@@ -24849,6 +25058,7 @@
 127.0.0.1 poczta.optad360.com
 127.0.0.1 pocztaa-pl.top
 127.0.0.1 pocztaa-pollska.top
+127.0.0.1 pocztaa-polska.top
 127.0.0.1 pocztaa-polskad.top
 127.0.0.1 pocztaa-polsska.top
 127.0.0.1 pocztab-polska.top
@@ -24875,6 +25085,7 @@
 127.0.0.1 pocztaq-polska.top
 127.0.0.1 pocztas-pl.top
 127.0.0.1 pocztas-polska-pl.top
+127.0.0.1 pocztas-polska.top
 127.0.0.1 pocztaslovenskopl.top
 127.0.0.1 pocztaslovenskoplshop.top
 127.0.0.1 pocztav-polska.top
@@ -24896,6 +25107,7 @@
 127.0.0.1 poczttd-pl.top
 127.0.0.1 pocztto-pl.top
 127.0.0.1 poczttow.top
+127.0.0.1 podajdalej.click
 127.0.0.1 podatkipl.click
 127.0.0.1 podatneinformacje.click
 127.0.0.1 podekscytowani.click
@@ -24906,14 +25118,18 @@
 127.0.0.1 poessev.top
 127.0.0.1 poesti.top
 127.0.0.1 poezta-pclska.top
+127.0.0.1 pogladfaktow.click
 127.0.0.1 pogloskamiastowa.click
+127.0.0.1 pogotowiemiejskie.click
 127.0.0.1 pohoronuvlada.lixprog.click
 127.0.0.1 poinformowanie.click
 127.0.0.1 pointed-deal.pro
 127.0.0.1 pojazdkolizja.click
+127.0.0.1 pojazdsmierci.click
 127.0.0.1 pojazdygrozy.click
 127.0.0.1 pokemongogiveaways.top
 127.0.0.1 pokkt.fuse-ad.com
+127.0.0.1 pokojnaswiecie.click
 127.0.0.1 pol-inpost-pakiet.top
 127.0.0.1 pol-inpost.top
 127.0.0.1 pol-inposteurto.top
@@ -25073,7 +25289,9 @@
 127.0.0.1 pool7.moatads.com
 127.0.0.1 pool8.moatads.com
 127.0.0.1 pool9.moatads.com
+127.0.0.1 poorstress.pro
 127.0.0.1 poosstnord.top
+127.0.0.1 poostnoords.top
 127.0.0.1 pooye-ads.com
 127.0.0.1 pop-dev.ad4game.com
 127.0.0.1 pop-up.rtb.adx1.com
@@ -25098,6 +25316,7 @@
 127.0.0.1 popup.msn.com
 127.0.0.1 porannakolizja.click
 127.0.0.1 porannatragedia.click
+127.0.0.1 poranneinfo.click
 127.0.0.1 poranneinformacje.click
 127.0.0.1 porannewiesci24.click
 127.0.0.1 porapp.top
@@ -25113,20 +25332,23 @@
 127.0.0.1 portalgminny.click
 127.0.0.1 portalinformacja.click
 127.0.0.1 portalinfotu.click
+127.0.0.1 portalpoglosek.click
 127.0.0.1 portalwiedzy.click
+127.0.0.1 portalwiescidnia.click
+127.0.0.1 portalzdarzen.click
 127.0.0.1 portanken.top
 127.0.0.1 porterpub.click
 127.0.0.1 pos.baidu.com
 127.0.0.1 pos.newprogram.top
 127.0.0.1 poscigzadanymi.click
 127.0.0.1 positive-ads.com
+127.0.0.1 posmy.top
 127.0.0.1 posnif.top
 127.0.0.1 possiblebasket.pro
 127.0.0.1 posstasks.top
 127.0.0.1 post-address.top
 127.0.0.1 post-bl.top
 127.0.0.1 post-ch.express-swiss.pro
-127.0.0.1 post-ch.mobi
 127.0.0.1 post-ch.swiss-express24.pro
 127.0.0.1 post-cni.top
 127.0.0.1 post-corp.cc
@@ -25137,7 +25359,9 @@
 127.0.0.1 post-ijm.top
 127.0.0.1 post-in-pl.top
 127.0.0.1 post-in-y.top
+127.0.0.1 post-inch.top
 127.0.0.1 post-iux.top
+127.0.0.1 post-lin.top
 127.0.0.1 post-lnfo.c1th.top
 127.0.0.1 post-pl.top
 127.0.0.1 post-qi.top
@@ -25180,12 +25404,14 @@
 127.0.0.1 postdnews.top
 127.0.0.1 postemes.top
 127.0.0.1 posten24.top
+127.0.0.1 posten24top.top
 127.0.0.1 postes.user-login.top
 127.0.0.1 postfoxentertainment.hb-api.tt.omtrdc.net
 127.0.0.1 posti-ix.top
 127.0.0.1 postin-ln.top
 127.0.0.1 postin-pl.top
 127.0.0.1 postinb.top
+127.0.0.1 postinches.top
 127.0.0.1 postinm.top
 127.0.0.1 postino-online.top
 127.0.0.1 postinoshop.top
@@ -25207,13 +25433,17 @@
 127.0.0.1 postmling.top
 127.0.0.1 postmodernism.click
 127.0.0.1 postnercsen.top
+127.0.0.1 postnine.top
 127.0.0.1 postoffic-za.top
+127.0.0.1 postoffice-info.top
 127.0.0.1 postpitps.top
 127.0.0.1 postplapp.top
 127.0.0.1 postplcloud.top
 127.0.0.1 postplons.top
 127.0.0.1 postpnvi.top
 127.0.0.1 postpsin.top
+127.0.0.1 postronniswiadkowie.click
+127.0.0.1 postsa.top
 127.0.0.1 postspecialists.top
 127.0.0.1 posttex.check-user.xyz
 127.0.0.1 posttex.sever-check.top
@@ -25227,15 +25457,18 @@
 127.0.0.1 postven.top
 127.0.0.1 postworld.top
 127.0.0.1 postxd.top
+127.0.0.1 poszkodowanedzieci.click
 127.0.0.1 posztaonline.top
 127.0.0.1 poszukiwacz24h.click
 127.0.0.1 poszukiwaczkierowcy.click
+127.0.0.1 poszukiwacznadzieja.click
 127.0.0.1 poszukiwaczuciekiniera.click
 127.0.0.1 poszukiwani24h.click
 127.0.0.1 poszukiwania24.click
 127.0.0.1 poszukiwania24plu.click
 127.0.0.1 poszukiwanikierowcy.click
 127.0.0.1 poszukiwanykierowca.click
+127.0.0.1 poszukiwawczyportal.click
 127.0.0.1 poszukuj24pls.click
 127.0.0.1 poszukujemyinfo.click
 127.0.0.1 potajemnedonosy.click
@@ -25274,6 +25507,7 @@
 127.0.0.1 powiadomienia-allegro.uzytkownik5237.click
 127.0.0.1 powiadomienia-allegro.uzytkownik5238.click
 127.0.0.1 powiadomienia24h.click
+127.0.0.1 powiadomieniaportal.click
 127.0.0.1 powiatalarm.click
 127.0.0.1 powiatalarmuje.click
 127.0.0.1 powiatinformuje.click
@@ -25282,6 +25516,7 @@
 127.0.0.1 powiatowezdarzenia.click
 127.0.0.1 powiatowyinspektor.click
 127.0.0.1 powiatrelacjonuje.click
+127.0.0.1 pozadanieprawdy.click
 127.0.0.1 poznajdowany.click
 127.0.0.1 pp-pro.project-act.xyz
 127.0.0.1 pp.progrr.top
@@ -25358,7 +25593,6 @@
 127.0.0.1 precambrian.pro
 127.0.0.1 preciousawareness.pro
 127.0.0.1 preciousdoctor.pro
-127.0.0.1 pred.7mmtv.top
 127.0.0.1 predictelnewv.top
 127.0.0.1 predictittracksdk.optimove.net
 127.0.0.1 predictivadvertising.com
@@ -25441,6 +25675,7 @@
 127.0.0.1 pro-fit.host
 127.0.0.1 pro-gopartner-get.top
 127.0.0.1 pro-hacks.com
+127.0.0.1 pro-identification.hubside.fr
 127.0.0.1 pro-inv.art
 127.0.0.1 pro-inv.club
 127.0.0.1 pro-inv.info
@@ -25459,9 +25694,11 @@
 127.0.0.1 pro-l.czpro.site
 127.0.0.1 pro-lifemax.xyz
 127.0.0.1 pro-m.activ-chz.xyz
+127.0.0.1 pro-mail.hubside.fr
 127.0.0.1 pro-market.net
 127.0.0.1 pro-masters1.site
 127.0.0.1 pro-max-vik.site
+127.0.0.1 pro-messagerie.hubside.fr
 127.0.0.1 pro-networks.us.intellitxt.com
 127.0.0.1 pro-neur.programm-onepl.xyz
 127.0.0.1 pro-news.net
@@ -25496,6 +25733,7 @@
 127.0.0.1 pro.activ-chz.xyz
 127.0.0.1 pro.activeprov.xyz
 127.0.0.1 pro.activpl-pro.site
+127.0.0.1 pro.admin-1cdn.hb-api.tt.omtrdc.net
 127.0.0.1 pro.adrofx.com
 127.0.0.1 pro.asmucol.com
 127.0.0.1 pro.baidu.com
@@ -25535,6 +25773,7 @@
 127.0.0.1 pro.prog-capital1.site
 127.0.0.1 pro.program-plus.site
 127.0.0.1 pro.programpro.site
+127.0.0.1 pro.progrbest.top
 127.0.0.1 pro.projorlen.site
 127.0.0.1 pro.skins-r-dw-1.net.daraz.com
 127.0.0.1 pro.stormwindstudios.com
@@ -25582,6 +25821,7 @@
 127.0.0.1 prof.peoplexftrade.top
 127.0.0.1 prof.pro-activprofit.site
 127.0.0.1 prof.profitactiv1.top
+127.0.0.1 profesjonalni.click
 127.0.0.1 professionsuccess.top
 127.0.0.1 proffbornaiadss.click
 127.0.0.1 proffbornaiadss.site
@@ -25602,6 +25842,7 @@
 127.0.0.1 profs-mastr.ofishlprog3.click
 127.0.0.1 profuse-it.pro
 127.0.0.1 prog1.activpl-pro.site
+127.0.0.1 progizwalniajace.click
 127.0.0.1 program-info.pro
 127.0.0.1 program-top-course.us
 127.0.0.1 program-top-group.biz
@@ -25618,6 +25859,7 @@
 127.0.0.1 projectorreviews.advertserve.com
 127.0.0.1 projectx.projectprog.click
 127.0.0.1 projectx.tesla-bot.top
+127.0.0.1 proklamacyjnosc.click
 127.0.0.1 promax.ofishlprog2.click
 127.0.0.1 promedia-click.ru
 127.0.0.1 promileukierowcy.click
@@ -25639,8 +25881,10 @@
 127.0.0.1 propellerads.com
 127.0.0.1 propellerads.tech
 127.0.0.1 propolfx.top
+127.0.0.1 proporcjonalny.click
 127.0.0.1 proquantum.mllight.top
 127.0.0.1 prostezycie.click
+127.0.0.1 prostydziennik.click
 127.0.0.1 protect-ad.com
 127.0.0.1 protect.advancedcleaner.com
 127.0.0.1 protect.dev.sec.intl.miui.com
@@ -25648,6 +25892,7 @@
 127.0.0.1 proton-int.flurry.com
 127.0.0.1 proton.flurry.com
 127.0.0.1 prov.profitactiv1.top
+127.0.0.1 prowincjawypadek.click
 127.0.0.1 proworldlife.top
 127.0.0.1 proxidigital.adswizz.com
 127.0.0.1 proxidigital.deliveryengine.adswizz.com
@@ -25658,6 +25903,7 @@
 127.0.0.1 proxy.ads.canalplus-bo.net
 127.0.0.1 prplads.com
 127.0.0.1 prrp.chatprogram.top
+127.0.0.1 prt-post.top
 127.0.0.1 prt-stsdk.vivo.com.cn
 127.0.0.1 prt.stsdk.vivo.com.cn
 127.0.0.1 prt.stsdk.vivoglobal.com
@@ -25669,8 +25915,11 @@
 127.0.0.1 przegladzbrodni.click
 127.0.0.1 przekazdnia.click
 127.0.0.1 przekazmedia.click
+127.0.0.1 przekazujemynewsy.click
+127.0.0.1 przekazujemywiesci.click
 127.0.0.1 przelewy24.click
 127.0.0.1 przesadnestraty.click
+127.0.0.1 przeswiadczenia.click
 127.0.0.1 przesylki.top
 127.0.0.1 przewodnikdrogowy.click
 127.0.0.1 przydatneinfo.click
@@ -25682,6 +25931,7 @@
 127.0.0.1 ps.ads.justpremium.com
 127.0.0.1 ps.dlads.cn
 127.0.0.1 ps.gdfcvb.top
+127.0.0.1 psiftaugads.com
 127.0.0.1 psozyhotho.pro
 127.0.0.1 pspily.top
 127.0.0.1 pspllly.top
@@ -25692,6 +25942,7 @@
 127.0.0.1 pt1o34thyop6nw6r.partner.net.daraz.com
 127.0.0.1 ptads.sv.publicus.com
 127.0.0.1 ptadsrv.de
+127.0.0.1 ptaumoadsovu.com
 127.0.0.1 ptbus.com
 127.0.0.1 ptersudisurvey.top
 127.0.0.1 ptokp.pro
@@ -25741,13 +25992,14 @@
 127.0.0.1 pub-3522962ac6df4ad498359dbbd15fc84b.r2.dev
 127.0.0.1 pub-39c5201b96dc4647931eeed6340b1ad8.r2.dev
 127.0.0.1 pub-3bc9161e0ceb4c5397b48936ad7e7bd6.r2.dev
+127.0.0.1 pub-3d42434a9fa448fd9ad37293cdb64b9a.r2.dev
+127.0.0.1 pub-3fba3571e3b04110bd32a77adc9df677.r2.dev
 127.0.0.1 pub-42394403158b429f84327d8b7e1ad1c4.r2.dev
 127.0.0.1 pub-442219e799524ade807339e9a87371da.r2.dev
 127.0.0.1 pub-4483ad09c3494926a7195c78fe007da8.r2.dev
 127.0.0.1 pub-455e03f75b7840a6a7728a4f227ad427.r2.dev
 127.0.0.1 pub-45aae2fafe9044019f5ade95eae90cd6.r2.dev
 127.0.0.1 pub-48d3a24bafe348799aa16e3fbd5ead78.r2.dev
-127.0.0.1 pub-49853c7add714b8fac6112fe9b718c7a.r2.dev
 127.0.0.1 pub-4c21f9ae11ad4cd99bef29a7124c22ce.r2.dev
 127.0.0.1 pub-4c2a13d01dab4ade9268be6759a387c8.r2.dev
 127.0.0.1 pub-4cd21a3705234b90ad407f8b0cb39a8f.r2.dev
@@ -25803,12 +26055,11 @@
 127.0.0.1 pub-bad64a4a41c54041b5a27e514d127172.r2.dev
 127.0.0.1 pub-bb32416e948549f19ca5ead06c8413dd.r2.dev
 127.0.0.1 pub-bc913ad4eea644849b0a3bec6b515044.r2.dev
-127.0.0.1 pub-c0c6cfa91e004084a92ad61cf578df76.r2.dev
 127.0.0.1 pub-c1d8e548943d4277863ad3db81bd170e.r2.dev
 127.0.0.1 pub-c5b1c0de5d074219ad6d2af09756bd99.r2.dev
 127.0.0.1 pub-c7f881ad48694be58a393f7ff57817db.r2.dev
+127.0.0.1 pub-c80ad7af1180452cb9c309fdb10dad80.r2.dev
 127.0.0.1 pub-c9fad125a23e4e0cb30616f57e43f4df.r2.dev
-127.0.0.1 pub-cad2d3edf5e948278442235816bc8dad.r2.dev
 127.0.0.1 pub-cc245e884c93402db63b5ab9ad7814f9.r2.dev
 127.0.0.1 pub-d09dad3cb3e749afb64b1e0082b02c61.r2.dev
 127.0.0.1 pub-d19989cad0344be58b63ebedc729841e.r2.dev
@@ -25844,12 +26095,12 @@
 127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 pubfuture-ad.com
 127.0.0.1 pubfutureads.com
-127.0.0.1 pubgeurope.top
 127.0.0.1 publiads.com
 127.0.0.1 publicbot.pro
 127.0.0.1 publicontpage-partner.net.daraz.com
 127.0.0.1 publicpartner.click
 127.0.0.1 publiczneinfo.click
+127.0.0.1 publicznezdarzenie.click
 127.0.0.1 publish-pic-cpu.baidu.com
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 publisher-event.ads.prd.ie.internal.unity3d.com
@@ -25890,7 +26141,6 @@
 127.0.0.1 purchasehh.top
 127.0.0.1 pureprofit.click
 127.0.0.1 purpleads.io
-127.0.0.1 purplecode.pro
 127.0.0.1 push-ad.com
 127.0.0.1 push-api.topaz-analytics.com
 127.0.0.1 push-de-drzlive.partner.net.daraz.com
@@ -26036,6 +26286,7 @@
 127.0.0.1 qqvvkebebnlq.top
 127.0.0.1 qqyqeqqmqrybb.top
 127.0.0.1 qr.partner.net.daraz.com
+127.0.0.1 qrcodes.pro
 127.0.0.1 qrip1.sebil.top
 127.0.0.1 qrpipe.goprogramia.top
 127.0.0.1 qsanciy.top
@@ -26079,7 +26330,9 @@
 127.0.0.1 qwandly.top
 127.0.0.1 qwe0231141.bj.bcebos.com
 127.0.0.1 qwmaeqrneewny.top
+127.0.0.1 qwrwawwmblybj.top
 127.0.0.1 qyajwjyjnavzq.top
+127.0.0.1 qylmbemvlloov.top
 127.0.0.1 qynqvkkmbzvkk.top
 127.0.0.1 qyqkemrarznvv.top
 127.0.0.1 qzqmrlqnnzwab.top
@@ -26171,6 +26424,7 @@
 127.0.0.1 rb.adnxs-simple.com
 127.0.0.1 rb.adnxs.com
 127.0.0.1 rbvi.top
+127.0.0.1 rbzqarqlyzamj.top
 127.0.0.1 rc.wl.webads.nl
 127.0.0.1 rcadserver.com
 127.0.0.1 rch.aboutnews.top
@@ -26307,6 +26561,7 @@
 127.0.0.1 regis2tarsgroup.click
 127.0.0.1 regis2tarsinc.click
 127.0.0.1 register.appsflyersdk.com
+127.0.0.1 registrate1.alinsntantedisfruta.top
 127.0.0.1 registration-bot.tesla-bot.top
 127.0.0.1 registration.tesla-bot.top
 127.0.0.1 registry.api.cnn.io
@@ -26315,6 +26570,7 @@
 127.0.0.1 regulamin24poczta.click
 127.0.0.1 regulationprivilegescan.top
 127.0.0.1 regulushamal.top
+127.0.0.1 reiarren.top
 127.0.0.1 reink2.top
 127.0.0.1 rejestr1.testvps.pro
 127.0.0.1 rejestr2.testvps.pro
@@ -26341,7 +26597,6 @@
 127.0.0.1 relay.mobile.toboads.com
 127.0.0.1 release.baidu.com
 127.0.0.1 releinemaoff.pro
-127.0.0.1 reliable-watch.pro
 127.0.0.1 reliabledownloads.org
 127.0.0.1 reloadsusa.com
 127.0.0.1 reloadsyncpages.xyz
@@ -26473,6 +26728,7 @@
 127.0.0.1 reverse3psdadj3szljo593-113pago.net.daraz.com
 127.0.0.1 reverso.refr.adgtw.orangeads.fr
 127.0.0.1 review.partner.net.daraz.com
+127.0.0.1 reviewphim.pro
 127.0.0.1 revive-adserver.com
 127.0.0.1 revive-adserver.net
 127.0.0.1 revolgc.pro
@@ -26509,6 +26765,7 @@
 127.0.0.1 rigelbetelgeuse.top
 127.0.0.1 rightfulheadstone.com
 127.0.0.1 rik.top
+127.0.0.1 rind.optusnet.top
 127.0.0.1 ringier-advertising.ch
 127.0.0.1 ripelyhanif.top
 127.0.0.1 ripple.deliveryengine.adswizz.com
@@ -26537,6 +26794,7 @@
 127.0.0.1 road2gold.site
 127.0.0.1 roanconsol.top
 127.0.0.1 robertmln.mlnone.top
+127.0.0.1 robet-challengemode.pro
 127.0.0.1 robimprove.coddes.top
 127.0.0.1 robin-yz.top
 127.0.0.1 robotadserver.com
@@ -26565,6 +26823,7 @@
 127.0.0.1 rosseladvertising.be
 127.0.0.1 rosterfile4u.click
 127.0.0.1 roswindetflog.passioshop.top
+127.0.0.1 rosymap.pro
 127.0.0.1 rotator.beginads.com
 127.0.0.1 roty-dioraem.pro
 127.0.0.1 rough-requirement.pro
@@ -26639,7 +26898,6 @@
 127.0.0.1 rtb-uswest.explorads.com
 127.0.0.1 rtb-uswest.nativeadshb.com
 127.0.0.1 rtb.ad-stir.com
-127.0.0.1 rtb.ad.guru
 127.0.0.1 rtb.admaster.com.cn
 127.0.0.1 rtb.adventurefeeds.com
 127.0.0.1 rtb.advertrek.com
@@ -26687,14 +26945,13 @@
 127.0.0.1 rtbflairads.com
 127.0.0.1 rtbnowads.com
 127.0.0.1 rte.fuoo1.top
-127.0.0.1 rtgy3r5.jav-7mmtv.top
 127.0.0.1 rtnews.pro
 127.0.0.1 rtr-dsp.adsfactor.net
 127.0.0.1 rtr.adsfactor.net
 127.0.0.1 rtrust.mobi
 127.0.0.1 rts.mobula.sdk.duapps.com
 127.0.0.1 ru-geo.cityads.com
-127.0.0.1 ru-ort-stsdk.vivoglobal.com
+127.0.0.1 ru-monitor-stsdk.vivoglobal.com
 127.0.0.1 ru.ad.lgsmartad.com
 127.0.0.1 ru.ads.justpremium.com
 127.0.0.1 ru.mst.dns-cloud.net
@@ -26711,7 +26968,6 @@
 127.0.0.1 rum.browser-intake-datadoghq.com
 127.0.0.1 runadmire.top
 127.0.0.1 runads.com
-127.0.0.1 rundownhang.pro
 127.0.0.1 runesmith.top
 127.0.0.1 runicmaster.top
 127.0.0.1 runnyestablishment.pro
@@ -26721,6 +26977,7 @@
 127.0.0.1 rusiuplj.top
 127.0.0.1 ruslan.indoleads.com
 127.0.0.1 rustds.click
+127.0.0.1 ruthproudlyquestion.top
 127.0.0.1 rutorads.com
 127.0.0.1 rutus.pro
 127.0.0.1 ruyunxi.top
@@ -26740,6 +26997,7 @@
 127.0.0.1 s-adserver.cxad.cxense.com
 127.0.0.1 s-adserver.sandbox.cxad.cxense.com
 127.0.0.1 s-ak.api.xiaoying.co
+127.0.0.1 s-id-check-sparkasse.de
 127.0.0.1 s-img.adskeeper.co.uk
 127.0.0.1 s-img.adskeeper.com
 127.0.0.1 s-jsonp.moatads.com
@@ -26749,7 +27007,6 @@
 127.0.0.1 s.388bet.top
 127.0.0.1 s.aaxads.com
 127.0.0.1 s.ad-locus.com
-127.0.0.1 s.ad.guru
 127.0.0.1 s.ad.smaato.net
 127.0.0.1 s.ad131m.com
 127.0.0.1 s.ads-twitter.com
@@ -27087,6 +27344,7 @@
 127.0.0.1 saturn1.appads.com
 127.0.0.1 saturn2.appads.com
 127.0.0.1 saturn3.appads.com
+127.0.0.1 saurice.top
 127.0.0.1 save.infinitypro.top
 127.0.0.1 sax.sina.cn
 127.0.0.1 sax.sina.com.cn
@@ -27130,6 +27388,7 @@
 127.0.0.1 scdn.uc.atwola.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 scene.vip.xunlei.com
+127.0.0.1 schematyczne.click
 127.0.0.1 schroders-test-api.net.daraz.com
 127.0.0.1 scianafaktow.click
 127.0.0.1 scis.tbs.co.jp
@@ -27160,7 +27419,6 @@
 127.0.0.1 score-api.net.daraz.com
 127.0.0.1 scoring.unoadsrv.com
 127.0.0.1 scp.naiadsystems.com
-127.0.0.1 scratchy-deep.pro
 127.0.0.1 scratchy-kind.pro
 127.0.0.1 scrawnyarticle.pro
 127.0.0.1 scrgreatoffer.top
@@ -27358,6 +27616,7 @@
 127.0.0.1 search2.twitter.com
 127.0.0.1 searchadv.com
 127.0.0.1 searchfreya-api-docsfreya.net.daraz.com
+127.0.0.1 searchgear.pro
 127.0.0.1 sec-analytics.panasonic.co.uk
 127.0.0.1 sec.cdn.ksapisrv.com
 127.0.0.1 sec.umeng.com
@@ -27384,6 +27643,7 @@
 127.0.0.1 secure.analytics.hiexpress.com
 127.0.0.1 secure.analytics.holidayinn.com
 127.0.0.1 secure.analytics.ihg.com
+127.0.0.1 secure.analytics.intercontinental.com
 127.0.0.1 secure.badb5refl.com
 127.0.0.1 secure.check.beautypro365.com
 127.0.0.1 secure.companyperceptive-365.com
@@ -27404,6 +27664,7 @@
 127.0.0.1 secureads.g.doubleclick.net
 127.0.0.1 securechance.top
 127.0.0.1 secureflashplayerfeedback.adobe.com
+127.0.0.1 securekta.pro
 127.0.0.1 secureleadsforever.com
 127.0.0.1 secureleadsrn.com
 127.0.0.1 securepubads.g.doubleclick.net
@@ -27438,7 +27699,6 @@
 127.0.0.1 selar.pro
 127.0.0.1 selfadvertiser.com
 127.0.0.1 selfassuredcriticism.pro
-127.0.0.1 selfreliantboot.pro
 127.0.0.1 selfserve-crypto.buysellads.com
 127.0.0.1 sell.buysellads.com
 127.0.0.1 seller-shopkube-partner.net.daraz.com
@@ -27446,12 +27706,15 @@
 127.0.0.1 sem.comfirty.top
 127.0.0.1 semaprebspos.pro
 127.0.0.1 semeionedeenh.pro
+127.0.0.1 semiidteik.pro
 127.0.0.1 sen.chatprogram.top
+127.0.0.1 sendertrack.top
 127.0.0.1 senioradvertise.com
 127.0.0.1 seniorliving.broadviewseniorliving.org
 127.0.0.1 sensacjelokalne.click
 127.0.0.1 sensacyjnefakty.click
 127.0.0.1 sensacyjnehistorie.click
+127.0.0.1 sensacyjneinfo.click
 127.0.0.1 sensible-ads.com
 127.0.0.1 sentimentalclient.pro
 127.0.0.1 sentry-cdn.top
@@ -27476,6 +27739,7 @@
 127.0.0.1 september.cityads.com
 127.0.0.1 ser-b.makedol.top
 127.0.0.1 ser-v.makedol.top
+127.0.0.1 serachpackage.top
 127.0.0.1 seripage-cad23.pages.net.br
 127.0.0.1 serpentineillegal.pro
 127.0.0.1 serv-api.target2sell.com
@@ -27515,6 +27779,7 @@
 127.0.0.1 servicelead.top
 127.0.0.1 servicer.adskeeper.co.uk
 127.0.0.1 servicer.adskeeper.com
+127.0.0.1 services-update.com
 127.0.0.1 services.insurads.com
 127.0.0.1 serving-ad.tv24.vn
 127.0.0.1 serving.ad.org.vn
@@ -27739,6 +28004,7 @@
 127.0.0.1 shoppingads.com
 127.0.0.1 shoppro.top
 127.0.0.1 shoppro8941-o1x.domshop24.top
+127.0.0.1 shopsreview.top
 127.0.0.1 shoptienich.pro
 127.0.0.1 shoptypical8816-o1x.homesee.top
 127.0.0.1 shopwww.partner-pay-getter.net.daraz.com
@@ -27788,7 +28054,6 @@
 127.0.0.1 signupbskyb.hb-api.tt.omtrdc.net
 127.0.0.1 silencehappy.click
 127.0.0.1 siliconpants.top
-127.0.0.1 sillywinner.pro
 127.0.0.1 silnepoczatki.click
 127.0.0.1 silpost.top
 127.0.0.1 silpostinost.top
@@ -27803,7 +28068,6 @@
 127.0.0.1 simpleads.net
 127.0.0.1 simplesafetyadvice.net.daraz.com
 127.0.0.1 simpli.top
-127.0.0.1 simplistic-potato.pro
 127.0.0.1 simplisticwhole.pro
 127.0.0.1 sin-data.adsrvr.org
 127.0.0.1 sin-whisp.adsrvr.org
@@ -27820,6 +28084,7 @@
 127.0.0.1 sinfb.adsrvr.org
 127.0.0.1 singapore-advantage.com
 127.0.0.1 single.upsight-api.com
+127.0.0.1 singpsofes.top
 127.0.0.1 sinwebads.com
 127.0.0.1 siodemka24h7.click
 127.0.0.1 sirinlabs.pro
@@ -27904,13 +28169,12 @@
 127.0.0.1 slax5x.coddes.top
 127.0.0.1 slaxpro.projectprog.click
 127.0.0.1 sledztwo24h.click
+127.0.0.1 sledztwoosiedlowe.click
 127.0.0.1 sleevemisuseadvice.com
 127.0.0.1 slightroads.com
 127.0.0.1 slimads.vn
 127.0.0.1 slimreply.pro
-127.0.0.1 slimy-sport.pro
 127.0.0.1 slippery-bed.pro
-127.0.0.1 slipperyheight.pro
 127.0.0.1 slipperyinside.pro
 127.0.0.1 sllo.top
 127.0.0.1 slmail0psdadj3szljo593-795f1a2370f044fa85c08ff2678502a5.net.daraz.com
@@ -28024,7 +28288,7 @@
 127.0.0.1 smtp.leadville.bluehornet.com
 127.0.0.1 smtp.meadville.bluehornet.com
 127.0.0.1 smugbeautiful.pro
-127.0.0.1 smuggather.pro
+127.0.0.1 smutnewiesci.click
 127.0.0.1 sn.moatads.com
 127.0.0.1 snallbusinessadvvice.site
 127.0.0.1 snapads.com
@@ -28086,6 +28350,7 @@
 127.0.0.1 sonnyadvertise.com
 127.0.0.1 sophisticated-rain.pro
 127.0.0.1 sor-sdk.follow-apps.com
+127.0.0.1 sorind.pro
 127.0.0.1 sorrowfulmaybe.pro
 127.0.0.1 sorrowfulsuggestion.pro
 127.0.0.1 soshvenal.top
@@ -28117,6 +28382,7 @@
 127.0.0.1 spaceleadster.com
 127.0.0.1 spaces.ero-advertising.com
 127.0.0.1 spaceshipads.com
+127.0.0.1 spaceshipdinosaurjunglear.pro
 127.0.0.1 spads.me
 127.0.0.1 spads.yamx.com
 127.0.0.1 spads1s.pages.net.br
@@ -28162,10 +28428,12 @@
 127.0.0.1 spinfo.wps.cn
 127.0.0.1 spitefulif.pro
 127.0.0.1 spixel.adsafeprotected.com
+127.0.0.1 spk-check-neujahr.xyz
 127.0.0.1 spkouhad0.jp
 127.0.0.1 splash-screen.voodoo-ads.io
 127.0.0.1 splash.appsgeyser.com
 127.0.0.1 splashelicit.top
+127.0.0.1 spokojmiejski.click
 127.0.0.1 spolecznoscrazem.click
 127.0.0.1 sponify.top
 127.0.0.1 sponsorads.de
@@ -28179,19 +28447,24 @@
 127.0.0.1 sportplus.pro
 127.0.0.1 sportsnjtracksdk.optimove.net
 127.0.0.1 sportworld.pro
+127.0.0.1 sposobzyciowy.click
 127.0.0.1 spot-01.trackingpro.pro
 127.0.0.1 spotted-estate.pro
+127.0.0.1 sprawareporter.click
 127.0.0.1 sprawareporterska.click
+127.0.0.1 sprawdzajnowe.click
 127.0.0.1 sprawdzamynewsy.click
 127.0.0.1 sprawnawiadomosc.click
 127.0.0.1 sprawozdania24.click
 127.0.0.1 sprawydzienne.click
 127.0.0.1 sprawymiastowe.click
 127.0.0.1 sprawypolskie.click
+127.0.0.1 spreadshirt.com.ssl.sc.tt.omtrdc.net
 127.0.0.1 spricstonlinessournalytics.hb-api.tt.omtrdc.net
 127.0.0.1 spring-frontpage-partner.net.daraz.com
 127.0.0.1 springclick-ads.s3.amazonaws.com
 127.0.0.1 springdetect.top
+127.0.0.1 sprostowania.click
 127.0.0.1 sprout-ad.com
 127.0.0.1 sprout-ad.genieesspv.jp
 127.0.0.1 sprytna-nagroda.click
@@ -28246,7 +28519,6 @@
 127.0.0.1 ssdk.adkmob.com
 127.0.0.1 ssdkauth.hpplay.cn
 127.0.0.1 sshowads.pubmatic.com
-127.0.0.1 ssis.7mmtv.top
 127.0.0.1 ssl-google-analytics.l.google.com
 127.0.0.1 ssl-msn.oewabox.at
 127.0.0.1 ssl-top.oewabox.at
@@ -28265,6 +28537,7 @@
 127.0.0.1 ssp-csync.smartadserver.com
 127.0.0.1 ssp-res.flyme.cn
 127.0.0.1 ssp.ads.betweendigital.com
+127.0.0.1 ssp.adskom.com
 127.0.0.1 ssp.advenuemedia.co.uk
 127.0.0.1 ssp.advertising.com
 127.0.0.1 ssp.adviad.com
@@ -28287,7 +28560,6 @@
 127.0.0.1 sstatstest.adobe.com
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 ssxd.mediav.com
-127.0.0.1 st-ads-jssdk.vivo.com.cn
 127.0.0.1 st-analytics.anthill.vn
 127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 st-n.ads2-adnow.com
@@ -28326,6 +28598,7 @@
 127.0.0.1 stage1.xapads.com
 127.0.0.1 stage2.xapads.com
 127.0.0.1 stage3.xapads.com
+127.0.0.1 stageservicex-jpo-o-br.ar.hb-api.tt.omtrdc.net
 127.0.0.1 staging-ads.blogherads.com
 127.0.0.1 staging-ads.flurry.com
 127.0.0.1 staging-api-backend.net.daraz.com
@@ -28371,11 +28644,9 @@
 127.0.0.1 stat.api.2gis.ru
 127.0.0.1 stat.blogads.com
 127.0.0.1 stat.browser.oppomobile.com
-127.0.0.1 stat.dc.oppomobile.com
 127.0.0.1 stat.download.xunlei.com
 127.0.0.1 stat.fpssl.hb-api.tt.omtrdc.net
 127.0.0.1 stat.funshion.net
-127.0.0.1 stat.gn01.top
 127.0.0.1 stat.ime.baidu.jp
 127.0.0.1 stat.lianmeng.360.cn
 127.0.0.1 stat.m.360.cn
@@ -28524,7 +28795,6 @@
 127.0.0.1 stdz.ksapisrv.com
 127.0.0.1 stdznew.ksapisrv.com
 127.0.0.1 steal-corp.com
-127.0.0.1 steamcommuniity.top
 127.0.0.1 steamcommunityio.top
 127.0.0.1 steel-bedroom.pro
 127.0.0.1 steeltour.pro
@@ -28590,7 +28860,6 @@
 127.0.0.1 store.xl.api.3g.youku.com
 127.0.0.1 storeconfig.mistat.intl.xiaomi.com
 127.0.0.1 storeplus.top
-127.0.0.1 storeuss.top
 127.0.0.1 storm-api.ad4game.com
 127.0.0.1 storm.ad4game.com
 127.0.0.1 stormxcup.pro
@@ -28598,11 +28867,13 @@
 127.0.0.1 stors.papiashvili.top
 127.0.0.1 stosowneinfo.click
 127.0.0.1 stosownerzeczy.click
+127.0.0.1 stosunkimiejskie.click
 127.0.0.1 stpp.goprogramia.top
 127.0.0.1 str1.freepl.top
 127.0.0.1 str10.naiadsystems.com
 127.0.0.1 str11.naiadsystems.com
 127.0.0.1 str4.freepl.top
+127.0.0.1 strachludzi.click
 127.0.0.1 straight-shift.pro
 127.0.0.1 straszneinfo283.click
 127.0.0.1 straszyopetani.click
@@ -28621,6 +28892,7 @@
 127.0.0.1 strip.alicdn.com
 127.0.0.1 strip.taobaocdn.com
 127.0.0.1 stripe.www.partner.net.daraz.com
+127.0.0.1 strotempng.pro
 127.0.0.1 strt3dx1d0wnload10.com
 127.0.0.1 stsdk.vivo.com.cn
 127.0.0.1 stsdk.vivoglobal.com
@@ -28630,6 +28902,7 @@
 127.0.0.1 study.snapads.com
 127.0.0.1 stulleratteal.top
 127.0.0.1 stupendousconcept.pro
+127.0.0.1 stwierdzenia.click
 127.0.0.1 stylecaster.top
 127.0.0.1 stylowapasja.click
 127.0.0.1 stylowykoktajl.click
@@ -28639,6 +28912,7 @@
 127.0.0.1 su.bdimg.com
 127.0.0.1 su.bdstatic.com
 127.0.0.1 suamaylanh.top
+127.0.0.1 sub.arcareers-saa2-sip-ipen.hb-api.tt.omtrdc.net
 127.0.0.1 sub.gooradolfolderu.click
 127.0.0.1 subdued-illegal.pro
 127.0.0.1 sube-acikdenizbireyselkredialmobilde.click
@@ -28652,12 +28926,12 @@
 127.0.0.1 successyst.top
 127.0.0.1 successystem.click
 127.0.0.1 succsess-syst.top
-127.0.0.1 sudden-great.pro
 127.0.0.1 sugarsync-consumer.evyy.net
 127.0.0.1 sugary-ratio.pro
 127.0.0.1 sugarynotice.pro
 127.0.0.1 sugs.m.sm.cn
 127.0.0.1 sukienka-tos-nevada-white-cid87-idleszg1.id8341.me
+127.0.0.1 sumienieludzi.click
 127.0.0.1 sumiennapomoc.click
 127.0.0.1 summer.analytics.net.daraz.com
 127.0.0.1 summescore-api.score-apipc.net.daraz.com
@@ -28690,8 +28964,6 @@
 127.0.0.1 supersonicads-a.akamaihd.net
 127.0.0.1 supersonicads.com
 127.0.0.1 superssp.top
-127.0.0.1 supjav.com.7mmtv.top
-127.0.0.1 supjav.com.jav-7mmtv.top
 127.0.0.1 supletcedintand.pro
 127.0.0.1 supply.advangelists.com
 127.0.0.1 supply.xapads.com
@@ -28775,7 +29047,6 @@
 127.0.0.1 switch.kube-partner.net.daraz.com
 127.0.0.1 swmg.top
 127.0.0.1 sworkitads.herokuapp.com
-127.0.0.1 swqw.jav-7mmtv.top
 127.0.0.1 swrmw5j8xs.top
 127.0.0.1 swtchrules.click
 127.0.0.1 sxjfhh.montgomeryadvertiser.com
@@ -28883,6 +29154,8 @@
 127.0.0.1 szkolaalarmuje.click
 127.0.0.1 szkolaalarmuje24h.click
 127.0.0.1 szkolastrachu.click
+127.0.0.1 szkolnetragedie.click
+127.0.0.1 szokujacezdarzenia.click
 127.0.0.1 szosamiejska.click
 127.0.0.1 sztukaelegancji.click
 127.0.0.1 sztukarelaksu.click
@@ -28947,6 +29220,7 @@
 127.0.0.1 t4.a.market.xiaomi.com
 127.0.0.1 t4.agrantsem.com
 127.0.0.1 t426oiwc162tddzu.partner.net.daraz.com
+127.0.0.1 t4f.top
 127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 t6.a.market.xiaomi.com
 127.0.0.1 t7baxp1xmw00.boxoffice.adventuretix.com
@@ -28961,9 +29235,16 @@
 127.0.0.1 tablicainfo.click
 127.0.0.1 tablicjagminna.click
 127.0.0.1 tacking-usops-mi.com
-127.0.0.1 tacking-uspos-wy.top
 127.0.0.1 tacking-uspst-ct.top
 127.0.0.1 tacking-uspst-ga.top
+127.0.0.1 tacking-uspst-ma.top
+127.0.0.1 tacking-uspst-nv.top
+127.0.0.1 tacking-uspst-ny.top
+127.0.0.1 tacking-uspst-sd.top
+127.0.0.1 tacking-uspst-sk.top
+127.0.0.1 tacking-uspst-sv.top
+127.0.0.1 tacking-uspst-ux.top
+127.0.0.1 tacking-uspst-xr.top
 127.0.0.1 tad.chainreact.xyz
 127.0.0.1 tad.programmtrad.top
 127.0.0.1 tad.runeww1.site
@@ -29086,6 +29367,7 @@
 127.0.0.1 tcbox.baidu.com
 127.0.0.1 tce.alicdn.com
 127.0.0.1 tcm.optica.ero-advertising.com
+127.0.0.1 tcoin.stormx.top
 127.0.0.1 tcp.push.mob.com
 127.0.0.1 td.adswizz.com
 127.0.0.1 td.doubleclick.net
@@ -29126,6 +29408,7 @@
 127.0.0.1 techweb.iv.adsame.com
 127.0.0.1 tecia.top
 127.0.0.1 teesl.inprog.top
+127.0.0.1 tef.fovda.top
 127.0.0.1 teinfo.top
 127.0.0.1 teinfo.wps.cn
 127.0.0.1 teitsag.click
@@ -29160,7 +29443,6 @@
 127.0.0.1 temp.163.com
 127.0.0.1 temptation.ad.nl
 127.0.0.1 tenant-content.apm.appfolio-analytics.com
-127.0.0.1 tenasrt.top
 127.0.0.1 tencent-dtv.m.cn.miaozhen.com
 127.0.0.1 tenmaxsgads.blob.core.windows.net
 127.0.0.1 tense-print.pro
@@ -29169,11 +29451,14 @@
 127.0.0.1 tera.peoplexftrade.top
 127.0.0.1 terazniejszosc24.click
 127.0.0.1 teresablog.top
+127.0.0.1 terminarze24.click
 127.0.0.1 ternarymugging.top
 127.0.0.1 terns.newlvlpro.top
 127.0.0.1 terrible-angle.pro
 127.0.0.1 terttalkinhitin.pro
 127.0.0.1 teruste.wellet.top
+127.0.0.1 terytoriummiejskie.click
+127.0.0.1 tescoin.stormx.top
 127.0.0.1 tese.activpl-pro.site
 127.0.0.1 tesghts.click
 127.0.0.1 teshorto.click
@@ -29220,6 +29505,7 @@
 127.0.0.1 test.gamex.mobile.youku.com
 127.0.0.1 test.hulu-lr.hb-api.tt.omtrdc.net
 127.0.0.1 test.nbcstreaming.hb-api.tt.omtrdc.net
+127.0.0.1 test.oiltrrade.top
 127.0.0.1 test.surepush.cn
 127.0.0.1 test.tess1.top
 127.0.0.1 test.vlion.cn
@@ -29253,6 +29539,7 @@
 127.0.0.1 textads.sexmoney.com
 127.0.0.1 textadvertising.com
 127.0.0.1 textlink.simba.taobao.com
+127.0.0.1 textlinkads2.xyz
 127.0.0.1 texto.click
 127.0.0.1 teynve.top
 127.0.0.1 tf.360.cn
@@ -29264,8 +29551,6 @@
 127.0.0.1 tg.telegarm-if.top
 127.0.0.1 tg.telegarm-kh.top
 127.0.0.1 tg0qu.top
-127.0.0.1 tgadminuser.fgdnjs.top
-127.0.0.1 tgadminuser.sdfhdt.top
 127.0.0.1 tgadminuser.web-te.top
 127.0.0.1 tgadv.it
 127.0.0.1 tgadvcdn.it
@@ -29277,7 +29562,6 @@
 127.0.0.1 thaifastpay.top
 127.0.0.1 thaliade02.webtrekk.net
 127.0.0.1 thangkyoua.top
-127.0.0.1 thankful-conference.pro
 127.0.0.1 thapostco.top
 127.0.0.1 thcaes.top
 127.0.0.1 the-bitcoin-rush-pro.financialmarketsworld.com
@@ -29319,7 +29603,6 @@
 127.0.0.1 thescads.com
 127.0.0.1 thespreadsheetguru.7eer.net
 127.0.0.1 thespreadsheetguru.evyy.net
-127.0.0.1 theuspdjdfosif.top
 127.0.0.1 thewalkingdead400days.sharezips.info
 127.0.0.1 thewalkingdeadseason4episode10.com
 127.0.0.1 thewarzdownloads.com
@@ -29331,6 +29614,7 @@
 127.0.0.1 thisisglobal.adswizz.com
 127.0.0.1 thisisglobal.deliveryengine.adswizz.com
 127.0.0.1 thisisglobaltest.deliveryengine.adswizz.com
+127.0.0.1 thissubdomainshouldonlyresolveifwildcard.cbs-dev.hb-api.tt.omtrdc.net
 127.0.0.1 thissubdomainshouldonlyresolveifwildcard.fifa.hb-api.tt.omtrdc.net
 127.0.0.1 thissubdomainshouldonlyresolveifwildcard.hb-api-stage.tt.omtrdc.net
 127.0.0.1 thissubdomainshouldonlyresolveifwildcard.hulu-lr.hb-api.tt.omtrdc.net
@@ -29338,6 +29622,7 @@
 127.0.0.1 thornyinitial.pro
 127.0.0.1 thoseads.com
 127.0.0.1 thosemethod.pro
+127.0.0.1 thousicefall.top
 127.0.0.1 threads.net
 127.0.0.1 threadss.info
 127.0.0.1 thrivebuisson.top
@@ -29443,7 +29728,6 @@
 127.0.0.1 toadynewnewscoiy.click
 127.0.0.1 tob-cms.bj.bcebos.com
 127.0.0.1 toboads.com
-127.0.0.1 todhamilton.pro
 127.0.0.1 togyzii4.pro
 127.0.0.1 toingra.click
 127.0.0.1 token.api.kochava.com
@@ -29621,6 +29905,7 @@
 127.0.0.1 topadvert.ru
 127.0.0.1 topapi.cp12.ott.cibntv.net
 127.0.0.1 topapi.cp12.wasu.tv
+127.0.0.1 topbiznes.pro
 127.0.0.1 topdownloads.nl.intellitxt.com
 127.0.0.1 topfashion.top
 127.0.0.1 topfinancesurvey.top
@@ -29806,12 +30091,14 @@
 127.0.0.1 tracker.sns.iqiyi.com
 127.0.0.1 tracker.transportstyrelsen.open-analytics.se
 127.0.0.1 trackers.voodoo-analytics.io
+127.0.0.1 tracking-alert.top
 127.0.0.1 tracking-api-4lasu2nlcq-ew.a.run.app
 127.0.0.1 tracking-api.hotmart.com
 127.0.0.1 tracking-api.mangopulse.net
 127.0.0.1 tracking-api.sub100.com.br
 127.0.0.1 tracking-ch.adsafety.net
 127.0.0.1 tracking-dev.adsafety.net
+127.0.0.1 tracking-err.top
 127.0.0.1 tracking-groupm.adsafety.net
 127.0.0.1 tracking-i1.adsafety.net
 127.0.0.1 tracking-i3.adsafety.net
@@ -29819,7 +30106,7 @@
 127.0.0.1 tracking-somde.adsafety.net
 127.0.0.1 tracking-stvde.adsafety.net
 127.0.0.1 tracking-usopt-xr.top
-127.0.0.1 tracking-usopt-xz.top
+127.0.0.1 tracking-usopt-xu.top
 127.0.0.1 tracking-vv.adsafety.net
 127.0.0.1 tracking-xaxis.adsafety.net
 127.0.0.1 tracking.ad-brix.com
@@ -29862,7 +30149,9 @@
 127.0.0.1 tracking08.ad4game.com
 127.0.0.1 tracking2.channeladvisor.com
 127.0.0.1 tracking2.propellerads.com
+127.0.0.1 tracklnfo.lkcii.top
 127.0.0.1 trackoffnext.top
+127.0.0.1 tracksender.top
 127.0.0.1 tracksys.deliverparcels.top
 127.0.0.1 trackvbmobs.click
 127.0.0.1 tracy.tutoads.tv
@@ -29972,9 +30261,11 @@
 127.0.0.1 tragediadrogowa.click
 127.0.0.1 tragediadziecka.click
 127.0.0.1 tragediadziecko.click
+127.0.0.1 tragediagminna.click
 127.0.0.1 tragediamiejska.click
 127.0.0.1 tragediamiejska24h.click
 127.0.0.1 tragedianadrodze.click
+127.0.0.1 tragediaporanek.click
 127.0.0.1 tragediawszkole.click
 127.0.0.1 tragedierodzinne.click
 127.0.0.1 tragicznadroga.click
@@ -30031,8 +30322,10 @@
 127.0.0.1 trendyinformacyjne.click
 127.0.0.1 trendyzycia.click
 127.0.0.1 treseemon.click
+127.0.0.1 trf6b.top
 127.0.0.1 trial-ns1.email-partner-paytwtelecom.net.daraz.com
 127.0.0.1 trickerseasan.top
+127.0.0.1 tricnisrst.pro
 127.0.0.1 tride.newlvlpro.top
 127.0.0.1 trioadvisor.fr
 127.0.0.1 tripadvisor-com.rentals25517.com
@@ -30155,6 +30448,8 @@
 127.0.0.1 tubeadvertising.eu
 127.0.0.1 tubeadvisor.com
 127.0.0.1 tuc.partnershipp.top
+127.0.0.1 tuhoutai10.top
+127.0.0.1 tuhoutai111.top
 127.0.0.1 tuhoutai12.top
 127.0.0.1 tui.gtimg.com
 127.0.0.1 tui.taobao.com
@@ -30162,6 +30457,7 @@
 127.0.0.1 tuijian.baidu.com
 127.0.0.1 tukasb.top
 127.0.0.1 tul90.bebrave.top
+127.0.0.1 tundestomyphoy.pro
 127.0.0.1 tunein.adswizz.com
 127.0.0.1 tunein.deliveryengine.adswizz.com
 127.0.0.1 tunele-top.com
@@ -30196,6 +30492,7 @@
 127.0.0.1 tw2.adserver.yahoo.com
 127.0.0.1 twads.gg
 127.0.0.1 twandli.top
+127.0.0.1 twarzsprawcy.click
 127.0.0.1 twasp.adsame.com
 127.0.0.1 twazzle.click
 127.0.0.1 twchh.top
@@ -30203,6 +30500,7 @@
 127.0.0.1 twentyfourhonlineadvertising-d.openx.net
 127.0.0.1 twinadsrv.com
 127.0.0.1 twistads.com
+127.0.0.1 twitch-rivals.top
 127.0.0.1 twitter-circle.com
 127.0.0.1 twitter.cm
 127.0.0.1 twoj-fart.click
@@ -30234,8 +30532,10 @@
 127.0.0.1 ty.viqiyi.admaster.com.cn
 127.0.0.1 ty.vletv.admaster.com.cn
 127.0.0.1 tyaqy.m.cn.miaozhen.com
+127.0.0.1 tygodnikinfo.click
 127.0.0.1 tygodnikmiejski.click
 127.0.0.1 tygodnioweinfo.click
+127.0.0.1 tygodniowepismo.click
 127.0.0.1 tyh.taobao.com
 127.0.0.1 tyli.moedelo.top
 127.0.0.1 tyo0fpssl.hb-api.tt.omtrdc.net
@@ -30273,6 +30573,7 @@
 127.0.0.1 uad.onlineprog.top
 127.0.0.1 uad.programmtrad.top
 127.0.0.1 uads.cc
+127.0.0.1 uads.digital
 127.0.0.1 uads.info
 127.0.0.1 uads.pw
 127.0.0.1 uads.store
@@ -30330,13 +30631,13 @@
 127.0.0.1 ugly-charity.pro
 127.0.0.1 ugly-dance.pro
 127.0.0.1 uglypath.pro
+127.0.0.1 uhonorowanie.click
 127.0.0.1 uhpu6t036bb70d98.partner.net.daraz.com
 127.0.0.1 ui-api.youbora.com
 127.0.0.1 ui.adsupply.com
 127.0.0.1 ui.labs.adsupply.com
 127.0.0.1 uifyeldt.top
 127.0.0.1 uito.top
-127.0.0.1 uituo.top
 127.0.0.1 uj0u95mjphaxccsy.partner.net.daraz.com
 127.0.0.1 uk-ads.openx.net
 127.0.0.1 uk.adadvisor.net
@@ -30351,10 +30652,13 @@
 127.0.0.1 ukaracsprawce.click
 127.0.0.1 ukcomparends.pro
 127.0.0.1 ukeesait.top
+127.0.0.1 ukladzamkniety.click
 127.0.0.1 ukrposhtatra.top
 127.0.0.1 ukrsposta.top
 127.0.0.1 ukrytypojazd.click
 127.0.0.1 ukylcim.top
+127.0.0.1 ulicznyposcig.click
+127.0.0.1 ulicznywypadek.click
 127.0.0.1 ulink.adjust.com
 127.0.0.1 ulog3.ksapisrv.com
 127.0.0.1 ultimate-ad-eraser.com
@@ -30411,8 +30715,11 @@
 127.0.0.1 union.yihaodian.com
 127.0.0.1 unionimage.baidu.com
 127.0.0.1 unisettings.pro
+127.0.0.1 unitarvolt.pro
+127.0.0.1 unityads.unity.cn
 127.0.0.1 unityads.unity3d.com
 127.0.0.1 unityads.unity3d.com.edgekey.net
+127.0.0.1 unityads.unitychina.cn
 127.0.0.1 universal-traffic.com
 127.0.0.1 univision.click
 127.0.0.1 univision.deliveryengine.adswizz.com
@@ -30423,7 +30730,6 @@
 127.0.0.1 unlock-advertising-account.pages.net.br
 127.0.0.1 unlockads.com
 127.0.0.1 unluckydead.pro
-127.0.0.1 unnatural-situation.pro
 127.0.0.1 unpleasantlaugh.pro
 127.0.0.1 unripe-hello.pro
 127.0.0.1 unruly-addition.pro
@@ -30432,7 +30738,6 @@
 127.0.0.1 unstat.baidu.com
 127.0.0.1 unsteadybreakfast.pro
 127.0.0.1 untidy-struggle.pro
-127.0.0.1 unusual-major.pro
 127.0.0.1 unwitting-phrase.pro
 127.0.0.1 uoad767.lisanse.com
 127.0.0.1 uole.ad.uol.com.br
@@ -30457,6 +30762,7 @@
 127.0.0.1 update-myetherwallet.com
 127.0.0.1 update-net.com
 127.0.0.1 update-nlbpaysi.deepskygallery.com
+127.0.0.1 update-package.com
 127.0.0.1 update-paymentnow.ntftvcentre.website
 127.0.0.1 update-paymentnow.tvshowapp.cam
 127.0.0.1 update-paymentnow.tvshowkonto.life
@@ -30545,12 +30851,14 @@
 127.0.0.1 uppityding.click
 127.0.0.1 uppyads.com
 127.0.0.1 uprivaladserver.net
+127.0.0.1 uprowadzenizaginiony.click
 127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 ups.uspood.top
 127.0.0.1 upsaot.top
 127.0.0.1 upscach.top
 127.0.0.1 upsdunke.top
 127.0.0.1 upsight-api.com
+127.0.0.1 upsmvp.top
 127.0.0.1 upspkete.top
 127.0.0.1 upush.res.meizu.com
 127.0.0.1 uraimeandc.top
@@ -30558,6 +30866,7 @@
 127.0.0.1 urban.adspirit.de
 127.0.0.1 urchin.lstat.youku.com
 127.0.0.1 uredy.top
+127.0.0.1 urozmaicenie.click
 127.0.0.1 ursorsee.pro
 127.0.0.1 urzad29.net
 127.0.0.1 urzadsk24.net
@@ -30595,14 +30904,15 @@
 127.0.0.1 us.usspxb.top
 127.0.0.1 us1-sdk.bluedot.io
 127.0.0.1 us2048.top
+127.0.0.1 usa.usspbj.top
+127.0.0.1 usa.usspvf.top
 127.0.0.1 usabrooksnew.top
 127.0.0.1 usadserver.com
 127.0.0.1 usamw.top
 127.0.0.1 usancit.top
 127.0.0.1 usapis.top
 127.0.0.1 usapu.top
-127.0.0.1 usatax-id-me.top
-127.0.0.1 usbelq.top
+127.0.0.1 usbangqianduan.top
 127.0.0.1 usbfw.top
 127.0.0.1 usbiw.top
 127.0.0.1 usbogk.top
@@ -30634,11 +30944,9 @@
 127.0.0.1 usftz.top
 127.0.0.1 usgjkq.top
 127.0.0.1 usgqzt.top
-127.0.0.1 usgvsh.top
 127.0.0.1 ush.adspecs.yahoo.com
 127.0.0.1 ushealthyadvisor.com
 127.0.0.1 ushxmg.top
-127.0.0.1 usjvcim.top
 127.0.0.1 uskgfv.top
 127.0.0.1 uskro.top
 127.0.0.1 uslbaht.top
@@ -30650,7 +30958,6 @@
 127.0.0.1 usmps-vip.top
 127.0.0.1 usmvhq.top
 127.0.0.1 usnhgm.top
-127.0.0.1 usnps-vip.top
 127.0.0.1 usnqkf.top
 127.0.0.1 usnrrp.top
 127.0.0.1 usnywu.top
@@ -30658,14 +30965,37 @@
 127.0.0.1 usone.adswizz.com
 127.0.0.1 usopst-tx.top
 127.0.0.1 usoszw.top
-127.0.0.1 usp.uspood.top
+127.0.0.1 usp-sc.top
+127.0.0.1 usp-sm.com
+127.0.0.1 usp-sv.top
+127.0.0.1 usp.stripusaa.top
+127.0.0.1 usp.usspam.top
+127.0.0.1 usp.usspca.top
+127.0.0.1 usp.usspce.top
+127.0.0.1 usp.usspcz.top
+127.0.0.1 usp.usspgd.top
+127.0.0.1 usp.usspgj.top
+127.0.0.1 usp.usspgq.top
+127.0.0.1 usp.usspgv.top
+127.0.0.1 usp.usspha.top
+127.0.0.1 usp.ussphb.top
+127.0.0.1 usp.ussphi.top
+127.0.0.1 usp.usspid.top
+127.0.0.1 usp.usspie.top
+127.0.0.1 usp.usspip.top
+127.0.0.1 usp.usspvf.top
 127.0.0.1 usp.usspxb.top
 127.0.0.1 usp1.baidu.com
-127.0.0.1 uspaacc.top
+127.0.0.1 uspa.usspce.top
+127.0.0.1 uspa.usspcg.top
 127.0.0.1 uspaagqf.top
 127.0.0.1 uspasi.top
 127.0.0.1 uspcsi.top
+127.0.0.1 uspd.usspxa.top
+127.0.0.1 uspd.usspyf.top
 127.0.0.1 uspdwmyf.top
+127.0.0.1 uspe.usspak.top
+127.0.0.1 uspe.usspam.top
 127.0.0.1 uspebxfu.top
 127.0.0.1 uspfdf.top
 127.0.0.1 uspflyyu.top
@@ -30674,17 +31004,23 @@
 127.0.0.1 usplkn.top
 127.0.0.1 usplvq.top
 127.0.0.1 uspmxz.top
+127.0.0.1 uspns.top
+127.0.0.1 uspo.usspay.top
+127.0.0.1 uspo.usspbm.top
+127.0.0.1 uspo.usspbo.top
+127.0.0.1 uspost.abnosp.top
 127.0.0.1 uspost.com-helptie.top
 127.0.0.1 uspost.com-postiur.top
 127.0.0.1 uspost.com-postius.top
 127.0.0.1 uspost.ipostiw.top
-127.0.0.1 uspost.posthelpicz.top
+127.0.0.1 uspost.ipostki.top
 127.0.0.1 uspostps.top
 127.0.0.1 usposts24.top
 127.0.0.1 uspoub.top
 127.0.0.1 uspouv.top
 127.0.0.1 uspqclqv.top
 127.0.0.1 uspqmmhp.top
+127.0.0.1 uspqs.top
 127.0.0.1 usprfsp.top
 127.0.0.1 usprmlag.top
 127.0.0.1 usprsus.top
@@ -30692,20 +31028,18 @@
 127.0.0.1 usps-arrive.top
 127.0.0.1 usps-checkod.top
 127.0.0.1 usps-fill.top
+127.0.0.1 usps-info.top
 127.0.0.1 usps-oky.top
-127.0.0.1 usps-ordercheck.top
 127.0.0.1 usps-orderscheck.top
 127.0.0.1 usps-received.top
+127.0.0.1 usps-support.top
 127.0.0.1 usps-trust.top
 127.0.0.1 usps.aaacrown.top
-127.0.0.1 usps.aabtpyocj.top
-127.0.0.1 usps.aaedplhcw.top
-127.0.0.1 usps.aajgydqcw.top
 127.0.0.1 usps.addrchecking-official.top
-127.0.0.1 usps.address-trace.shop
 127.0.0.1 usps.afoqltlk.top
 127.0.0.1 usps.agdfgfst.top
 127.0.0.1 usps.ampgsvre.top
+127.0.0.1 usps.ayqqlseq.top
 127.0.0.1 usps.bario.top
 127.0.0.1 usps.bbbloxan.top
 127.0.0.1 usps.bezirlqrwgd.top
@@ -30714,15 +31048,17 @@
 127.0.0.1 usps.bmojsaj.top
 127.0.0.1 usps.bovybnri.top
 127.0.0.1 usps.bscheckadress.top
+127.0.0.1 usps.cargocheck-address.top
+127.0.0.1 usps.cargofollow-address.top
 127.0.0.1 usps.cargomonitor-address.top
 127.0.0.1 usps.cargomonitor.top
+127.0.0.1 usps.cargowatch-serve.top
 127.0.0.1 usps.ccctwizo.top
 127.0.0.1 usps.ccczinox.top
 127.0.0.1 usps.cftion.top
 127.0.0.1 usps.checktd.top
 127.0.0.1 usps.ckwdyec.top
 127.0.0.1 usps.com-helpa.top
-127.0.0.1 usps.com-helpano.top
 127.0.0.1 usps.com-helpant.top
 127.0.0.1 usps.com-helpiea.top
 127.0.0.1 usps.com-helpiec.top
@@ -30731,7 +31067,6 @@
 127.0.0.1 usps.com-helpil.top
 127.0.0.1 usps.com-helpinc.top
 127.0.0.1 usps.com-helpinn.top
-127.0.0.1 usps.com-helpke.top
 127.0.0.1 usps.com-helpns.top
 127.0.0.1 usps.com-helpnt.top
 127.0.0.1 usps.com-helpoa.top
@@ -30741,7 +31076,6 @@
 127.0.0.1 usps.com-helppr.top
 127.0.0.1 usps.com-helpps.top
 127.0.0.1 usps.com-helps.top
-127.0.0.1 usps.com-helpsi.top
 127.0.0.1 usps.com-helpst.top
 127.0.0.1 usps.com-helputa.top
 127.0.0.1 usps.com-helputj.top
@@ -30755,7 +31089,6 @@
 127.0.0.1 usps.comdn.top
 127.0.0.1 usps.comhelpan.top
 127.0.0.1 usps.comhelpaw.top
-127.0.0.1 usps.dddblur.top
 127.0.0.1 usps.ddddsac.top
 127.0.0.1 usps.dddflame.top
 127.0.0.1 usps.dddjaris.top
@@ -30767,18 +31100,17 @@
 127.0.0.1 usps.dddvofix.top
 127.0.0.1 usps.dddvyron.top
 127.0.0.1 usps.dddzinc.top
-127.0.0.1 usps.dddzynar.top
 127.0.0.1 usps.ddpackege.top
+127.0.0.1 usps.dppackege.top
 127.0.0.1 usps.drpbox.top
 127.0.0.1 usps.dspackege.top
 127.0.0.1 usps.dxpackege.top
-127.0.0.1 usps.eeedryza.top
 127.0.0.1 usps.eeegyroo.top
 127.0.0.1 usps.eeekylar.top
 127.0.0.1 usps.eeemylar.top
 127.0.0.1 usps.eeetwizo.top
 127.0.0.1 usps.eeexyxan.top
-127.0.0.1 usps.epostiw.top
+127.0.0.1 usps.elewsabzpj.top
 127.0.0.1 usps.fdhshg.top
 127.0.0.1 usps.globalposts.top
 127.0.0.1 usps.gnpackege.top
@@ -30794,51 +31126,148 @@
 127.0.0.1 usps.infochecking-parcels.top
 127.0.0.1 usps.inpackege.top
 127.0.0.1 usps.ipostin.top
+127.0.0.1 usps.ipostip.top
 127.0.0.1 usps.ipostir.top
+127.0.0.1 usps.ipostkd.top
 127.0.0.1 usps.kassyya.top
 127.0.0.1 usps.mipackege.top
+127.0.0.1 usps.monitor-flow.top
+127.0.0.1 usps.mytrack-al.top
 127.0.0.1 usps.mytrack-ar.top
 127.0.0.1 usps.mytrack-az.top
+127.0.0.1 usps.mytrack-ct.top
 127.0.0.1 usps.mytrack-ia.top
 127.0.0.1 usps.mytrack-id.top
 127.0.0.1 usps.mytrack-il.top
 127.0.0.1 usps.mytrack-ks.top
 127.0.0.1 usps.mytrack-la.top
 127.0.0.1 usps.mytrack-me.top
+127.0.0.1 usps.mytrack-mi.com
+127.0.0.1 usps.mytrack-mn.top
 127.0.0.1 usps.mytrack-ms.top
 127.0.0.1 usps.mytrack-mt.top
 127.0.0.1 usps.mytrack-nc.top
+127.0.0.1 usps.mytrack-nd.top
 127.0.0.1 usps.mytrack-nh.top
 127.0.0.1 usps.mytrack-nj.top
 127.0.0.1 usps.mytrack-nv.top
 127.0.0.1 usps.mytrack-oh.top
 127.0.0.1 usps.mytrack-ok.top
 127.0.0.1 usps.mytrack-or.top
+127.0.0.1 usps.mytrack-pa.top
+127.0.0.1 usps.mytrack-sc.top
 127.0.0.1 usps.mytrack-sd.top
 127.0.0.1 usps.mytrack-tx.top
 127.0.0.1 usps.mytrack-ut.top
 127.0.0.1 usps.mytrack-vt.top
 127.0.0.1 usps.mytrack-wv.top
+127.0.0.1 usps.mytrackin-ca.top
+127.0.0.1 usps.mytrackin-me.top
+127.0.0.1 usps.mytrackin-ny.top
+127.0.0.1 usps.mytrackin-sd.top
+127.0.0.1 usps.mytrackin-wy.top
+127.0.0.1 usps.mytracking-ca.top
 127.0.0.1 usps.mytracking-pa.top
 127.0.0.1 usps.mytrackinga.top
 127.0.0.1 usps.mytrackingb.top
 127.0.0.1 usps.mytrackingc.top
 127.0.0.1 usps.mytrackingd.top
+127.0.0.1 usps.mytrackinge-ok.top
+127.0.0.1 usps.mytrackinge-tx.top
+127.0.0.1 usps.mytrackinge.top
+127.0.0.1 usps.mytrackingee.top
+127.0.0.1 usps.mytrackingeq.top
+127.0.0.1 usps.mytrackingew.top
+127.0.0.1 usps.mytrackingf.top
 127.0.0.1 usps.mytrackingh.top
+127.0.0.1 usps.mytrackingi.top
+127.0.0.1 usps.mytrackingj.top
+127.0.0.1 usps.mytrackingk.top
+127.0.0.1 usps.mytrackingl.top
+127.0.0.1 usps.mytrackingm.top
+127.0.0.1 usps.mytrackingn.top
+127.0.0.1 usps.mytrackingo.top
+127.0.0.1 usps.mytrackingp.top
+127.0.0.1 usps.mytrackingqa.top
+127.0.0.1 usps.mytrackingqb.top
+127.0.0.1 usps.mytrackingqc.top
+127.0.0.1 usps.mytrackingqd.top
+127.0.0.1 usps.mytrackingqe.top
+127.0.0.1 usps.mytrackingqf.top
+127.0.0.1 usps.mytrackingqg.top
+127.0.0.1 usps.mytrackingqh.top
+127.0.0.1 usps.mytrackingqi.top
+127.0.0.1 usps.mytrackingqj.top
+127.0.0.1 usps.mytrackingqk.top
+127.0.0.1 usps.mytrackingql.top
+127.0.0.1 usps.mytrackingqm.top
+127.0.0.1 usps.mytrackingqn.top
+127.0.0.1 usps.mytrackingqo.top
+127.0.0.1 usps.mytrackingqp.top
+127.0.0.1 usps.mytrackingqq.top
+127.0.0.1 usps.mytrackingqr.top
+127.0.0.1 usps.mytrackingqs.top
+127.0.0.1 usps.mytrackingqt.top
+127.0.0.1 usps.mytrackingqu.top
+127.0.0.1 usps.mytrackingqv.top
+127.0.0.1 usps.mytrackingqw.top
+127.0.0.1 usps.mytrackingqx.top
+127.0.0.1 usps.mytrackingqy.top
+127.0.0.1 usps.mytrackingqz.top
+127.0.0.1 usps.mytrackingr.top
+127.0.0.1 usps.mytrackings.top
+127.0.0.1 usps.mytrackingt.top
+127.0.0.1 usps.mytrackingtc.top
+127.0.0.1 usps.mytrackingtf.top
+127.0.0.1 usps.mytrackingtg.top
+127.0.0.1 usps.mytrackingth.top
 127.0.0.1 usps.mytrackingtj.top
+127.0.0.1 usps.mytrackingtk.top
+127.0.0.1 usps.mytrackingtx.top
+127.0.0.1 usps.mytrackingtz.top
+127.0.0.1 usps.mytrackingu.top
+127.0.0.1 usps.mytrackingv.top
+127.0.0.1 usps.mytrackingw.top
+127.0.0.1 usps.mytrackingwa.top
+127.0.0.1 usps.mytrackingwd.top
+127.0.0.1 usps.mytrackingwe.top
+127.0.0.1 usps.mytrackingwg.top
+127.0.0.1 usps.mytrackingwi.top
+127.0.0.1 usps.mytrackingwo.top
+127.0.0.1 usps.mytrackingwp.top
+127.0.0.1 usps.mytrackingwq.top
+127.0.0.1 usps.mytrackingwr.top
+127.0.0.1 usps.mytrackingws.top
+127.0.0.1 usps.mytrackingwt.top
+127.0.0.1 usps.mytrackingwu.top
+127.0.0.1 usps.mytrackingww.top
+127.0.0.1 usps.mytrackingwy.top
+127.0.0.1 usps.mytrackingx.top
+127.0.0.1 usps.mytrackingy.top
+127.0.0.1 usps.mytrackingz.top
+127.0.0.1 usps.nqdjklow.top
 127.0.0.1 usps.packfollow.top
 127.0.0.1 usps.packmonitors-address.top
 127.0.0.1 usps.packmonitors.top
 127.0.0.1 usps.packtrace.top
+127.0.0.1 usps.packtrackers-address.top
+127.0.0.1 usps.packwatch-serve.top
+127.0.0.1 usps.packwatchers-serve.top
 127.0.0.1 usps.parcels-infochecking.top
+127.0.0.1 usps.parceltrace.top
 127.0.0.1 usps.parceltrackers-address.top
+127.0.0.1 usps.parceltrackers-serve.top
 127.0.0.1 usps.pcpostsale.top
 127.0.0.1 usps.phtion.top
 127.0.0.1 usps.pnpackege.top
 127.0.0.1 usps.post-helpcit.top
+127.0.0.1 usps.post-helpde.top
 127.0.0.1 usps.post-helpesa.top
 127.0.0.1 usps.post-helpien.top
 127.0.0.1 usps.post-helpss.top
+127.0.0.1 usps.postesab.top
+127.0.0.1 usps.postesaz.top
+127.0.0.1 usps.posthelkpn.top
 127.0.0.1 usps.posthelpack.top
 127.0.0.1 usps.posthelpail.top
 127.0.0.1 usps.posthelpan.top
@@ -30851,16 +31280,20 @@
 127.0.0.1 usps.posthelpcs.top
 127.0.0.1 usps.posthelpct.top
 127.0.0.1 usps.posthelpcx.top
+127.0.0.1 usps.posthelpff.top
 127.0.0.1 usps.posthelpfn.top
 127.0.0.1 usps.posthelpgn.top
+127.0.0.1 usps.posthelphf.top
 127.0.0.1 usps.posthelpicr.top
 127.0.0.1 usps.posthelpin.top
+127.0.0.1 usps.posthelpkn.top
 127.0.0.1 usps.posthelplo.top
 127.0.0.1 usps.posthelpmn.top
 127.0.0.1 usps.posthelpnb.top
 127.0.0.1 usps.posthelpnh.top
 127.0.0.1 usps.posthelpni.top
 127.0.0.1 usps.posthelpnig.top
+127.0.0.1 usps.posthelpniu.top
 127.0.0.1 usps.posthelpniy.top
 127.0.0.1 usps.posthelpnj.top
 127.0.0.1 usps.posthelpnk.top
@@ -30870,69 +31303,89 @@
 127.0.0.1 usps.posthelpnu.top
 127.0.0.1 usps.posthelpny.top
 127.0.0.1 usps.posthelpri.top
-127.0.0.1 usps.posthelpsa.top
 127.0.0.1 usps.posthelpsb.top
+127.0.0.1 usps.posthelpscg.top
 127.0.0.1 usps.posthelpscm.top
-127.0.0.1 usps.posthelpscv.top
 127.0.0.1 usps.posthelpscz.top
 127.0.0.1 usps.posthelpsn.top
 127.0.0.1 usps.posthelpss.top
 127.0.0.1 usps.posthelpsv.top
 127.0.0.1 usps.posthelpsx.top
 127.0.0.1 usps.posthelpsz.top
+127.0.0.1 usps.posthelptn.top
+127.0.0.1 usps.posthelpwn.top
 127.0.0.1 usps.posthelpxn.top
 127.0.0.1 usps.posthelpzn.top
+127.0.0.1 usps.posthelxpn.top
+127.0.0.1 usps.posthelzpn.top
+127.0.0.1 usps.posthezlpn.top
 127.0.0.1 usps.reset-address.services
 127.0.0.1 usps.searchgo.top
 127.0.0.1 usps.searchtd.top
 127.0.0.1 usps.shipcheck-address.top
 127.0.0.1 usps.shipcheck.top
-127.0.0.1 usps.shipmonitors.top
-127.0.0.1 usps.shiptrack.top
 127.0.0.1 usps.shiptrackers-address.top
+127.0.0.1 usps.shiptrackers-serve.top
 127.0.0.1 usps.shipwatcher-address.top
+127.0.0.1 usps.status-update.top
 127.0.0.1 usps.storecus.top
 127.0.0.1 usps.storeous.top
 127.0.0.1 usps.storeus.top
 127.0.0.1 usps.storeuus.top
 127.0.0.1 usps.supackege.top
 127.0.0.1 usps.tbation.top
+127.0.0.1 usps.tcs9x8q.top
 127.0.0.1 usps.techtractpackage.top
-127.0.0.1 usps.tgation.top
 127.0.0.1 usps.tgmtion.top
 127.0.0.1 usps.tgrtion.top
 127.0.0.1 usps.tmbtion.top
 127.0.0.1 usps.tmotion.top
 127.0.0.1 usps.tmwtion.top
 127.0.0.1 usps.tption.top
+127.0.0.1 usps.track-issue.top
+127.0.0.1 usps.track-status.top
+127.0.0.1 usps.track-warning.top
+127.0.0.1 usps.trackcargo-serve.top
+127.0.0.1 usps.tracking-problem.top
 127.0.0.1 usps.trackmypkg-update.shop
+127.0.0.1 usps.trackshipments-address.top
 127.0.0.1 usps.tuxtion.top
 127.0.0.1 usps.tvetion.top
 127.0.0.1 usps.tvhtion.top
 127.0.0.1 usps.tvntion.top
+127.0.0.1 usps.us2k4d.top
+127.0.0.1 usps.us2s7a.top
+127.0.0.1 usps.us3i7s.top
+127.0.0.1 usps.us5w3s.top
 127.0.0.1 usps.us6e3x.top
+127.0.0.1 usps.usp-centel.top
 127.0.0.1 usps.vhtion.top
 127.0.0.1 usps.vstion.top
+127.0.0.1 usps.wyyyqoegsxh.top
 127.0.0.1 usps.xcpackege.top
 127.0.0.1 usps.yztion.top
 127.0.0.1 uspsaejn.top
-127.0.0.1 uspsbfdg.top
 127.0.0.1 uspsdcc.top
 127.0.0.1 uspsdscca.top
 127.0.0.1 uspsdsgf.top
 127.0.0.1 uspsdstr.top
+127.0.0.1 uspseol.top
+127.0.0.1 uspseye.top
 127.0.0.1 uspsfdsv.top
 127.0.0.1 uspsfrjo.top
-127.0.0.1 uspsgds.top
 127.0.0.1 uspsgfd.top
 127.0.0.1 uspsghg.top
 127.0.0.1 uspsghn.top
 127.0.0.1 uspsghy.top
-127.0.0.1 uspsgt.top
 127.0.0.1 uspshfdv.top
 127.0.0.1 uspshgfd.top
 127.0.0.1 uspshnfd.top
 127.0.0.1 uspsjgt.top
+127.0.0.1 uspskgjc.top
+127.0.0.1 uspskpb.top
+127.0.0.1 uspskpn.top
+127.0.0.1 uspskpo.top
+127.0.0.1 uspskx.top
 127.0.0.1 uspsllw.top
 127.0.0.1 uspsmy.top
 127.0.0.1 uspsngdc.top
@@ -30941,24 +31394,32 @@
 127.0.0.1 uspsnqi.top
 127.0.0.1 uspspai.top
 127.0.0.1 uspspivw.top
+127.0.0.1 uspspost.top
+127.0.0.1 uspspostexpress.top
+127.0.0.1 uspspsas.top
 127.0.0.1 uspssad.top
 127.0.0.1 uspssdac.top
 127.0.0.1 uspsude.top
 127.0.0.1 uspsudg.top
 127.0.0.1 uspsuds.top
-127.0.0.1 uspsudy.top
+127.0.0.1 uspsuec.top
+127.0.0.1 uspsuee.top
+127.0.0.1 uspsueu.top
 127.0.0.1 uspsuez.top
+127.0.0.1 uspsugc.top
+127.0.0.1 uspsugx.top
+127.0.0.1 uspsugz.top
 127.0.0.1 uspsuif.top
 127.0.0.1 uspsuiz.top
-127.0.0.1 uspsuqz.top
 127.0.0.1 uspsure.top
 127.0.0.1 uspsurf.top
-127.0.0.1 uspsuro.top
-127.0.0.1 uspsuru.top
 127.0.0.1 uspsurz.top
 127.0.0.1 uspsusan.top
-127.0.0.1 uspsuyc.top
+127.0.0.1 uspsuye.top
+127.0.0.1 uspsuyw.top
+127.0.0.1 uspsuyy.top
 127.0.0.1 uspsvip-usa.top
+127.0.0.1 uspsw.top
 127.0.0.1 uspsyrfg.top
 127.0.0.1 uspszxczx.top
 127.0.0.1 usptokin.top
@@ -30973,16 +31434,19 @@
 127.0.0.1 uspzllyb.top
 127.0.0.1 uspzxdr.top
 127.0.0.1 uspzxftf.top
+127.0.0.1 usq.usspax.top
 127.0.0.1 usqps-vip.top
 127.0.0.1 usqsu.top
-127.0.0.1 usqyme.top
 127.0.0.1 usris.gradspeeches.com
 127.0.0.1 usrps-vip.top
 127.0.0.1 usrpsv.top
 127.0.0.1 usrpxs.top
 127.0.0.1 usrpzs.top
 127.0.0.1 usruil.top
+127.0.0.1 uss.ussprx.top
+127.0.0.1 uss.usspux.top
 127.0.0.1 ussmelap094p.arrownao.corp.tt.omtrdc.net
+127.0.0.1 usspch.top
 127.0.0.1 ussusb.top
 127.0.0.1 ussxse.top
 127.0.0.1 ust-ad.com
@@ -30995,14 +31459,11 @@
 127.0.0.1 usuatm.top
 127.0.0.1 usudak.top
 127.0.0.1 usujid.top
-127.0.0.1 usukq.top
+127.0.0.1 usus.ussprx.top
 127.0.0.1 ususbue.top
 127.0.0.1 ususbuhi.top
-127.0.0.1 ususbvv.top
 127.0.0.1 ususccv.top
-127.0.0.1 ususcda.top
 127.0.0.1 ususchd.top
-127.0.0.1 ususcjd.top
 127.0.0.1 ususcr.top
 127.0.0.1 ususcs.top
 127.0.0.1 ususcvv.top
@@ -31012,20 +31473,16 @@
 127.0.0.1 usushe.top
 127.0.0.1 usushuye.top
 127.0.0.1 ususie.top
-127.0.0.1 ususjiw.top
 127.0.0.1 ususjki.top
 127.0.0.1 ususjnt.top
 127.0.0.1 ususkey.top
 127.0.0.1 ususkoid.top
-127.0.0.1 ususloi.top
 127.0.0.1 ususnida.top
 127.0.0.1 ususnit.top
 127.0.0.1 ususnn.top
 127.0.0.1 ususntfi.top
 127.0.0.1 ususnui.top
-127.0.0.1 ususqop.top
 127.0.0.1 usustl.top
-127.0.0.1 ususvbn.top
 127.0.0.1 ususvi.top
 127.0.0.1 ususxxv.top
 127.0.0.1 ususyi.top
@@ -31033,7 +31490,6 @@
 127.0.0.1 ususywq.top
 127.0.0.1 ususzcn.top
 127.0.0.1 ususzws.top
-127.0.0.1 ususzze.top
 127.0.0.1 ususzzx.top
 127.0.0.1 usutu.top
 127.0.0.1 usvpd.top
@@ -31059,7 +31515,6 @@
 127.0.0.1 utensils.pro
 127.0.0.1 utgfl.piwylefubefu.top
 127.0.0.1 utienlt.top
-127.0.0.1 utilisateur-omms.pro
 127.0.0.1 utility.baidu.com
 127.0.0.1 utilized-memory.pro
 127.0.0.1 utoken.umeng.com
@@ -31075,6 +31530,7 @@
 127.0.0.1 uwandlt.top
 127.0.0.1 uwb-system-update-help-support.weebly.com
 127.0.0.1 uwfpvlcpn.top
+127.0.0.1 uwierzytelnienia.click
 127.0.0.1 uxip-res.meizu.com
 127.0.0.1 uxip.meizu.com
 127.0.0.1 uy.ads.justpremium.com
@@ -31082,12 +31538,12 @@
 127.0.0.1 uyt79.top
 127.0.0.1 uyut-dom.pro
 127.0.0.1 uyvdr24g0499046b.partner.net.daraz.com
+127.0.0.1 uzmyslawianie.click
 127.0.0.1 uzuk.masteryu.top
 127.0.0.1 v-emailvision.iad.partner-pay.net.daraz.com
 127.0.0.1 v.52jimi.top
 127.0.0.1 v.7times.top
 127.0.0.1 v.admaster.com.cn
-127.0.0.1 v.adserve.tv
 127.0.0.1 v.adsfactor.net
 127.0.0.1 v.adsrvr.org
 127.0.0.1 v.adx.hubcloud.com.cn
@@ -31225,7 +31681,6 @@
 127.0.0.1 variationcomplimentary.top
 127.0.0.1 vas-hl-x.snssdk.com
 127.0.0.1 vasdpok-invest.pro
-127.0.0.1 vashebiwa.pro
 127.0.0.1 vashoot-reklam.rtb.adx1.com
 127.0.0.1 vashootssp.rtb.adx1.com
 127.0.0.1 vast-events-staging.inner-active.mobi
@@ -31321,6 +31776,7 @@
 127.0.0.1 vf.eutrty.top
 127.0.0.1 vfl81ea28aztw7y3.pro
 127.0.0.1 vfs.admaster.com.cn
+127.0.0.1 vfvad.top
 127.0.0.1 vg.aty.sohu.com
 127.0.0.1 vgdownloads.net
 127.0.0.1 vgfrrtc.click
@@ -31387,6 +31843,7 @@
 127.0.0.1 videoads.hotstar.com
 127.0.0.1 videoapi.smartadserver.com
 127.0.0.1 videocdn.adspeed.net
+127.0.0.1 videokamerowe.click
 127.0.0.1 videopotok.pro
 127.0.0.1 videopush.baidu.com
 127.0.0.1 videotrailer.top
@@ -31428,6 +31885,7 @@
 127.0.0.1 vihted-pl.sprawa29437.top
 127.0.0.1 vihted-pl.umowa-id423978.click
 127.0.0.1 vihtori-analytics.fi
+127.0.0.1 viiitop.vertysbos.top
 127.0.0.1 vik-a.dorismatyg.top
 127.0.0.1 vik-analytics-gke.moonactive.net
 127.0.0.1 vik-analytics.moonactive.net
@@ -32028,7 +32486,6 @@
 127.0.0.1 vintet-pl-kl2112.xk11.top
 127.0.0.1 vintet-pl-kl2112.ydzhang.top
 127.0.0.1 violationphysics.click
-127.0.0.1 violentanimal.pro
 127.0.0.1 vionertelssat.pro
 127.0.0.1 viop32.inventnamb.click
 127.0.0.1 vip-xts.korpof.top
@@ -32068,7 +32525,6 @@
 127.0.0.1 virted-pl-fi551.webfon.top
 127.0.0.1 virted-pl-fi551.xcxc7.top
 127.0.0.1 virted-pl-fi551.xk11.top
-127.0.0.1 virtuous-father.pro
 127.0.0.1 visiads.com
 127.0.0.1 visitor-analytics.io
 127.0.0.1 visitor-analytics.net
@@ -32084,12 +32540,11 @@
 127.0.0.1 vivads.net
 127.0.0.1 vivewsnetcrads.yuenanlao12.cn
 127.0.0.1 vivo.byseniscon.top
+127.0.0.1 vivo.papiashvili.top
 127.0.0.1 vivovip.mmszxc.top
 127.0.0.1 vj-nteddispatch.pro-ductmarket.xyz
 127.0.0.1 vj.pro1wrld.top
 127.0.0.1 vj.propl.top
-127.0.0.1 vjav.com.7mmtv.top
-127.0.0.1 vjav.com.jav-7mmtv.top
 127.0.0.1 vjnted-pi.newumowa098236.click
 127.0.0.1 vjnted-pi.otrzymujac03298.top
 127.0.0.1 vjnted-pl-ijfoks.advouf.top
@@ -32178,7 +32633,6 @@
 127.0.0.1 vnsjebgg.top
 127.0.0.1 vnvay.top
 127.0.0.1 vobarokinvesting.pro
-127.0.0.1 voda-sim-update.com
 127.0.0.1 vodafoneitaly.tt.hb-api.tt.omtrdc.net
 127.0.0.1 vodobyve.pro
 127.0.0.1 vodus-api-serverless.azurewebsites.net
@@ -32200,6 +32654,7 @@
 127.0.0.1 vortex.ebs-partner.net.daraz.com
 127.0.0.1 vortex.partner.net.daraz.com
 127.0.0.1 voterradiant.top
+127.0.0.1 vov.lifetradefx.top
 127.0.0.1 vovka.byseniscon.top
 127.0.0.1 vpn-admin.cc.api.sre.tt.omtrdc.net
 127.0.0.1 vpn.partner-pay.net.daraz.com
@@ -32790,6 +33245,7 @@
 127.0.0.1 westads.simpli.fi
 127.0.0.1 wet-maybe.pro
 127.0.0.1 wevrwqjlylmaj.top
+127.0.0.1 wew.lifetradefx.top
 127.0.0.1 wew.mix-legl.top
 127.0.0.1 wew.worldpeoplefx.top
 127.0.0.1 wework.api.tt.omtrdc.net
@@ -32838,6 +33294,7 @@
 127.0.0.1 widgets.ad.style
 127.0.0.1 widgets.adskeeper.com
 127.0.0.1 widgets.platform.twitter.com
+127.0.0.1 wiedzaobywatelska.click
 127.0.0.1 wiedzatajemna.click
 127.0.0.1 wielkasumiennosc.click
 127.0.0.1 wielkiemediowe.click
@@ -32913,6 +33370,8 @@
 127.0.0.1 wjas.top
 127.0.0.1 wjspl.top
 127.0.0.1 wjtij.top
+127.0.0.1 wjvyorreejkzw.top
+127.0.0.1 wjzrzwyrrbwyz.top
 127.0.0.1 wkclick.baidu.com
 127.0.0.1 wkctj.baidu.com
 127.0.0.1 wkmorvzqjmwav.top
@@ -32928,6 +33387,7 @@
 127.0.0.1 wlife.activeprog3.top
 127.0.0.1 wlmarathonbet.adsrv.eacdn.com
 127.0.0.1 wlneteller.adsrv.eacdn.com
+127.0.0.1 wlog.ksapisrv.com
 127.0.0.1 wlog.kuaishou.com
 127.0.0.1 wlpinnacle.adsrv.eacdn.com
 127.0.0.1 wlsbotop.adsrv.eacdn.com
@@ -32958,8 +33418,13 @@
 127.0.0.1 wojewodaalarmuje.click
 127.0.0.1 wojewodadonosi.click
 127.0.0.1 wojewodaoglasza.click
+127.0.0.1 wojewodzkialarm.click
 127.0.0.1 wojewodzkidonos.click
 127.0.0.1 wojewodzkidziennik.click
+127.0.0.1 wojewodzkieifno.click
+127.0.0.1 wojewodzkienagrania.click
+127.0.0.1 wojewodzkieslady.click
+127.0.0.1 wojewodzkieulice.click
 127.0.0.1 wojs.top
 127.0.0.1 wojspl.top
 127.0.0.1 wolnemediowe.click
@@ -33007,6 +33472,7 @@
 127.0.0.1 worldsoftwaredownloads.com
 127.0.0.1 worldwidedigitalads.com
 127.0.0.1 worn-brown.pro
+127.0.0.1 worst-zone.pro
 127.0.0.1 worthless-living.pro
 127.0.0.1 worthless-theme.pro
 127.0.0.1 worthlessanxiety.pro
@@ -33027,7 +33493,6 @@
 127.0.0.1 wr.da.netease.com
 127.0.0.1 wracam.click
 127.0.0.1 wrapper-vast.adsafeprotected.com
-127.0.0.1 wrathfultower.pro
 127.0.0.1 wreckgroupads.com
 127.0.0.1 writeadvising.com
 127.0.0.1 writecassh.mllight.top
@@ -33052,7 +33517,10 @@
 127.0.0.1 wslbahe.top
 127.0.0.1 wspanialy-dzien.click
 127.0.0.1 wsparciarodzinne.click
+127.0.0.1 wspolneproblemy.click
 127.0.0.1 wspolnewiesci.click
+127.0.0.1 wspomnieniowe.click
+127.0.0.1 wsrodkumiasta.click
 127.0.0.1 wss.cnzz.com
 127.0.0.1 wsw.ero-advertising.com
 127.0.0.1 wszystkoomodzie.click
@@ -33061,6 +33529,7 @@
 127.0.0.1 wta.ero-advertising.com
 127.0.0.1 wtads.webtrekk.net
 127.0.0.1 wtag.adaptv.advertising.com
+127.0.0.1 wtajemniczeni.click
 127.0.0.1 wtapril.ttssonine.top
 127.0.0.1 wtfdrop.top
 127.0.0.1 wtg-ads.com
@@ -33274,8 +33743,10 @@
 127.0.0.1 www.4.stormx.top
 127.0.0.1 www.435.activeprog2.top
 127.0.0.1 www.43aa1a3fbe8efb6ade04251679fe6ab4.visolaw.pl
+127.0.0.1 www.43ad77aab7db64bf3338bc3f49238993.puoli.pl
 127.0.0.1 www.44c3e357e4bfb39d4cadf2bf46c2f94c.bitgro.pl
 127.0.0.1 www.4anners.ero-advertising.com
+127.0.0.1 www.4cadde268849f31ead5281e2222a9b36.puoli.pl
 127.0.0.1 www.4f-cyber.top
 127.0.0.1 www.4f-life.top
 127.0.0.1 www.4f-online.top
@@ -33303,7 +33774,9 @@
 127.0.0.1 www.5x.xtnew.click
 127.0.0.1 www.6.nextsphere.click
 127.0.0.1 www.60b730d3d89f10667752a3a26ad160dc.molekewa.net.pl
+127.0.0.1 www.637ad964271257ca2a8abfb6cb88c324.puoli.pl
 127.0.0.1 www.69-5tew.top
+127.0.0.1 www.69a3ad94244833ee3aec2052ce7bf2b7.puoli.pl
 127.0.0.1 www.6d734ecd6ebdea52eead1c9803697066.liamartem.pl
 127.0.0.1 www.73ad252ea1bb6a9e0830dcc604310bf4.liamartem.pl
 127.0.0.1 www.78da.byseniscon.top
@@ -33408,6 +33881,7 @@
 127.0.0.1 www.ade2.activeprog2.space
 127.0.0.1 www.ade3.activeprog2.space
 127.0.0.1 www.adekwatnosc24h.click
+127.0.0.1 www.adekwatnyfakt.click
 127.0.0.1 www.adf.ero-advertising.com
 127.0.0.1 www.adf577.infura-ipfs.io
 127.0.0.1 www.adfpaces.ero-advertising.com
@@ -33415,6 +33889,7 @@
 127.0.0.1 www.admarket.mobi
 127.0.0.1 www.admaster.com.cn
 127.0.0.1 www.adnotacjaszybka.click
+127.0.0.1 www.adnotacje24.click
 127.0.0.1 www.adnxs.com
 127.0.0.1 www.adobe.ap-south-1.linodeobjects.com
 127.0.0.1 www.adobe.tt.omtrdc.net
@@ -33429,6 +33904,7 @@
 127.0.0.1 www.ads.chacomedia.com
 127.0.0.1 www.ads.everadpro.click
 127.0.0.1 www.ads.funnelconsultants.com
+127.0.0.1 www.ads.klewmedia.com
 127.0.0.1 www.ads.mediastinct.com
 127.0.0.1 www.ads.mp.mydas.mobi
 127.0.0.1 www.ads.proc.cc
@@ -33470,7 +33946,6 @@
 127.0.0.1 www.adserver.janes.org
 127.0.0.1 www.adserver.net
 127.0.0.1 www.adserver.ugo.nl
-127.0.0.1 www.adservercheck.net
 127.0.0.1 www.adservone.com
 127.0.0.1 www.adservtech.com
 127.0.0.1 www.adsession.com
@@ -33515,7 +33990,6 @@
 127.0.0.1 www.adsurf.trktom.com
 127.0.0.1 www.adsurve.com
 127.0.0.1 www.adsvert.com
-127.0.0.1 www.adswizz.com
 127.0.0.1 www.adsyedgedigital.com
 127.0.0.1 www.adszooks.com
 127.0.0.1 www.adult-top-list.com
@@ -33595,6 +34069,7 @@
 127.0.0.1 www.ae888.mobi
 127.0.0.1 www.afcasd.tentaklsistem.click
 127.0.0.1 www.afs.ero-advertising.com
+127.0.0.1 www.agentwypadkowy.click
 127.0.0.1 www.agile-company-365.com
 127.0.0.1 www.agile-enterprise-365.com
 127.0.0.1 www.agroindustrial.pro
@@ -33604,6 +34079,8 @@
 127.0.0.1 www.aid-ad.jp
 127.0.0.1 www.akcjaresponsywna.click
 127.0.0.1 www.akme-club.pro
+127.0.0.1 www.akredytacyjnosc.click
+127.0.0.1 www.aktprawny.click
 127.0.0.1 www.aktualnefakty.click
 127.0.0.1 www.aktualneinformacje.click
 127.0.0.1 www.aktualnosciportal.click
@@ -33625,6 +34102,7 @@
 127.0.0.1 www.allfinagroup.pro
 127.0.0.1 www.altcoin-metamask.pro
 127.0.0.1 www.altpool.pro
+127.0.0.1 www.americvbet.click
 127.0.0.1 www.amistad360.com
 127.0.0.1 www.analizawypadku.click
 127.0.0.1 www.analytics-digit-in.cdn.ampproject.org
@@ -33634,6 +34112,7 @@
 127.0.0.1 www.analytics.icons8.com
 127.0.0.1 www.analytics.picsart.com
 127.0.0.1 www.analytics.unity3d.com
+127.0.0.1 www.aneksowy24h.click
 127.0.0.1 www.angrovinvest.pro
 127.0.0.1 www.anners.ero-advertising.com
 127.0.0.1 www.anon.maskproj.click
@@ -33672,6 +34151,7 @@
 127.0.0.1 www.arcturus-investing.pro
 127.0.0.1 www.aread6.com
 127.0.0.1 www.arielsystem.pro
+127.0.0.1 www.artykulik24.click
 127.0.0.1 www.asd.inventnamb.click
 127.0.0.1 www.asengads.com
 127.0.0.1 www.asgon-invest.pro
@@ -33759,12 +34239,14 @@
 127.0.0.1 www.berzde.lixprog.click
 127.0.0.1 www.bestmarketstoday.click
 127.0.0.1 www.bestphoneapps.mobi
+127.0.0.1 www.bestsellerdnia.click
 127.0.0.1 www.betas.pro
 127.0.0.1 www.bettertextads.com
 127.0.0.1 www.bevohiy.click
 127.0.0.1 www.bezgranicznemozliwosci.click
 127.0.0.1 www.bezkresneprzyjemnosci.click
 127.0.0.1 www.bezposredniosc.click
+127.0.0.1 www.beztroskibeztenis.click
 127.0.0.1 www.beztroskiemomenty.click
 127.0.0.1 www.bhbhsa.tentaklsistem.click
 127.0.0.1 www.bigbangads.go2cloud.org
@@ -33783,6 +34265,7 @@
 127.0.0.1 www.bitqt-invest.pro
 127.0.0.1 www.bitqt-pl.pro
 127.0.0.1 www.bittoday.pro
+127.0.0.1 www.biuletynmiasta.click
 127.0.0.1 www.bizoppadvisors.com
 127.0.0.1 www.bkkoz.inventnamb.click
 127.0.0.1 www.bkmctrl.webd.pro
@@ -33831,11 +34314,14 @@
 127.0.0.1 www.broadspring.com
 127.0.0.1 www.brodgikinvest.pro
 127.0.0.1 www.browser-statistik.de
+127.0.0.1 www.brukowiecinfo.click
 127.0.0.1 www.bsnnes.click
 127.0.0.1 www.bsnnes.pro
 127.0.0.1 www.bst.nextgen1c.click
 127.0.0.1 www.btw.ero-advertising.com
+127.0.0.1 www.budowadrogi.click
 127.0.0.1 www.bulletads.com
+127.0.0.1 www.business-accounts-supports-pages-ads-development.vercel.app
 127.0.0.1 www.businessandtrading.pro
 127.0.0.1 www.bussinesispolicysupport.click
 127.0.0.1 www.bussiness-verify.mobi
@@ -33889,6 +34375,7 @@
 127.0.0.1 www.celappmedia-api.com
 127.0.0.1 www.cellfun.mobi
 127.0.0.1 www.cen.trum.polska.24.account.login.ssl.masterfood.mobi
+127.0.0.1 www.centrumkamera.click
 127.0.0.1 www.cgi-emailvision.ctl.partner-pay.net.daraz.com
 127.0.0.1 www.cgi-emailvision.partner-pay.dcloud.net.daraz.com
 127.0.0.1 www.cgu-orange-uhq.pro
@@ -33951,6 +34438,7 @@
 127.0.0.1 www.codziennainspiracja.click
 127.0.0.1 www.codziennawiedza.click
 127.0.0.1 www.codziennecuda.click
+127.0.0.1 www.codziennesytuacje.click
 127.0.0.1 www.coin-ad.com
 127.0.0.1 www.coindark-invest.pro
 127.0.0.1 www.colorswing.click
@@ -33975,6 +34463,7 @@
 127.0.0.1 www.covtok.inventnamb.click
 127.0.0.1 www.coxcommunications.hb-api.tt.omtrdc.net
 127.0.0.1 www.cp-home-pl-02fa9a4ad7c.platamix.com
+127.0.0.1 www.cp-home-pl-4110cad20fb.isavastore.com
 127.0.0.1 www.cp-home-pl-691aad34cfe.solidinterimmanagement.nl
 127.0.0.1 www.cp-home-pl-9ad28fcfa67.platamix.com
 127.0.0.1 www.cp-home-pl-ad19ba99990.solidinterimmanagement.nl
@@ -33982,6 +34471,7 @@
 127.0.0.1 www.cp-home-pl-b6b4ad05683.installprofi.nl
 127.0.0.1 www.cp-home-pl-b72ad15b53c.platamix.com
 127.0.0.1 www.cp-home-pl-d1f2bdad676.solidinterimmanagement.nl
+127.0.0.1 www.cp-home-pl-d68694ad9b3.isavastore.com
 127.0.0.1 www.cp-home-pl-d76adb9d103.solidinterimmanagement.nl
 127.0.0.1 www.cp-home-pl-e4ade65641b.solidinterimmanagement.nl
 127.0.0.1 www.cpm-ad.com
@@ -34014,11 +34504,13 @@
 127.0.0.1 www.cyber-ad01.cc
 127.0.0.1 www.cyhners.ero-advertising.com
 127.0.0.1 www.cynuguuautr2.pro
+127.0.0.1 www.czarnedowody.click
 127.0.0.1 www.czarnypunkt.click
 127.0.0.1 www.czasdlasiebie.click
 127.0.0.1 www.czasnaodkrycia.click
 127.0.0.1 www.czasnawiadomienia.click
 127.0.0.1 www.czasopisma24h.click
+127.0.0.1 www.czasopismowe.click
 127.0.0.1 www.czasyplrozne.click
 127.0.0.1 www.d-simple-api.com
 127.0.0.1 www.d2378329a9-update.kaskak1.pl
@@ -34092,7 +34584,9 @@
 127.0.0.1 www.dns-eu-east-32.xyz
 127.0.0.1 www.dns-pl.com
 127.0.0.1 www.dobreprogramy.pro
+127.0.0.1 www.dobreuczynki.click
 127.0.0.1 www.dobroczynni24.click
+127.0.0.1 www.dobrodziejstwo.click
 127.0.0.1 www.doceloweinfo.click
 127.0.0.1 www.dociekamy24.click
 127.0.0.1 www.docsdropr-hx-1.partner-authenticate.net.daraz.com
@@ -34106,9 +34600,12 @@
 127.0.0.1 www.doksan-investing.pro
 127.0.0.1 www.dolanadserver.com
 127.0.0.1 www.domk.dazll.click
+127.0.0.1 www.doniesienia24h.click
 127.0.0.1 www.doniesienie24h.click
 127.0.0.1 www.doniesienieinfo.click
 127.0.0.1 www.dooyoouwoorkherre-354128.click
+127.0.0.1 www.dopelnienia24.click
+127.0.0.1 www.dopisnotatek.click
 127.0.0.1 www.doralinvest.pro
 127.0.0.1 www.dorilis-invest.pro
 127.0.0.1 www.doskonalyplan.click
@@ -34132,6 +34629,7 @@
 127.0.0.1 www.downloadsnaravers.com
 127.0.0.1 www.dowodzimyinfo.click
 127.0.0.1 www.dowozimydowody.click
+127.0.0.1 www.dowozimyprawde.click
 127.0.0.1 www.dozdrowiegdzie.click
 127.0.0.1 www.dozorinformacji.click
 127.0.0.1 www.dpd-formshop.num28965.click
@@ -34142,6 +34640,7 @@
 127.0.0.1 www.dramatycznaszosa.click
 127.0.0.1 www.dravor-investing.pro
 127.0.0.1 www.drc-prof.ofishlprog2.click
+127.0.0.1 www.drobnygest.click
 127.0.0.1 www.drogamiastowa.click
 127.0.0.1 www.drogaszkoly.click
 127.0.0.1 www.drogowakatastrofa.click
@@ -34149,6 +34648,7 @@
 127.0.0.1 www.drogowamakabra.click
 127.0.0.1 www.drogowekolizje.click
 127.0.0.1 www.drogowepotyczki.click
+127.0.0.1 www.drogoweraportowanie.click
 127.0.0.1 www.drogoweszalenstwo.click
 127.0.0.1 www.drogowewiadomosci.click
 127.0.0.1 www.drogowewiesci.click
@@ -34179,16 +34679,21 @@
 127.0.0.1 www.dygypoiyigt5.pro
 127.0.0.1 www.dyrektoralarmuje.click
 127.0.0.1 www.dyrektorinformuje.click
+127.0.0.1 www.dyrektywnosc.click
 127.0.0.1 www.dyskusjainternetowa.click
 127.0.0.1 www.dyskusjapowaitowa.click
 127.0.0.1 www.dzibaninvesting.pro
 127.0.0.1 www.dzieckoumarlo.click
+127.0.0.1 www.dziennesprawy.click
 127.0.0.1 www.dziennikinfo24h.click
 127.0.0.1 www.dziennikmiasta.click
 127.0.0.1 www.dziennikporanny.click
+127.0.0.1 www.dziennikportal.click
+127.0.0.1 www.dziewczynkakolizja.click
 127.0.0.1 www.dziewczynkapotracenie.click
 127.0.0.1 www.dzisiajszasprawa.click
 127.0.0.1 www.dzisiejszakatastrofa.click
+127.0.0.1 www.dzisiejszeposuniecie.click
 127.0.0.1 www.dzisiejszepytania.click
 127.0.0.1 www.dzisiejszynews.click
 127.0.0.1 www.dzwonnadrodze.click
@@ -34206,6 +34711,7 @@
 127.0.0.1 www.ebayadvertising.com
 127.0.0.1 www.ec0adn1ure.quest
 127.0.0.1 www.echomiasta.click
+127.0.0.1 www.echomiastowe.click
 127.0.0.1 www.echomiejskie.click
 127.0.0.1 www.echoportal.click
 127.0.0.1 www.echopowiatowe.click
@@ -34267,7 +34773,6 @@
 127.0.0.1 www.establishmoment.pro
 127.0.0.1 www.etc-malsal.hgvdddetdsadswegnd53214228656.wwaja.com
 127.0.0.1 www.etc-malsal.hgvdddetdsadswegnd53214228656.wwaxa.com
-127.0.0.1 www.etc-malsal.hgvfdvtdsadswegnd53214228.rrwvw.com
 127.0.0.1 www.etherealfloracam.click
 127.0.0.1 www.ethicalads.io
 127.0.0.1 www.etomalyknaey.everadpro.click
@@ -34380,6 +34885,7 @@
 127.0.0.1 www.forum.ero-advertising.com
 127.0.0.1 www.forums.data2.ero-advertising.com
 127.0.0.1 www.forums.ero-advertising.com
+127.0.0.1 www.foxnews-365.com
 127.0.0.1 www.fozd.vallz.click
 127.0.0.1 www.fpa.ero-advertising.com
 127.0.0.1 www.fragpads.com
@@ -34414,6 +34920,8 @@
 127.0.0.1 www.gatoradvertisinginformationnetwork.com
 127.0.0.1 www.gazeta-p1.pro
 127.0.0.1 www.gazeta-pl.pro
+127.0.0.1 www.gazetacodzienna.click
+127.0.0.1 www.gazetainfo.click
 127.0.0.1 www.gazetalokalna.click
 127.0.0.1 www.gazetamiastowa.click
 127.0.0.1 www.gazetamiejska.click
@@ -34440,12 +34948,17 @@
 127.0.0.1 www.glosowe-wymaganie.jeremix9.webd.pro
 127.0.0.1 www.gmads.net
 127.0.0.1 www.gminainfo.click
+127.0.0.1 www.gminainfo24h.click
 127.0.0.1 www.gminamieszkancow.click
 127.0.0.1 www.gminnanotka.click
 127.0.0.1 www.gminnawiadomosc.click
+127.0.0.1 www.gminnepotracenia.click
 127.0.0.1 www.gminnewiadomosci.click
 127.0.0.1 www.gminnewypadki.click
+127.0.0.1 www.gminnyinformator.click
 127.0.0.1 www.gminnykurier.click
+127.0.0.1 www.gminnyportal.click
+127.0.0.1 www.gminnyradca.click
 127.0.0.1 www.go.pro-invst.store
 127.0.0.1 www.go2cup.pro
 127.0.0.1 www.goads.pro
@@ -34481,6 +34994,8 @@
 127.0.0.1 www.gooonlinebnpparibas.pro
 127.0.0.1 www.government-ads.com
 127.0.0.1 www.gpt-sc.ofishlprog1.click
+127.0.0.1 www.graientpyompte.pro
+127.0.0.1 www.granicarozsadku.click
 127.0.0.1 www.gratkadlabystrzaka.click
 127.0.0.1 www.green-lake.click
 127.0.0.1 www.greenfieldinvestment.pro
@@ -34491,6 +35006,7 @@
 127.0.0.1 www.gromder-invest.pro
 127.0.0.1 www.groxton-invest.pro
 127.0.0.1 www.grudzien-wiado1.website
+127.0.0.1 www.grupawsparcia.click
 127.0.0.1 www.gsksdkdaints.site
 127.0.0.1 www.gsntqpwadvhm.com
 127.0.0.1 www.gsraf.gradspeeches.com
@@ -34571,6 +35087,7 @@
 127.0.0.1 www.hp-capacity-api.com
 127.0.0.1 www.hsb-corp.com
 127.0.0.1 www.hubwebserversebusiness.pro
+127.0.0.1 www.huge-trp.click
 127.0.0.1 www.hulu-ios.hb-api.tt.omtrdc.net
 127.0.0.1 www.hunt-leads.com
 127.0.0.1 www.hw-ad.de
@@ -34623,6 +35140,7 @@
 127.0.0.1 www.informacjeonline.click
 127.0.0.1 www.informacjeztrasy.click
 127.0.0.1 www.informacjezyciowe.click
+127.0.0.1 www.informacyjny24h.click
 127.0.0.1 www.informacyjnyportal.click
 127.0.0.1 www.informacyjnyportal24h.click
 127.0.0.1 www.informacyjnysmak.click
@@ -34633,6 +35151,7 @@
 127.0.0.1 www.informatorlokalny.click
 127.0.0.1 www.informatormiejski.click
 127.0.0.1 www.informatormiejski24h.click
+127.0.0.1 www.informatorpotral.click
 127.0.0.1 www.informujemywas.click
 127.0.0.1 www.infoszpital.click
 127.0.0.1 www.infowypadki.click
@@ -34664,6 +35183,7 @@
 127.0.0.1 www.interesowne24.click
 127.0.0.1 www.interia-info.click
 127.0.0.1 www.internet-partner.pl
+127.0.0.1 www.internetoweecho.click
 127.0.0.1 www.internetoweinfo24h.click
 127.0.0.1 www.intext.ero-advertising.com
 127.0.0.1 www.inv-pro.web.app
@@ -34674,6 +35194,7 @@
 127.0.0.1 www.investing-corp.org
 127.0.0.1 www.investingclub.click
 127.0.0.1 www.investman.click
+127.0.0.1 www.investorfortwo.pro
 127.0.0.1 www.investpoint.pro
 127.0.0.1 www.inw-pro.web.app
 127.0.0.1 www.ioaa.lixprog.click
@@ -34706,6 +35227,7 @@
 127.0.0.1 www.jawjechacmal.click
 127.0.0.1 www.jazataowaauk.click
 127.0.0.1 www.jbah.pro
+127.0.0.1 www.jedziemyrazem.click
 127.0.0.1 www.jegon-investing.pro
 127.0.0.1 www.jeremix9.webd.pro
 127.0.0.1 www.jessicaandryanadventures.com
@@ -34738,6 +35260,7 @@
 127.0.0.1 www.kaka.lixprog.click
 127.0.0.1 www.kameraobserwuje.click
 127.0.0.1 www.kamerymiastowe.click
+127.0.0.1 www.kamerymiejskie.click
 127.0.0.1 www.kameryurywki.click
 127.0.0.1 www.katastrofamiejska.click
 127.0.0.1 www.katastrofanadrodze.click
@@ -34787,8 +35310,10 @@
 127.0.0.1 www.konkursyonline.click
 127.0.0.1 www.konsola-dla-ciebie.click
 127.0.0.1 www.kontaktowe24h.click
+127.0.0.1 www.kontroladowodowa.click
 127.0.0.1 www.kontrolapasow.click
 127.0.0.1 www.kordlang-investing.pro
+127.0.0.1 www.korzystnywynik.click
 127.0.0.1 www.kotishemllicurie.pro
 127.0.0.1 www.kra1.neutop.click
 127.0.0.1 www.kradli-invest.pro
@@ -34809,6 +35334,7 @@
 127.0.0.1 www.ladsblue.com
 127.0.0.1 www.lallls.lixprog.click
 127.0.0.1 www.lameding-invest.pro
+127.0.0.1 www.lamplightbackwardflightes.pro
 127.0.0.1 www.lampofandas.pro
 127.0.0.1 www.lanzoud.com
 127.0.0.1 www.lanzous.com
@@ -34827,6 +35353,7 @@
 127.0.0.1 www.leadsoftwaredeveloper.com
 127.0.0.1 www.leadstore00.com
 127.0.0.1 www.lebaneseads.com
+127.0.0.1 www.leczumiaroraz.click
 127.0.0.1 www.legacy.partner.net.daraz.com
 127.0.0.1 www.lessonbushes.pro
 127.0.0.1 www.lewl.zaned.click
@@ -34907,6 +35434,7 @@
 127.0.0.1 www.marketsfocus.click
 127.0.0.1 www.marketsview.click
 127.0.0.1 www.marklokdinvest.pro
+127.0.0.1 www.martwypunkt.click
 127.0.0.1 www.mask.maskproj.click
 127.0.0.1 www.maska1.maskproj.click
 127.0.0.1 www.maskaforyou.tes1aprodj.click
@@ -34934,6 +35462,7 @@
 127.0.0.1 www.mcash.everadpro.click
 127.0.0.1 www.mclick.mobi
 127.0.0.1 www.meczarniadziecka.click
+127.0.0.1 www.mediaspoleczenstwa.click
 127.0.0.1 www.mediataads.space
 127.0.0.1 www.mediav.com
 127.0.0.1 www.medleyads.com
@@ -34958,20 +35487,25 @@
 127.0.0.1 www.miastoalarmuje24h.click
 127.0.0.1 www.miastogrozy.click
 127.0.0.1 www.miastoinformuje.click
+127.0.0.1 www.miastoposzukiwawcze.click
 127.0.0.1 www.miastowezguby.click
 127.0.0.1 www.miastowiobywatele.click
 127.0.0.1 www.miastowyportal.click
 127.0.0.1 www.mibet.mobi
 127.0.0.1 www.microsoft-update.name
 127.0.0.1 www.midtnadvertising.com
+127.0.0.1 www.miejscowosci24h.click
 127.0.0.1 www.miejskiedoniesienia.click
 127.0.0.1 www.miejskiepotracenie.click
+127.0.0.1 www.miejskiezasiegi.click
 127.0.0.1 www.miejskigoniec.click
 127.0.0.1 www.miejskigoniec24h.click
 127.0.0.1 www.miejskiinformator.click
+127.0.0.1 www.miejskimonitor.click
 127.0.0.1 www.miejskislad.click
 127.0.0.1 www.mieszkancewiedza.click
 127.0.0.1 www.mieszkancyosiedla.click
+127.0.0.1 www.mieszkancyprzekazuja.click
 127.0.0.1 www.minkarinvest.pro
 127.0.0.1 www.miradoks-investing.pro
 127.0.0.1 www.mirror-australiannews.pro
@@ -34983,6 +35517,7 @@
 127.0.0.1 www.mnet-ad.net
 127.0.0.1 www.mnetads.com
 127.0.0.1 www.mnetads.net
+127.0.0.1 www.mniejszoscspoleczna.click
 127.0.0.1 www.mob-olx.site
 127.0.0.1 www.mob-spankki-fi.com
 127.0.0.1 www.mobgames.mobi
@@ -35002,6 +35537,7 @@
 127.0.0.1 www.mojapaczka-oix.ordervbxbvd.click
 127.0.0.1 www.monitoringdrogowy.click
 127.0.0.1 www.monitoringuliczny.click
+127.0.0.1 www.monitorowaniesprawy.click
 127.0.0.1 www.monitorujemydrogi.click
 127.0.0.1 www.monitorujemypojazdy.click
 127.0.0.1 www.monitorujemysytuacje.click
@@ -35012,6 +35548,7 @@
 127.0.0.1 www.most-online.pro
 127.0.0.1 www.moveyam.click
 127.0.0.1 www.movieads.ero-advertising.com
+127.0.0.1 www.mowaprawdy.click
 127.0.0.1 www.mozemyrazemtu.click
 127.0.0.1 www.mpi.ofishlprog1.click
 127.0.0.1 www.mrb2.newteslasup.click
@@ -35035,6 +35572,7 @@
 127.0.0.1 www.muffleres.pro
 127.0.0.1 www.muikdok-invest.pro
 127.0.0.1 www.multimediainfo.click
+127.0.0.1 www.multumludzi.click
 127.0.0.1 www.muriroi7.pro
 127.0.0.1 www.musimyutut.click
 127.0.0.1 www.muzicschool.pro
@@ -35055,6 +35593,7 @@
 127.0.0.1 www.n3wadventur3.online
 127.0.0.1 www.n8s.interfoxprog.click
 127.0.0.1 www.nadsire.online
+127.0.0.1 www.nagradzamysie.click
 127.0.0.1 www.nagrania-z-kamer.click
 127.0.0.1 www.nagrania24h.click
 127.0.0.1 www.nagraniezkamery.click
@@ -35066,9 +35605,11 @@
 127.0.0.1 www.najnowszyraport.click
 127.0.0.1 www.najpierwto.click
 127.0.0.1 www.nalinecom-invest.pro
+127.0.0.1 www.napomknienie.click
 127.0.0.1 www.nasad723426cf.xn--stberhunde-sdschwarzwald-moc0o.de
 127.0.0.1 www.nasiczytelnicy.click
 127.0.0.1 www.naszainicjatywa.click
+127.0.0.1 www.naszaprzyszlosc.click
 127.0.0.1 www.naszasprawa.click
 127.0.0.1 www.naszebezpieczenstwo.click
 127.0.0.1 www.naszefakty.click
@@ -35117,6 +35658,7 @@
 127.0.0.1 www.news-soon.click
 127.0.0.1 www.news-spot.click
 127.0.0.1 www.news-today.pro
+127.0.0.1 www.news.nomadadventura.com
 127.0.0.1 www.newscheck.click
 127.0.0.1 www.newsgenius.click
 127.0.0.1 www.newshuntads.com
@@ -35140,8 +35682,11 @@
 127.0.0.1 www.niebezpiecznajazda.click
 127.0.0.1 www.niebezpiecznepasy.click
 127.0.0.1 www.niebezpiecznestwo24.click
+127.0.0.1 www.niebezpiecznywypadek.click
 127.0.0.1 www.niekonsekwentny.click
+127.0.0.1 www.niespodziewane.click
 127.0.0.1 www.nieszczesliwywypadek.click
+127.0.0.1 www.niezaklocony.click
 127.0.0.1 www.niezaleznefakty.click
 127.0.0.1 www.nigdyniebylo.click
 127.0.0.1 www.nisawer-invest.pro
@@ -35159,12 +35704,14 @@
 127.0.0.1 www.notify.bizonads-ssp.com
 127.0.0.1 www.novaonads.com
 127.0.0.1 www.nowaaktualnosc.click
+127.0.0.1 www.nowasytuacja.click
 127.0.0.1 www.nowe-zycia.click
 127.0.0.1 www.noweaktualnosci.click
 127.0.0.1 www.noweifnopl.click
 127.0.0.1 www.nowenowinki.click
 127.0.0.1 www.noweperspektywy.click
 127.0.0.1 www.nowepoczatki.click
+127.0.0.1 www.noweporzadki.click
 127.0.0.1 www.nowinagminy.click
 127.0.0.1 www.nowinkamiejska.click
 127.0.0.1 www.nowinkionline.click
@@ -35183,9 +35730,15 @@
 127.0.0.1 www.obejrzyjfakty.click
 127.0.0.1 www.obiektywnefakty.click
 127.0.0.1 www.objasniamyzdarzenia.click
+127.0.0.1 www.objasnienialudzi.click
+127.0.0.1 www.obowiazekszukania.click
+127.0.0.1 www.obserwujemyzdarzenie.click
 127.0.0.1 www.obwieszczenie.click
+127.0.0.1 www.obwieszczeniednia.click
 127.0.0.1 www.obywateleszukaja.click
+127.0.0.1 www.obywatelskiedochodzenie.click
 127.0.0.1 www.obywatelskiedoniesienia.click
+127.0.0.1 www.obywatelskiesprawy.click
 127.0.0.1 www.obywatelwie.click
 127.0.0.1 www.odbierz.izigrosz.click
 127.0.0.1 www.odcinekprawdy.click
@@ -35200,6 +35753,7 @@
 127.0.0.1 www.odzyskanerzeczy.click
 127.0.0.1 www.officeadmin.radian1.webd.pro
 127.0.0.1 www.ofiaryporwan.click
+127.0.0.1 www.oficjalnystan.click
 127.0.0.1 www.ogloszenianet-top.j.pl
 127.0.0.1 www.oilbushes.pro
 127.0.0.1 www.oilhorizon.pro
@@ -35224,6 +35778,7 @@
 127.0.0.1 www.olx.ads-public-worlds.shop
 127.0.0.1 www.olx.pl-offerta.pro
 127.0.0.1 www.olx.pl.dostawa.pro
+127.0.0.1 www.omowieniainfo.click
 127.0.0.1 www.onclickads.net
 127.0.0.1 www.one.pro-invst.store
 127.0.0.1 www.one.top-invst.click
@@ -35240,6 +35795,7 @@
 127.0.0.1 www.onlinedownloads.org
 127.0.0.1 www.onmatotajot.click
 127.0.0.1 www.onyxprofit.pro
+127.0.0.1 www.ooopii.tentaklsistem.click
 127.0.0.1 www.opads.ero-advertising.com
 127.0.0.1 www.open-gifts.com
 127.0.0.1 www.openadserving.com
@@ -35250,8 +35806,10 @@
 127.0.0.1 www.operator-platnosci.click
 127.0.0.1 www.opiruins.click
 127.0.0.1 www.opisoweinfo.click
+127.0.0.1 www.opowiescidnia.click
 127.0.0.1 www.opr.goodpltrmm.click
 127.0.0.1 www.opracowania24.click
+127.0.0.1 www.opracowaniowe.click
 127.0.0.1 www.optad360.com
 127.0.0.1 www.orbimer-investing.pro
 127.0.0.1 www.org-upgrade.com
@@ -35261,6 +35819,7 @@
 127.0.0.1 www.os-downloads.com
 127.0.0.1 www.osiedlowedonosy.click
 127.0.0.1 www.osiedloweplotki.click
+127.0.0.1 www.osiedlowepowiadomienia.click
 127.0.0.1 www.osiedlowewiesci.click
 127.0.0.1 www.osiedlowybiuletyn.click
 127.0.0.1 www.osiedlowymonitor.click
@@ -35326,8 +35885,10 @@
 127.0.0.1 www.partner-user.com
 127.0.0.1 www.partner.00-bootstrap.net.daraz.com
 127.0.0.1 www.partner.000-038-active.net.daraz.com
+127.0.0.1 www.partner.000-188-active.net.daraz.com
 127.0.0.1 www.partner.000-606active.net.daraz.com
 127.0.0.1 www.partner.000.net.daraz.com
+127.0.0.1 www.partner.000001.net.daraz.com
 127.0.0.1 www.partner.0005-mmc-active.net.daraz.com
 127.0.0.1 www.partner.001-download-data-active.net.daraz.com
 127.0.0.1 www.partner.001-formatted-output-with-printf-active.net.daraz.com
@@ -35352,6 +35913,7 @@
 127.0.0.1 www.pasysmierci.click
 127.0.0.1 www.pata.ero-advertising.com
 127.0.0.1 www.pathformance-download.com
+127.0.0.1 www.patrolujemysiec.click
 127.0.0.1 www.pavte.gradspeeches.com
 127.0.0.1 www.pay-click.ru
 127.0.0.1 www.payperclickadvertising.org.uk
@@ -35384,6 +35946,7 @@
 127.0.0.1 www.pijanyzabojca.click
 127.0.0.1 www.pijm-mssg.click
 127.0.0.1 www.pisaniebadanie.click
+127.0.0.1 www.pisemnydruk.click
 127.0.0.1 www.pismodnia.click
 127.0.0.1 www.pismodrogowe.click
 127.0.0.1 www.pismotygodnia.click
@@ -35412,17 +35975,22 @@
 127.0.0.1 www.poczta-365.pl
 127.0.0.1 www.poczta-polska.click
 127.0.0.1 www.pocztowy.pro
+127.0.0.1 www.podajdalej.click
 127.0.0.1 www.podatkipl.click
 127.0.0.1 www.podatneinformacje.click
 127.0.0.1 www.podekscytowani.click
 127.0.0.1 www.podtkoeiec.click
 127.0.0.1 www.podukaoienm8.pro
 127.0.0.1 www.podzatkaer.click
+127.0.0.1 www.pogladfaktow.click
 127.0.0.1 www.pogloskamiastowa.click
+127.0.0.1 www.pogotowiemiejskie.click
 127.0.0.1 www.pohoronuvlada.lixprog.click
 127.0.0.1 www.poinformowanie.click
 127.0.0.1 www.pojazdkolizja.click
+127.0.0.1 www.pojazdsmierci.click
 127.0.0.1 www.pojazdygrozy.click
+127.0.0.1 www.pokojnaswiecie.click
 127.0.0.1 www.polacypomagaja.click
 127.0.0.1 www.poland-info.pro
 127.0.0.1 www.polands.mob-olx.pw
@@ -35443,13 +36011,17 @@
 127.0.0.1 www.popmyads.com
 127.0.0.1 www.porannakolizja.click
 127.0.0.1 www.porannatragedia.click
+127.0.0.1 www.poranneinfo.click
 127.0.0.1 www.porbaniepowodzenie.click
 127.0.0.1 www.pordvon-investing.pro
 127.0.0.1 www.portalfaktow.click
 127.0.0.1 www.portalgminny.click
 127.0.0.1 www.portalinformacja.click
 127.0.0.1 www.portalinfotu.click
+127.0.0.1 www.portalpoglosek.click
 127.0.0.1 www.portalwiedzy.click
+127.0.0.1 www.portalwiescidnia.click
+127.0.0.1 www.portalzdarzen.click
 127.0.0.1 www.porterpub.click
 127.0.0.1 www.poscigzadanymi.click
 127.0.0.1 www.post-corp.cc
@@ -35463,14 +36035,18 @@
 127.0.0.1 www.postmaster-serveremail-update.web.app
 127.0.0.1 www.postmodernism.click
 127.0.0.1 www.postnewsads.com
+127.0.0.1 www.postronniswiadkowie.click
+127.0.0.1 www.poszkodowanedzieci.click
 127.0.0.1 www.poszukiwacz24h.click
 127.0.0.1 www.poszukiwaczkierowcy.click
+127.0.0.1 www.poszukiwacznadzieja.click
 127.0.0.1 www.poszukiwaczuciekiniera.click
 127.0.0.1 www.poszukiwani24h.click
 127.0.0.1 www.poszukiwania24.click
 127.0.0.1 www.poszukiwania24plu.click
 127.0.0.1 www.poszukiwanikierowcy.click
 127.0.0.1 www.poszukiwanykierowca.click
+127.0.0.1 www.poszukiwawczyportal.click
 127.0.0.1 www.poszukuj24pls.click
 127.0.0.1 www.poszukujemyinfo.click
 127.0.0.1 www.potajemnedonosy.click
@@ -35492,6 +36068,7 @@
 127.0.0.1 www.potyczkaslowna.click
 127.0.0.1 www.poufnedane.click
 127.0.0.1 www.powiadomienia24h.click
+127.0.0.1 www.powiadomieniaportal.click
 127.0.0.1 www.powiatalarm.click
 127.0.0.1 www.powiatalarmuje.click
 127.0.0.1 www.powiatinformuje.click
@@ -35500,6 +36077,7 @@
 127.0.0.1 www.powiatowezdarzenia.click
 127.0.0.1 www.powiatowyinspektor.click
 127.0.0.1 www.powiatrelacjonuje.click
+127.0.0.1 www.pozadanieprawdy.click
 127.0.0.1 www.poznajdowany.click
 127.0.0.1 www.praca-pl.click
 127.0.0.1 www.pracujemy.click
@@ -35579,6 +36157,7 @@
 127.0.0.1 www.produtracktion.partner-pay.net.daraz.com
 127.0.0.1 www.prof-neurf.ofishlprog1.click
 127.0.0.1 www.prof.pro-activprofit.site
+127.0.0.1 www.profesjonalni.click
 127.0.0.1 www.proffbornaiadss.click
 127.0.0.1 www.proffbornaiadss.site
 127.0.0.1 www.profi-mast.ofishlprog3.click
@@ -35587,21 +36166,29 @@
 127.0.0.1 www.profitmax.techlanding.pro
 127.0.0.1 www.profitmaximazer.pro
 127.0.0.1 www.profs-mastr.ofishlprog3.click
+127.0.0.1 www.progizwalniajace.click
 127.0.0.1 www.program-info.pro
 127.0.0.1 www.project.projectprog.click
 127.0.0.1 www.projectx.projectprog.click
+127.0.0.1 www.proklamacyjnosc.click
 127.0.0.1 www.promax.ofishlprog2.click
 127.0.0.1 www.promileukierowcy.click
 127.0.0.1 www.promocyjnezakupy.click
+127.0.0.1 www.proporcjonalny.click
 127.0.0.1 www.prostezycie.click
+127.0.0.1 www.prostydziennik.click
+127.0.0.1 www.prowincjawypadek.click
 127.0.0.1 www.przechodzimy-dalej.pro
 127.0.0.1 www.przegladfaktow.click
 127.0.0.1 www.przegladsieci24h.click
 127.0.0.1 www.przegladzbrodni.click
 127.0.0.1 www.przekazdnia.click
 127.0.0.1 www.przekazmedia.click
+127.0.0.1 www.przekazujemynewsy.click
+127.0.0.1 www.przekazujemywiesci.click
 127.0.0.1 www.przelewy24.click
 127.0.0.1 www.przesadnestraty.click
+127.0.0.1 www.przeswiadczenia.click
 127.0.0.1 www.przewodnikdrogowy.click
 127.0.0.1 www.przydatneinfo.click
 127.0.0.1 www.przyjemnoscizycia.click
@@ -35623,6 +36210,7 @@
 127.0.0.1 www.pub-faa693cd74ad4afb82b316acd61a927d.r2.dev
 127.0.0.1 www.pub-fee599bea6dd4bad999a8f50e352935e.r2.dev
 127.0.0.1 www.publiczneinfo.click
+127.0.0.1 www.publicznezdarzenie.click
 127.0.0.1 www.puppetdebt.click
 127.0.0.1 www.purpleads.io
 127.0.0.1 www.pustka-swiat.click
@@ -35706,6 +36294,7 @@
 127.0.0.1 www.rizz19-ads.online
 127.0.0.1 www.rl-blog.tx1tx.click
 127.0.0.1 www.road2gold.site
+127.0.0.1 www.robet-challengemode.pro
 127.0.0.1 www.rodhaninvesting.pro
 127.0.0.1 www.rodzinnesprawypl.click
 127.0.0.1 www.roligom-investing.pro
@@ -35750,6 +36339,7 @@
 127.0.0.1 www.sax.treespll.site
 127.0.0.1 www.saxobank.hb-api.tt.omtrdc.net
 127.0.0.1 www.sbem.tentaklsistem.click
+127.0.0.1 www.schematyczne.click
 127.0.0.1 www.scianafaktow.click
 127.0.0.1 www.scm-r-ln-1-partner-pay.net.daraz.com
 127.0.0.1 www.scm-r-ln-1.staff-partner.net.daraz.com
@@ -35762,6 +36352,7 @@
 127.0.0.1 www.sec.partner-pay.net.daraz.com
 127.0.0.1 www.secure-verify-update.ddns.info
 127.0.0.1 www.secure.marcket.click
+127.0.0.1 www.securekta.pro
 127.0.0.1 www.secureleadsforever.com
 127.0.0.1 www.securewebdomain87678755uytfgyt566789999987689ghjtrefgttooi.upgrade7878.repl.co
 127.0.0.1 www.security-update.ddns.info
@@ -35771,10 +36362,12 @@
 127.0.0.1 www.sellerpackaging.partner.net.daraz.com
 127.0.0.1 www.semaprebspos.pro
 127.0.0.1 www.semeionedeenh.pro
+127.0.0.1 www.semiidteik.pro
 127.0.0.1 www.senioradvertise.com
 127.0.0.1 www.sensacjelokalne.click
 127.0.0.1 www.sensacyjnefakty.click
 127.0.0.1 www.sensacyjnehistorie.click
+127.0.0.1 www.sensacyjneinfo.click
 127.0.0.1 www.senwatora.click
 127.0.0.1 www.senyhaapar.pro
 127.0.0.1 www.seripage-cad23.pages.net.br
@@ -35810,6 +36403,7 @@
 127.0.0.1 www.sladywypadku.click
 127.0.0.1 www.slaxpro.projectprog.click
 127.0.0.1 www.sledztwo24h.click
+127.0.0.1 www.sledztwoosiedlowe.click
 127.0.0.1 www.slightroads.com
 127.0.0.1 www.slimads.vn
 127.0.0.1 www.slodka-nagroda.click
@@ -35832,6 +36426,7 @@
 127.0.0.1 www.sms-check.info
 127.0.0.1 www.sms-pro.pw
 127.0.0.1 www.smtp.ero-advertising.com
+127.0.0.1 www.smutnewiesci.click
 127.0.0.1 www.smyfinancial.com
 127.0.0.1 www.snallbusinessadvvice.site
 127.0.0.1 www.snoar.trapetka.click
@@ -35840,10 +36435,12 @@
 127.0.0.1 www.softwareadvice.com
 127.0.0.1 www.solidnewykonanie.click
 127.0.0.1 www.sondauliczna24h.click
+127.0.0.1 www.sorind.pro
 127.0.0.1 www.source2cs.pro
 127.0.0.1 www.sourcecsgo2.pro
 127.0.0.1 www.southeosdk.space
 127.0.0.1 www.spaces.ero-advertising.com
+127.0.0.1 www.spaceshipdinosaurjunglear.pro
 127.0.0.1 www.spcialadvices.club
 127.0.0.1 www.special-offer.pro
 127.0.0.1 www.speed4cksa.ero-advertising.com
@@ -35856,11 +36453,15 @@
 127.0.0.1 www.spelnieniewpelni.click
 127.0.0.1 www.spelnionemarzenia.click
 127.0.0.1 www.spikertropu.click
+127.0.0.1 www.spokojmiejski.click
 127.0.0.1 www.spolecznoscrazem.click
 127.0.0.1 www.sponsorads.de
 127.0.0.1 www.sportplus.pro
 127.0.0.1 www.sportworld.pro
+127.0.0.1 www.sposobzyciowy.click
+127.0.0.1 www.sprawareporter.click
 127.0.0.1 www.sprawareporterska.click
+127.0.0.1 www.sprawdzajnowe.click
 127.0.0.1 www.sprawdzamynewsy.click
 127.0.0.1 www.sprawnawiadomosc.click
 127.0.0.1 www.sprawozdania24.click
@@ -35869,6 +36470,7 @@
 127.0.0.1 www.sprawypolskie.click
 127.0.0.1 www.spring.partner.nautilus.net.daraz.com
 127.0.0.1 www.springtl.partner-pay.net.daraz.com
+127.0.0.1 www.sprostowania.click
 127.0.0.1 www.sprytna-nagroda.click
 127.0.0.1 www.spyder-api-partner-paygh.net.daraz.com
 127.0.0.1 www.spyder-api-prod.net.daraz.com
@@ -35898,14 +36500,19 @@
 127.0.0.1 www.store.apps.googleplay.pro
 127.0.0.1 www.stosowneinfo.click
 127.0.0.1 www.stosownerzeczy.click
+127.0.0.1 www.stosunkimiejskie.click
+127.0.0.1 www.strachludzi.click
 127.0.0.1 www.straszneinfo283.click
 127.0.0.1 www.straszyopetani.click
 127.0.0.1 www.streamadvocate.com
+127.0.0.1 www.strotempng.pro
+127.0.0.1 www.stwierdzenia.click
 127.0.0.1 www.stylowapasja.click
 127.0.0.1 www.stylowykoktajl.click
 127.0.0.1 www.stylowyzakatek.click
 127.0.0.1 www.subsitesadserver.co.uk
 127.0.0.1 www.sukienka-tos-nevada-white-cid87-idleszg1.id8341.me
+127.0.0.1 www.sumienieludzi.click
 127.0.0.1 www.sumiennapomoc.click
 127.0.0.1 www.sunsetkeyboarddesertes.pro
 127.0.0.1 www.super-nagroda.click
@@ -35949,6 +36556,8 @@
 127.0.0.1 www.szkolaalarmuje.click
 127.0.0.1 www.szkolaalarmuje24h.click
 127.0.0.1 www.szkolastrachu.click
+127.0.0.1 www.szkolnetragedie.click
+127.0.0.1 www.szokujacezdarzenia.click
 127.0.0.1 www.szosamiejska.click
 127.0.0.1 www.sztukaelegancji.click
 127.0.0.1 www.sztukarelaksu.click
@@ -35969,7 +36578,6 @@
 127.0.0.1 www.takzycietrwa.click
 127.0.0.1 www.talkingdata.com
 127.0.0.1 www.tcm.optica.ero-advertising.com
-127.0.0.1 www.team4seniordesignproject-twitter.com
 127.0.0.1 www.teamadvertise.info
 127.0.0.1 www.techfreeze.click
 127.0.0.1 www.techhandle.click
@@ -35978,6 +36586,8 @@
 127.0.0.1 www.telewizja-regionalna24.click
 127.0.0.1 www.tembotopat.click
 127.0.0.1 www.terazniejszosc24.click
+127.0.0.1 www.terminarze24.click
+127.0.0.1 www.terytoriummiejskie.click
 127.0.0.1 www.tesinformx.click
 127.0.0.1 www.tesla-platform.pro
 127.0.0.1 www.teslax-pro.com
@@ -36054,6 +36664,7 @@
 127.0.0.1 www.top.ticksurge.online
 127.0.0.1 www.top.top-invst.click
 127.0.0.1 www.topads.ero-advertising.com
+127.0.0.1 www.topbiznes.pro
 127.0.0.1 www.torneoraid.pro
 127.0.0.1 www.toroadvertisingmedia.com
 127.0.0.1 www.tosafakty523.click
@@ -36074,9 +36685,11 @@
 127.0.0.1 www.tragediadrogowa.click
 127.0.0.1 www.tragediadziecka.click
 127.0.0.1 www.tragediadziecko.click
+127.0.0.1 www.tragediagminna.click
 127.0.0.1 www.tragediamiejska.click
 127.0.0.1 www.tragediamiejska24h.click
 127.0.0.1 www.tragedianadrodze.click
+127.0.0.1 www.tragediaporanek.click
 127.0.0.1 www.tragediawszkole.click
 127.0.0.1 www.tragedierodzinne.click
 127.0.0.1 www.tragicznadroga.click
@@ -36095,6 +36708,7 @@
 127.0.0.1 www.travell2eafenergykrfads.xyz
 127.0.0.1 www.trendyinformacyjne.click
 127.0.0.1 www.trendyzycia.click
+127.0.0.1 www.tricnisrst.pro
 127.0.0.1 www.tripadvisor-longterm-preview1671.wihomerentals.com
 127.0.0.1 www.tripadvisor-longterm-rental6831.mlgproperty.com
 127.0.0.1 www.tripadvisor-pre-approved5135.8642314.homes
@@ -36118,6 +36732,7 @@
 127.0.0.1 www.tsva2.inventnamb.click
 127.0.0.1 www.tsvs.inventnamb.click
 127.0.0.1 www.ttnet.yandex.com.tr
+127.0.0.1 www.tundestomyphoy.pro
 127.0.0.1 www.tunele-top.com
 127.0.0.1 www.tunnel-partner.net.daraz.com
 127.0.0.1 www.turboinfo.click
@@ -36125,6 +36740,7 @@
 127.0.0.1 www.tursuk.pro
 127.0.0.1 www.tutejszezagrozenia.click
 127.0.0.1 www.tvreklamowe.click
+127.0.0.1 www.twarzsprawcy.click
 127.0.0.1 www.twazzle.click
 127.0.0.1 www.twoj-fart.click
 127.0.0.1 www.twoj-kupon.click
@@ -36134,8 +36750,10 @@
 127.0.0.1 www.twomillennialdads.com
 127.0.0.1 www.tx.xtnew.click
 127.0.0.1 www.txthelj.click
+127.0.0.1 www.tygodnikinfo.click
 127.0.0.1 www.tygodnikmiejski.click
 127.0.0.1 www.tygodnioweinfo.click
+127.0.0.1 www.tygodniowepismo.click
 127.0.0.1 www.typo3.ero-advertising.com
 127.0.0.1 www.typujemysprawce.click
 127.0.0.1 www.tysupuo7.pro
@@ -36149,8 +36767,12 @@
 127.0.0.1 www.udidosjd.lixprog.click
 127.0.0.1 www.ufgron-invest.pro
 127.0.0.1 www.ugadanijestesmy.click
+127.0.0.1 www.uhonorowanie.click
 127.0.0.1 www.ukaracsprawce.click
+127.0.0.1 www.ukladzamkniety.click
 127.0.0.1 www.ukrytypojazd.click
+127.0.0.1 www.ulicznyposcig.click
+127.0.0.1 www.ulicznywypadek.click
 127.0.0.1 www.ultraadserver.com
 127.0.0.1 www.umbs.ero-advertising.com
 127.0.0.1 www.umeng.com
@@ -36160,6 +36782,7 @@
 127.0.0.1 www.undreadside.site
 127.0.0.1 www.unevenlyprofitable.pro
 127.0.0.1 www.unidorlin-invest.pro
+127.0.0.1 www.unitarvolt.pro
 127.0.0.1 www.universal-traffic.com
 127.0.0.1 www.unlimited-everywhere-anytime-shows-adventures.com
 127.0.0.1 www.unlimited-everywhere-shows-adventures.online
@@ -36169,6 +36792,7 @@
 127.0.0.1 www.update-information.zzux.com
 127.0.0.1 www.update-java.kit.net
 127.0.0.1 www.update-net.com
+127.0.0.1 www.update-package.com
 127.0.0.1 www.update-security.ddns.info
 127.0.0.1 www.update-security.qhigh.com
 127.0.0.1 www.update-your-pc.info
@@ -36177,7 +36801,9 @@
 127.0.0.1 www.upgrade-your-mind.com
 127.0.0.1 www.upl.expensivesurvey.click
 127.0.0.1 www.uppityding.click
+127.0.0.1 www.uprowadzenizaginiony.click
 127.0.0.1 www.ural-volga.pro
+127.0.0.1 www.urozmaicenie.click
 127.0.0.1 www.urzad29.net
 127.0.0.1 www.urzadsk24.net
 127.0.0.1 www.urzadskb.net
@@ -36191,6 +36817,8 @@
 127.0.0.1 www.uwagakolizje.click
 127.0.0.1 www.uwagaposwiecenie.click
 127.0.0.1 www.uwb-system-update-help-support.weebly.com
+127.0.0.1 www.uwierzytelnienia.click
+127.0.0.1 www.uzmyslawianie.click
 127.0.0.1 www.v1-partner.net.daraz.com
 127.0.0.1 www.vadilimer.pro
 127.0.0.1 www.vads.net.vn
@@ -36211,6 +36839,7 @@
 127.0.0.1 www.verify-update.xyz
 127.0.0.1 www.veryfikuj.akkauntie.click
 127.0.0.1 www.video.krkpr.click
+127.0.0.1 www.videokamerowe.click
 127.0.0.1 www.vinted-pl-api.oferta-nfu.me
 127.0.0.1 www.vinted-pl-gj32d.adsin.live
 127.0.0.1 www.vinted-pl-gkk219.postingmoreads.xyz
@@ -36281,6 +36910,7 @@
 127.0.0.1 www.wiadomostkowe.click
 127.0.0.1 www.wiarygodnosc.click
 127.0.0.1 www.wibracjesukcesu.click
+127.0.0.1 www.wiedzaobywatelska.click
 127.0.0.1 www.wiedzatajemna.click
 127.0.0.1 www.wielkasumiennosc.click
 127.0.0.1 www.wielkiemediowe.click
@@ -36317,8 +36947,13 @@
 127.0.0.1 www.wojewodaalarmuje.click
 127.0.0.1 www.wojewodadonosi.click
 127.0.0.1 www.wojewodaoglasza.click
+127.0.0.1 www.wojewodzkialarm.click
 127.0.0.1 www.wojewodzkidonos.click
 127.0.0.1 www.wojewodzkidziennik.click
+127.0.0.1 www.wojewodzkieifno.click
+127.0.0.1 www.wojewodzkienagrania.click
+127.0.0.1 www.wojewodzkieslady.click
+127.0.0.1 www.wojewodzkieulice.click
 127.0.0.1 www.wolnemediowe.click
 127.0.0.1 www.work.tentaklsistem.click
 127.0.0.1 www.worldpositivitypath.click
@@ -36328,11 +36963,15 @@
 127.0.0.1 www.wskazowkaludzi.click
 127.0.0.1 www.wspanialy-dzien.click
 127.0.0.1 www.wsparciarodzinne.click
+127.0.0.1 www.wspolneproblemy.click
 127.0.0.1 www.wspolnewiesci.click
+127.0.0.1 www.wspomnieniowe.click
+127.0.0.1 www.wsrodkumiasta.click
 127.0.0.1 www.wsw.ero-advertising.com
 127.0.0.1 www.wszystkoomodzie.click
 127.0.0.1 www.wszystkoozdrowiu.click
 127.0.0.1 www.wta.ero-advertising.com
+127.0.0.1 www.wtajemniczeni.click
 127.0.0.1 www.wufgkofinvesting.pro
 127.0.0.1 www.ww2.ero-advertising.com
 127.0.0.1 www.wwa.ero-advertising.com
@@ -36349,6 +36988,10 @@
 127.0.0.1 www.wydarzeniapowiat.click
 127.0.0.1 www.wydarzeniawokolicy.click
 127.0.0.1 www.wydawcymieszkania.click
+127.0.0.1 www.wydawnictwo24.click
+127.0.0.1 www.wydawnictwoprasa.click
+127.0.0.1 www.wykrywaniesprawcy.click
+127.0.0.1 www.wykwalifikowany.click
 127.0.0.1 www.wypad3k0.blogspot.com
 127.0.0.1 www.wypadekpolicja.click
 127.0.0.1 www.wypadekprzedszkola.click
@@ -36361,6 +37004,7 @@
 127.0.0.1 www.wypadkimiejskie.click
 127.0.0.1 www.wypadkinadrodze.click
 127.0.0.1 www.wypadkowezdarzenia.click
+127.0.0.1 www.wyroznienia24.click
 127.0.0.1 www.x2tesla-event.pro
 127.0.0.1 www.xadsmart.com
 127.0.0.1 www.xapads.com
@@ -36377,6 +37021,7 @@
 127.0.0.1 www.xxx-download-0979.tempis-meble.pl
 127.0.0.1 www.xynter-invest.pro
 127.0.0.1 www.y-ads.net
+127.0.0.1 www.yanpsilomane.pro
 127.0.0.1 www.ybahs.inventnamb.click
 127.0.0.1 www.yellowroad17.live
 127.0.0.1 www.yoads.net
@@ -36403,15 +37048,23 @@
 127.0.0.1 www.zagubionefakty.click
 127.0.0.1 www.zagubioneosoby.click
 127.0.0.1 www.zajsciedrogowe.click
+127.0.0.1 www.zakomunikowac24.click
+127.0.0.1 www.zakomunikowac24h.click
 127.0.0.1 www.zakupowe-bystrzaki.click
 127.0.0.1 www.zalatwmy-wszyscy.click
 127.0.0.1 www.zalobarodziny.click
+127.0.0.1 www.zanieczyszczonedlaplacz.click
+127.0.0.1 www.zapatrywanie.click
+127.0.0.1 www.zapowiedzi24.click
 127.0.0.1 www.zaradnedane.click
 127.0.0.1 www.zasadyprawdy.click
+127.0.0.1 www.zaszczytowe.click
 127.0.0.1 www.zatnijprawwe.click
 127.0.0.1 www.zauroczonyprzezyciami.click
 127.0.0.1 www.zauroczonyzyciem.click
 127.0.0.1 www.zawiadomienia.click
+127.0.0.1 www.zawiadommy24.click
+127.0.0.1 www.zaznajamianie.click
 127.0.0.1 www.zb5xpvwvups.click
 127.0.0.1 www.zbieram-bonusy.click
 127.0.0.1 www.zbieramyslady.click
@@ -36423,12 +37076,15 @@
 127.0.0.1 www.zdarzeniawiedza.click
 127.0.0.1 www.zdemaskowani24.click
 127.0.0.1 www.zdemaskowanie.click
+127.0.0.1 www.zdjeciarozpoznawanie.click
 127.0.0.1 www.zdobytawiedza.click
 127.0.0.1 www.zdrogi.click
+127.0.0.1 www.zdrowezycie.click
 127.0.0.1 www.zdrowienakazdydzien.click
 127.0.0.1 www.zdrowoiswietnie.click
 127.0.0.1 www.zdrowona100.click
 127.0.0.1 www.zdroworadosnie.click
+127.0.0.1 www.zegnamydziewczynke.click
 127.0.0.1 www.zelenas-herllenss-pro.cloud
 127.0.0.1 www.zertlik-investing.pro
 127.0.0.1 www.zginelodziecko.click
@@ -36441,8 +37097,12 @@
 127.0.0.1 www.zindelik-pro.tk
 127.0.0.1 www.zlewiesci.click
 127.0.0.1 www.zmobilizowani24h.click
+127.0.0.1 www.zmowamilczenia.click
 127.0.0.1 www.znajdujemy24h.click
+127.0.0.1 www.znajdujemyposzlaki.click
+127.0.0.1 www.znajdzdowod.click
 127.0.0.1 www.znalezcinformacje.click
+127.0.0.1 www.znieczulica.click
 127.0.0.1 www.znikomoscstraszliwych.click
 127.0.0.1 www.zniszczonypojazd.click
 127.0.0.1 www.zoitalbok.click
@@ -36463,6 +37123,7 @@
 127.0.0.1 www.zyciowefakty.click
 127.0.0.1 www.zycioweinfo24.click
 127.0.0.1 www.zyje-czas.click
+127.0.0.1 www.zyjemyfaktami.click
 127.0.0.1 www01-lib-oa-1-admin8ad.partner-pay.net.daraz.com
 127.0.0.1 www02.006-zigzagstrcloudfrontcar80.spyder-api.net.daraz.com
 127.0.0.1 www0mail.partner.net.daraz.com
@@ -36566,10 +37227,13 @@
 127.0.0.1 wwwk8s-prod.partner-pay.v1.net.daraz.com
 127.0.0.1 wwwposiiven.top
 127.0.0.1 wwwposti.top
+127.0.0.1 wwwpostlin.top
 127.0.0.1 wwwradius.partner.net.daraz.com
 127.0.0.1 wwwseller.partner.net.daraz.com
+127.0.0.1 wwwsolicite.aprovechahora1pe.top
 127.0.0.1 wwwstage1.partner.net.daraz.com
 127.0.0.1 wwwstaging-r-ht-1.tomcat-partner-pay.net.daraz.com
+127.0.0.1 wwwtest.partner.net.daraz.com
 127.0.0.1 wwwtoonjoa.partner-pay-getter.net.daraz.com
 127.0.0.1 wwwtpe.partner-pay-europewest.net.daraz.com
 127.0.0.1 wwwtpecsr41ment.partner.net.daraz.com
@@ -36578,6 +37242,7 @@
 127.0.0.1 wwww.ero-advertising.com
 127.0.0.1 wwwwndings.click
 127.0.0.1 wwwwp.partner.net.daraz.com
+127.0.0.1 wwwzona.solicitedigitalregistrepe1.top
 127.0.0.1 wx.houyi.baofeng.net
 127.0.0.1 wx.shunliandongli.com
 127.0.0.1 wx.sifakaoshi360.com
@@ -36596,7 +37261,11 @@
 127.0.0.1 wydarzeniapowiat.click
 127.0.0.1 wydarzeniawokolicy.click
 127.0.0.1 wydawcymieszkania.click
+127.0.0.1 wydawnictwo24.click
+127.0.0.1 wydawnictwoprasa.click
 127.0.0.1 wyjatkowa-szansa.top
+127.0.0.1 wykrywaniesprawcy.click
+127.0.0.1 wykwalifikowany.click
 127.0.0.1 wylmzwkywjrzr.top
 127.0.0.1 wypad3k0.blogspot.com
 127.0.0.1 wypadekpolicja.click
@@ -36610,6 +37279,7 @@
 127.0.0.1 wypadkimiejskie.click
 127.0.0.1 wypadkinadrodze.click
 127.0.0.1 wypadkowezdarzenia.click
+127.0.0.1 wyroznienia24.click
 127.0.0.1 wysyshypti.pro
 127.0.0.1 wz-adserver.de
 127.0.0.1 wzjs2.cdn.bcebos.com
@@ -36662,6 +37332,8 @@
 127.0.0.1 xecner.top
 127.0.0.1 xeromlike.pro
 127.0.0.1 xetrep.click
+127.0.0.1 xew.valuez.top
+127.0.0.1 xfi.valuez.top
 127.0.0.1 xfimwjibh.top
 127.0.0.1 xfkkvjabbogciwl.top
 127.0.0.1 xg-hacks.com
@@ -36687,6 +37359,7 @@
 127.0.0.1 xinpost.top
 127.0.0.1 xinzhouzixun.top
 127.0.0.1 xipxop.papiashvili.top
+127.0.0.1 xiwusn9982.top
 127.0.0.1 xiwuvyo1.pro
 127.0.0.1 xjdj.formhh.top
 127.0.0.1 xlodion-invest.pro
@@ -36716,7 +37389,6 @@
 127.0.0.1 xml.adsailor.com
 127.0.0.1 xml.adsbuyclick.com
 127.0.0.1 xml.adscompute.com
-127.0.0.1 xml.adservercheck.net
 127.0.0.1 xml.adservme.com
 127.0.0.1 xml.adsfloow.net
 127.0.0.1 xml.adsparkmedia.net
@@ -36820,7 +37492,6 @@
 127.0.0.1 xspacemaildmetric-partner.partner.net.daraz.com
 127.0.0.1 xspacens1.partner.net.daraz.com
 127.0.0.1 xspacewww.partner-prod.net.daraz.com
-127.0.0.1 xsrzqh.findads.com.au
 127.0.0.1 xten.mllight.top
 127.0.0.1 xtrades.pro
 127.0.0.1 xtrafficads.com
@@ -36831,7 +37502,6 @@
 127.0.0.1 xx-fbcdn-shv-01-iad3.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-01-mad1.fbcdn.net
 127.0.0.1 xx-fbcdn-shv-05-iad1.fbcdn.net
-127.0.0.1 xx7.7mmtv.top
 127.0.0.1 xxx-download-0097.wissenswecker.de
 127.0.0.1 xxx-download-0359.ekasa24.pl
 127.0.0.1 xxx-download-0979.tempis-meble.pl
@@ -36844,6 +37514,7 @@
 127.0.0.1 xzj.kebi1.top
 127.0.0.1 xzwdo.top
 127.0.0.1 xzyev.piwylefubefu.top
+127.0.0.1 xzyh99889.top
 127.0.0.1 y-ads.net
 127.0.0.1 y-data.adsrvr.org
 127.0.0.1 y-rtb.adsrvr.org
@@ -36876,6 +37547,7 @@
 127.0.0.1 yandex-dmp-sync.rutarget.ru
 127.0.0.1 yandex-sync.rutarget.ru
 127.0.0.1 yandexadexchange.net
+127.0.0.1 yanpsilomane.pro
 127.0.0.1 yaolan.adsame.com
 127.0.0.1 yaolu.mh.163.com
 127.0.0.1 yaolu.yuedu.163.com
@@ -36902,7 +37574,6 @@
 127.0.0.1 yfoxentertainment.hb-api.tt.omtrdc.net
 127.0.0.1 yhecvi.top
 127.0.0.1 yieldads.com
-127.0.0.1 yieldadvert.com
 127.0.0.1 yieldlove-ad-serving.net
 127.0.0.1 yim3eyv5.top
 127.0.0.1 yingxiao.baidu.com
@@ -36932,6 +37603,7 @@
 127.0.0.1 yoc-steps.adsbynimbus.com
 127.0.0.1 yohoads.com
 127.0.0.1 yoke.tianyaoguan.cn
+127.0.0.1 you.fulia.top
 127.0.0.1 youbispositioning.top
 127.0.0.1 youbizchance.top
 127.0.0.1 youblessing.top
@@ -37030,6 +37702,7 @@
 127.0.0.1 z.moatads.com
 127.0.0.1 z0.extreme-dm.com
 127.0.0.1 z0000g.yvmads.com
+127.0.0.1 z0il3m3u2o.pro
 127.0.0.1 z1.adserver.com
 127.0.0.1 z1.cnzz.com
 127.0.0.1 z1.extreme-dm.com
@@ -37074,6 +37747,8 @@
 127.0.0.1 zakb15w76mo5zpj0.partner.net.daraz.com
 127.0.0.1 zakbyajklqare.top
 127.0.0.1 zakbyajklqzyz.top
+127.0.0.1 zakomunikowac24.click
+127.0.0.1 zakomunikowac24h.click
 127.0.0.1 zaktualizuj-adres.top
 127.0.0.1 zakupowe-bystrzaki.click
 127.0.0.1 zalatwmy-wszyscy.click
@@ -37086,9 +37761,11 @@
 127.0.0.1 zalo-ads.zadn.vn
 127.0.0.1 zaloads-480.zdn.vn
 127.0.0.1 zalobarodziny.click
-127.0.0.1 zang3.conyersdill.top
+127.0.0.1 zanieczyszczonedlaplacz.click
 127.0.0.1 zapads.zapak.com
 127.0.0.1 zapadserver1.com
+127.0.0.1 zapatrywanie.click
+127.0.0.1 zapowiedzi24.click
 127.0.0.1 zaradnedane.click
 127.0.0.1 zarjzwlamwvjy.top
 127.0.0.1 zarjzwlamwzvj.top
@@ -37097,11 +37774,14 @@
 127.0.0.1 zarkjmnmvllw.top
 127.0.0.1 zasadyprawdy.click
 127.0.0.1 zascdv.top
+127.0.0.1 zaszczytowe.click
 127.0.0.1 zatnijprawwe.click
 127.0.0.1 zauroczonyprzezyciami.click
 127.0.0.1 zauroczonyzyciem.click
 127.0.0.1 zawiadomienia.click
+127.0.0.1 zawiadommy24.click
 127.0.0.1 zazerygu.pro
+127.0.0.1 zaznajamianie.click
 127.0.0.1 zb5xpvwvups.click
 127.0.0.1 zbieram-bonusy.click
 127.0.0.1 zbieramyslady.click
@@ -37120,14 +37800,18 @@
 127.0.0.1 zdd97cwy2d6cppky.partner.net.daraz.com
 127.0.0.1 zdemaskowani24.click
 127.0.0.1 zdemaskowanie.click
+127.0.0.1 zdjeciarozpoznawanie.click
 127.0.0.1 zdobytawiedza.click
 127.0.0.1 zdrogi.click
+127.0.0.1 zdrowezycie.click
 127.0.0.1 zdrowienakazdydzien.click
 127.0.0.1 zdrowoiswietnie.click
 127.0.0.1 zdrowona100.click
 127.0.0.1 zdroworadosnie.click
 127.0.0.1 zeads.com
 127.0.0.1 zebeaa.click
+127.0.0.1 zebjlmmejbzlb.top
+127.0.0.1 zegnamydziewczynke.click
 127.0.0.1 zel9.byseniscon.top
 127.0.0.1 zelenas-herllenss-pro.cloud
 127.0.0.1 zen-test.yandex.ru
@@ -37142,9 +37826,11 @@
 127.0.0.1 zerads.com
 127.0.0.1 zerg.pro
 127.0.0.1 zertlik-investing.pro
+127.0.0.1 zerzvqroeveae.top
 127.0.0.1 zesty-lady.pro
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
+127.0.0.1 zevwkbzwkbqzw.top
 127.0.0.1 zez.lifetradefx.top
 127.0.0.1 zf0ad4403.net.daraz.com
 127.0.0.1 zf4.top
@@ -37183,15 +37869,20 @@
 127.0.0.1 zjyeblzkajwjz.top
 127.0.0.1 zjzxtmhcldsb.click
 127.0.0.1 zkawzmlvqjejy.top
+127.0.0.1 zla963.top
 127.0.0.1 zlewiesci.click
 127.0.0.1 zlgame.top
 127.0.0.1 zlotapaczka.top
 127.0.0.1 zmadsvd.cn
 127.0.0.1 zmetrics.msn.com
 127.0.0.1 zmobilizowani24h.click
+127.0.0.1 zmowamilczenia.click
 127.0.0.1 znajdujemy24h.click
+127.0.0.1 znajdujemyposzlaki.click
+127.0.0.1 znajdzdowod.click
 127.0.0.1 znalezcinformacje.click
 127.0.0.1 znegiu.top
+127.0.0.1 znieczulica.click
 127.0.0.1 znikomoscstraszliwych.click
 127.0.0.1 zniszczonypojazd.click
 127.0.0.1 zoitalbok.click
@@ -37203,7 +37894,9 @@
 127.0.0.1 zong-kube-partner.net.daraz.com
 127.0.0.1 zong-sftp.chd-www.partner.net.daraz.com
 127.0.0.1 zong-staging.frontpage-partner.net.daraz.com
+127.0.0.1 zoraht.top
 127.0.0.1 zostan-zwyciezca.click
+127.0.0.1 zqqz.papiashvili.top
 127.0.0.1 zr2pk5kb37ai3yd7.partner.net.daraz.com
 127.0.0.1 zrelaksowanaenergia.click
 127.0.0.1 zrelaksowani24.click
@@ -37257,6 +37950,7 @@
 127.0.0.1 zyciowefakty.click
 127.0.0.1 zycioweinfo24.click
 127.0.0.1 zyje-czas.click
+127.0.0.1 zyjemyfaktami.click
 127.0.0.1 zys13.top
 127.0.0.1 zys15.top
 127.0.0.1 zys16.top
