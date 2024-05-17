@@ -14,21 +14,5 @@
  > `mod` 脚本执行文件夹，每个脚本有不同的功能，脚本里有注释，不想执行该脚本，可以改后缀名为`bak`
  >> `配置.conf`(配置.prop) 在刷入前可以用 **[mt文件管理器](https://binmt.lanzoui.com/b01bivkzc)** 修改来自定义模块的一些功能。
 
-- v164
-> #### 解除小米ROM包下载限速，重定向至`123.6.13.6`和`23.202.34.138`。
-> #### 添加酷友的两个规则 不确定后续是否会误杀
-> #### @coolapk [营销号666](http://www.coolapk.com/u/554004)
-````
-127.0.0.1 dsp-x.jd.com
-127.0.0.1 dsp-x.jd.com.gslb.qianxun.com
-````
-> #### @coolapk [GreatYYH](http://www.coolapk.com/u/3241828)
-```
-127.0.0.1 api-cn.store.heytapmobi.com
-```
-- v170
-> #### 添加拦截蓝奏云剪切板写入，来自酷友
-> #### @coolapk[Aloazny](http://www.coolapk.com/u/27964501)
-```
-127.0.0.1 kl.67it.com
-```
+- v173
+> 修复王者荣耀部分问题(我也不大游戏，所以不知道问题大不大)
