@@ -10,10 +10,7 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v227
- - 懒得管什么`kernel su`漏不漏环境的问题了，照着[kernel su的官方文档](https://kernelsu.org/zh_CN/guide/faq.html)推荐的[模块](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)抄了命令，不行？好！用`mount --bind`？不行？读取不到`/sdcard`？6
- - 后来一看这个仓库，[bindhosts](https://github.com/backslashxx/bindhosts)，好家伙，有好几种挂载方式，`ksu_susfs`我也没用过，爱咋咋地吧，我还在`Android 10`呢，这原本也是magisk模块，`kernel su`咋样我也不管了。
->v229
- - 更新蓝奏云两个广告域名，蓝奏云剪切板劫持已经搞到内嵌脚本了，域名拦截不了了。
+>v230
+ - 更新部分埋`堆堆`广告，感谢GIthub@[samsunggithub](https://github.com/samsunggithub)反馈。
 
  
