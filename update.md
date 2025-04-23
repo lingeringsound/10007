@@ -18,7 +18,9 @@
 >v266
  - 添加`华为天气`的开屏广告移除，但是应该没有什么人用华为Root吧，可以加到Adguard/其他Dns工具中，`acd.op.hicloud.com`，真的想不通了，低端机有广告，旗舰机也有，还没开关。
  - 另外发现另一个奇怪的[链接](https://consumer.huawei.com/app-ads.txt)？
-
+>v267
+ - 更新`hosts`。
+ 
 
 
 

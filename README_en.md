@@ -1,9 +1,9 @@
 ## Remove Advertise
 
-- ## v266
+- ## v267
 | **name** | **Link** |  |
 | :-- | :-- | :-- |
-| **266** | [Download link](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads266.zip) |
+| **267** | [Download link](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads267.zip) |
 | **Host(reward)** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/reward)~~ |
 | **Host(all)** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/all)~~ |
 | **ADblock** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/adb.txt)~~|
