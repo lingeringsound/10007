@@ -20,7 +20,8 @@
  - 另外发现另一个奇怪的[链接](https://consumer.huawei.com/app-ads.txt)？
 >v267
  - 更新`hosts`。
- 
+>v268
+ - 移除`img14.360buyimg.com`，解决**手机性能排行图片**，部分使用京东图床的广告可能会出现。
 
 
 
