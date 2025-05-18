@@ -11,17 +11,10 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v261
- - `127.0.0.1`替换成`0.0.0.0`。
->v264
- - 修复配置文件读取的bug。
->v266
- - 添加`华为天气`的开屏广告移除，但是应该没有什么人用华为Root吧，可以加到Adguard/其他Dns工具中，`acd.op.hicloud.com`，真的想不通了，低端机有广告，旗舰机也有，还没开关。
- - 另外发现另一个奇怪的[链接](https://consumer.huawei.com/app-ads.txt)？
->v267
- - 更新`hosts`。
 >v268
  - 移除`img14.360buyimg.com`，解决**手机性能排行图片**，部分使用京东图床的广告可能会出现。
+>v269
+ - 适配Magisk Alpha最新版`su -c`变成`su -i -c`命令。
 
 
 
