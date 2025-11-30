@@ -1,393 +1,453 @@
 <!DOCTYPE html>
-	<html lang='zh' >
+<html lang="zh">
 <head>
-	<meta charset="utf-8">
-	<title>去广告模块</title>
-	<meta name="description" content="去广告模块下载">
-	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta charset="utf-8">
+<title>去广告模块 - Magisk 去广告</title>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes">
 <style>
-.table-container {
-	height: 300px;
-	overflow: auto;
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{--bg:#fafcff;--card:rgba(255,255,255,0.94);--text:#111;--green:#22c55e;--blur:blur(28px);}
+@media(prefers-color-scheme:dark){
+  :root{--bg:#0b0e16;--card:rgba(18,22,38,0.96);--text:#eee;}
 }
-
- table {
-	border-collapse: collapse;
-	width: 100%;
-	font-family: Arial, sans-serif;
-	color: #444444;
-	border: 1px solid #f2f2f2;
-}
- th, td {
-	text-align: center;
-	padding: 8px;
-}
- th {
-	background-color: #4CAF50;
-	color: white;
-}
-
- .center {
-	text-align: center;
-}
-	</style>
+body.dark{--bg:#0b0e16;--card:rgba(18,22,38,0.96);--text:#eee;}
+body{background:var(--bg);color:var(--text);min-height:100dvh;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif;padding:20px 16px;line-height:1.8;font-size:15.5px;transition:all .6s ease;overflow-x:hidden;}
+.container{max-width:960px;margin:0 auto;padding:0 12px;}
+h1{text-align:center;font-size:clamp(32px,8vw,42px);font-weight:900;margin:10px 0 50px;background:linear-gradient(120deg,var(--green),#00ff80);-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+.swiper{width:100%;overflow:hidden;border-radius:clamp(20px,4vw,28px);box-shadow:0 20px 60px rgba(0,0,0,.2);margin-bottom:30px;}
+.swiper-wrapper{display:flex;transition:transform .55s cubic-bezier(.32,.72,.3,1);}
+.slide{min-width:100%;padding:clamp(24px,6vw,40px) clamp(20px,4vw,32px);background:var(--card);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);border:1px solid rgba(255,255,255,.3);max-height:500px;overflow-y:auto;}
+.rule-title{font-size:clamp(20px,5vw,26px);font-weight:800;text-align:center;margin-bottom:20px;color:var(--green);}
+.link-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;margin:24px 0;}
+@media(max-width:640px){.link-grid{grid-template-columns:1fr;gap:12px;}}
+.link-item{background:rgba(255,255,255,.6);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);border-radius:clamp(14px,3vw,18px);padding:clamp(14px,3vw,18px);display:flex;flex-direction:column;gap:8px;box-shadow:0 6px 18px rgba(0,0,0,.1);}
+.link-name{font-weight:600;font-size:clamp(13px,3vw,14.5px);}
+.copy-btn,.download-btn{padding:clamp(10px,2.5vw,12px) clamp(16px,3vw,20px);background:var(--green);color:#fff;border:none;border-radius:clamp(12px,3vw,14px);font-size:clamp(14px,3vw,15px);font-weight:600;cursor:pointer;transition:all .35s ease;box-shadow:0 6px 16px rgba(34,197,94,.4);min-height:44px;}
+.copy-btn:hover,.download-btn:hover{transform:translateY(-3px);background:#16a34a;}
+.copy-btn:active,.download-btn:active{transform:translateY(-1px);}
+.copy-btn.copied,.download-btn.downloading{background:#94a3b8;box-shadow:0 6px 16px rgba(148,163,184,.4);}
+.dots{text-align:center;margin:20px 0 40px;}
+.dot{display:inline-block;width:clamp(8px,2vw,10px);height:clamp(8px,2vw,10px);border-radius:50%;background:rgba(0,0,0,.25);margin:0 clamp(4px,1vw,6px);transition:all .4s;cursor:pointer;}
+.dot.active{background:var(--green);transform:scale(1.4);}
+.info-card{background:var(--card);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);border-radius:clamp(20px,5vw,28px);padding:clamp(24px,5vw,32px) clamp(20px,4vw,28px);box-shadow:0 20px 60px rgba(0,0,0,.18);border:1px solid rgba(255,255,255,.3);margin-bottom:30px;}
+.info-card h3{text-align:center;font-size:clamp(18px,4vw,20px);margin-bottom:20px;color:var(--green);}
+blockquote{background:rgba(11,243,81,.08);border-left:5px solid var(--green);padding:clamp(16px,4vw,22px);border-radius:0 clamp(12px,3vw,16px) clamp(12px,3vw,16px) 0;margin:24px 0;font-size:clamp(14px,3vw,15px);line-height:1.9;}
+.donate-imgs{display:flex;justify-content:center;flex-wrap:wrap;gap:20px;margin:30px 0;}
+.donate-imgs img{max-width:280px;border-radius:16px;box-shadow:0 10px 30px rgba(0,0,0,.2);}
+.switch{position:fixed;top:20px;right:20px;width:clamp(50px,8vw,58px);height:clamp(30px,6vw,34px);background:rgba(0,0,0,.15);border-radius:34px;cursor:pointer;z-index:100;backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);}
+.knob{position:absolute;top:4px;left:4px;width:clamp(22px,5vw,26px);height:clamp(22px,5vw,26px);background:#fff;border-radius:50%;transition:.45s cubic-bezier(.68,-.55,.27,1.55);box-shadow:0 3px 12px rgba(0,0,0,.25);}
+.dark .knob{left:calc(100% - 26px - 4px);}
+#toast{position:fixed;top:30px;left:50%;transform:translateX(-50%);background:rgba(255,255,255,.96);backdrop-filter:blur(24px);color:#111;padding:clamp(12px,3vw,16px) clamp(24px,5vw,36px);border-radius:44px;font-size:clamp(14px,3vw,16px);font-weight:600;box-shadow:0 15px 40px rgba(0,0,0,.22);z-index:9999;opacity:0;pointer-events:none;transition:all .6s cubic-bezier(.16,1,.3,1);max-width:90vw;text-align:center;white-space:nowrap;}
+#toast.show{opacity:1;top:clamp(60px,10vw,70px);}
+@media(max-width:480px){body{padding:16px 12px;font-size:15px;}}
+.slide-hint{text-align:center;padding:18px 0 10px;font-size:14.5px;color:#888;opacity:0;transition:opacity .5s;}
+.slide-hint.show{opacity:1;}
+</style>
 </head>
+<body id="body">
 
+<div id="toast">已复制到剪贴板</div>
 
-<body>
+<div class="container">
+  <h1>去广告模块</h1>
 
-<div id="简介">
-	<h1 style="text-align: center;">去广告模块</h1>
-	<p style="font-size: 15px;" > 一个Magisk 模块，host+chattr+pm+iptables去广告，host规则来自网络+本人手动抓取。</p>
+  <div class="swiper">
+    <div class="swiper-wrapper" id="wrapper">
+      <div class="slide">
+        <div class="rule-title">模块下载</div>
+        <div class="slide-hint" id="swipe-hint"> 向右滑动查看订阅规则 → </div>
+        <div class="link-grid" id="download-links"></div>
+      </div>
+
+      <div class="slide">
+        <div class="rule-title">模块规则订阅链接</div>
+        <div class="link-grid" id="subscribe-links"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="dots">
+    <span class="dot active" data-i="0"></span>
+    <span class="dot" data-i="1"></span>
+  </div>
+
+  <div class="info-card">
+    <h3>模块简介</h3>
+    <blockquote>
+      <p>一个 Magisk 模块，host + chattr + pm + iptables 去广告，host 规则来自网络 + 本人手动抓取。</p>
+    </blockquote>
+  </div>
+
+  <div class="info-card">
+    <h3>其他链接</h3>
+    <blockquote>
+      <p><a href="https://github.com/lingeringsound/10007" target="_blank">GITHUB 主页</a></p>
+      <p><a href="https://jihulab.com/foreseeable_boy/10007" target="_blank">GITlab 主页</a></p>
+      <p><a href="https://keytoolazy.lanzouw.com/b03j67j0f" target="_blank">蓝奏云下载链接（密码 666）</a></p>
+    </blockquote>
+  </div>
+
+  <div class="info-card">
+    <h3>捐赠支持</h3>
+    <div class="donate-imgs">
+      <img src="./donate/donate1.png" alt="微信捐赠">
+      <img src="./donate/donate2.jpg" alt="支付宝捐赠">
+    </div>
+  </div>
 </div>
 
-<div id="订阅链接">
-	<p id="GIthub1" style="display: none;" >https://lingeringsound.github.io/10007/all</p>
-	<p id="GIthub2" style="display: none;" >https://lingeringsound.github.io/10007/reward</p>
-	<p id="GIthub3" style="display: none;" >https://lingeringsound.github.io/10007/adb.txt</p>
-</div>
-
-<div id="模块下载">
-	<h3 style="text-align: left;">●模块下载</h3>
-<div class="table-container">
-	<table>
-		<thead>
-			<tr>
-		<th>模块版本</th>
-		<th>下载链接</th>
-			</tr>
-		</thead>
-		<tbody>
-	<tr><td>274</td><td><a href="./module/ads274.zip" >下载</a></td></tr>
-	<tr><td>273</td><td><a href="./module/ads273.zip" >下载</a></td></tr>
-	<tr><td>272</td><td><a href="./module/ads272.zip" >下载</a></td></tr>
-	<tr><td>271</td><td><a href="./module/ads271.zip" >下载</a></td></tr>
-	<tr><td>270</td><td><a href="./module/ads270.zip" >下载</a></td></tr>
-	<tr><td>269</td><td><a href="./module/ads269.zip" >下载</a></td></tr>
-	<tr><td>268</td><td><a href="./module/ads268.zip" >下载</a></td></tr>
-	<tr><td>267</td><td><a href="./module/ads267.zip" >下载</a></td></tr>
-	<tr><td>266</td><td><a href="./module/ads266.zip" >下载</a></td></tr>
-	<tr><td>265</td><td><a href="./module/ads265.zip" >下载</a></td></tr>
-	<tr><td>264</td><td><a href="./module/ads264.zip" >下载</a></td></tr>
-	<tr><td>263</td><td><a href="./module/ads263.zip" >下载</a></td></tr>
-	<tr><td>262</td><td><a href="./module/ads262.zip" >下载</a></td></tr>
-	<tr><td>261</td><td><a href="./module/ads261.zip" >下载</a></td></tr>
-	<tr><td>260</td><td><a href="./module/ads260.zip" >下载</a></td></tr>
-	<tr><td>259</td><td><a href="./module/ads259.zip" >下载</a></td></tr>
-	<tr><td>258</td><td><a href="./module/ads258.zip" >下载</a></td></tr>
-	<tr><td>257</td><td><a href="./module/ads257.zip" >下载</a></td></tr>
-	<tr><td>256</td><td><a href="./module/ads256.zip" >下载</a></td></tr>
-	<tr><td>255</td><td><a href="./module/ads255.zip" >下载</a></td></tr>
-	<tr><td>254</td><td><a href="./module/ads254.zip" >下载</a></td></tr>
-	<tr><td>253</td><td><a href="./module/ads253.zip" >下载</a></td></tr>
-	<tr><td>251</td><td><a href="./module/ads251.zip" >下载</a></td></tr>
-	<tr><td>250</td><td><a href="./module/ads250.zip" >下载</a></td></tr>
-	<tr><td>249</td><td><a href="./module/ads249.zip" >下载</a></td></tr>
-	<tr><td>248</td><td><a href="./module/ads248.zip" >下载</a></td></tr>
-	<tr><td>247</td><td><a href="./module/ads247.zip" >下载</a></td></tr>
-	<tr><td>246</td><td><a href="./module/ads246.zip" >下载</a></td></tr>
-	<tr><td>245</td><td><a href="./module/ads245.zip" >下载</a></td></tr>
-	<tr><td>244</td><td><a href="./module/ads244.zip" >下载</a></td></tr>
-	<tr><td>243</td><td><a href="./module/ads243.zip" >下载</a></td></tr>
-	<tr><td>242</td><td><a href="./module/ads242.zip" >下载</a></td></tr>
-	<tr><td>241</td><td><a href="./module/ads241.zip" >下载</a></td></tr>
-	<tr><td>240</td><td><a href="./module/ads240.zip" >下载</a></td></tr>
-	<tr><td>239</td><td><a href="./module/ads239.zip" >下载</a></td></tr>
-	<tr><td>238</td><td><a href="./module/ads238.zip" >下载</a></td></tr>
-	<tr><td>237</td><td><a href="./module/ads237.zip" >下载</a></td></tr>
-	<tr><td>236</td><td><a href="./module/ads236.zip" >下载</a></td></tr>
-	<tr><td>235</td><td><a href="./module/ads235.zip" >下载</a></td></tr>
-	<tr><td>234</td><td><a href="./module/ads234.zip" >下载</a></td></tr>
-	<tr><td>233</td><td><a href="./module/ads233.zip" >下载</a></td></tr>
-	<tr><td>232</td><td><a href="./module/ads232.zip" >下载</a></td></tr>
-	<tr><td>231</td><td><a href="./module/ads231.zip" >下载</a></td></tr>
-	<tr><td>230</td><td><a href="./module/ads230.zip" >下载</a></td></tr>
-	<tr><td>229</td><td><a href="./module/ads229.zip" >下载</a></td></tr>
-	<tr><td>228</td><td><a href="./module/ads228.zip" >下载</a></td></tr>
-	<tr><td>227</td><td><a href="./module/ads227.zip" >下载</a></td></tr>
-	<tr><td>226</td><td><a href="./module/ads226.zip" >下载</a></td></tr>
-	<tr><td>225</td><td><a href="./module/ads225.zip" >下载</a></td></tr>
-	<tr><td>224</td><td><a href="./module/ads224.zip" >下载</a></td></tr>
-	<tr><td>223</td><td><a href="./module/ads223.zip" >下载</a></td></tr>
-	<tr><td>222</td><td><a href="./module/ads222.zip" >下载</a></td></tr>
-	<tr><td>221</td><td><a href="./module/ads221.zip" >下载</a></td></tr>
-	<tr><td>220</td><td><a href="./module/ads220.zip" >下载</a></td></tr>
-	<tr><td>219</td><td><a href="./module/ads219.zip" >下载</a></td></tr>
-	<tr><td>218</td><td><a href="./module/ads218.zip" >下载</a></td></tr>
-	<tr><td>217</td><td><a href="./module/ads217.zip" >下载</a></td></tr>
-	<tr><td>216</td><td><a href="./module/ads216.zip" >下载</a></td></tr>
-	<tr><td>215</td><td><a href="./module/ads215.zip" >下载</a></td></tr>
-	<tr><td>214</td><td><a href="./module/ads214.zip" >下载</a></td></tr>
-	<tr><td>213</td><td><a href="./module/ads213.zip" >下载</a></td></tr>
-	<tr><td>212</td><td><a href="./module/ads212.zip" >下载</a></td></tr>
-	<tr><td>211</td><td><a href="./module/ads211.zip" >下载</a></td></tr>
-	<tr><td>210</td><td><a href="./module/ads210.zip" >下载</a></td></tr>
-	<tr><td>209</td><td><a href="./module/ads209.zip" >下载</a></td></tr>
-	<tr><td>208</td><td><a href="./module/ads208.zip" >下载</a></td></tr>
-	<tr><td>207</td><td><a href="./module/ads207.zip" >下载</a></td></tr>
-	<tr><td>206</td><td><a href="./module/ads206.zip" >下载</a></td></tr>
-	<tr><td>205</td><td><a href="./module/ads205.zip" >下载</a></td></tr>
-	<tr><td>204</td><td><a href="./module/ads204.zip" >下载</a></td></tr>
-	<tr><td>203</td><td><a href="./module/ads203.zip" >下载</a></td></tr>
-	<tr><td>202</td><td><a href="./module/ads202.zip" >下载</a></td></tr>
-	<tr><td>201</td><td><a href="./module/ads201.zip" >下载</a></td></tr>
-	<tr><td>200</td><td><a href="./module/ads200.zip" >下载</a></td></tr>
-	<tr><td>199</td><td><a href="./module/ads199.zip" >下载</a></td></tr>
-	<tr><td>198</td><td><a href="./module/ads198.zip" >下载</a></td></tr>
-	<tr><td>197</td><td><a href="./module/ads197.zip" >下载</a></td></tr>
-	<tr><td>196</td><td><a href="./module/ads196.zip" >下载</a></td></tr>
-	<tr><td>195</td><td><a href="./module/ads195.zip" >下载</a></td></tr>
-	<tr><td>194</td><td><a href="./module/ads194.zip" >下载</a></td></tr>
-	<tr><td>193</td><td><a href="./module/ads193.zip" >下载</a></td></tr>
-	<tr><td>192</td><td><a href="./module/ads192.zip" >下载</a></td></tr>
-	<tr><td>191</td><td><a href="./module/ads191.zip" >下载</a></td></tr>
-	<tr><td>190</td><td><a href="./module/ads190.zip" >下载</a></td></tr>
-	<tr><td>189</td><td><a href="./module/ads189.zip" >下载</a></td></tr>
-	<tr><td>188</td><td><a href="./module/ads188.zip" >下载</a></td></tr>
-	<tr><td>187</td><td><a href="./module/ads187.zip" >下载</a></td></tr>
-	<tr><td>186</td><td><a href="./module/ads186.zip" >下载</a></td></tr>
-	<tr><td>185(有bug别下)</td><td><a href="./module/ads185.zip" >下载</a></td></tr>
-	<tr><td>184(有bug别下)</td><td><a href="./module/ads184.zip" >下载</a></td></tr>
-	<tr><td>183</td><td><a href="./module/ads183.zip" >下载</a></td></tr>
-	<tr><td>182</td><td><a href="./module/ads182.zip" >下载</a></td></tr>
-	<tr><td>181</td><td><a href="./module/ads181.zip" >下载</a></td></tr>
-	<tr><td>180</td><td><a href="./module/ads180.zip" >下载</a></td></tr>
-	<tr><td>179</td><td><a href="./module/ads179.zip" >下载</a></td></tr>
-	<tr><td>178</td><td><a href="./module/ads178.zip" >下载</a></td></tr>
-	<tr><td>177</td><td><a href="./module/ads177.zip" >下载</a></td></tr>
-	<tr><td>176</td><td><a href="./module/ads176.zip" >下载</a></td></tr>
-	<tr><td>175</td><td><a href="./module/ads175.zip" >下载</a></td></tr>
-	<tr><td>174</td><td><a href="./module/ads174.zip" >下载</a></td></tr>
-	<tr><td>173</td><td><a href="./module/ads173.zip" >下载</a></td></tr>
-	<tr><td>172</td><td><a href="./module/ads172.zip" >下载</a></td></tr>
-	<tr><td>171</td><td><a href="./module/ads171.zip" >下载</a></td></tr>
-	<tr><td>170</td><td><a href="./module/ads170.zip" >下载</a></td></tr>
-	<tr><td>169</td><td><a href="./module/ads169.zip" >下载</a></td></tr>
-	<tr><td>168</td><td><a href="./module/ads168.zip" >下载</a></td></tr>
-	<tr><td>167</td><td><a href="./module/ads167.zip" >下载</a></td></tr>
-	<tr><td>166</td><td><a href="./module/ads166.zip" >下载</a></td></tr>
-	<tr><td>165</td><td><a href="./module/ads165.zip" >下载</a></td></tr>
-	<tr><td>164</td><td><a href="./module/ads164.zip" >下载</a></td></tr>
-	<tr><td>163</td><td><a href="./module/ads163.zip" >下载</a></td></tr>
-	<tr><td>162</td><td><a href="./module/ads162.zip" >下载</a></td></tr>
-	<tr><td>161</td><td><a href="./module/ads161.zip" >下载</a></td></tr>
-	<tr><td>160</td><td><a href="./module/ads160.zip" >下载</a></td></tr>
-	<tr><td>159</td><td><a href="./module/ads159.zip" >下载</a></td></tr>
-	<tr><td>158</td><td><a href="./module/ads158.zip" >下载</a></td></tr>
-	<tr><td>157</td><td><a href="./module/ads157.zip" >下载</a></td></tr>
-	<tr><td>156</td><td><a href="./module/ads156.zip" >下载</a></td></tr>
-	<tr><td>155</td><td><a href="./module/ads155.zip" >下载</a></td></tr>
-	<tr><td>154</td><td><a href="./module/ads154.zip" >下载</a></td></tr>
-	<tr><td>153</td><td><a href="./module/ads153.zip" >下载</a></td></tr>
-	<tr><td>152</td><td><a href="./module/ads152.zip" >下载</a></td></tr>
-	<tr><td>151</td><td><a href="./module/ads151.zip" >下载</a></td></tr>
-	<tr><td>150</td><td><a href="./module/ads150.zip" >下载</a></td></tr>
-	<tr><td>149</td><td><a href="./module/ads149.zip" >下载</a></td></tr>
-	<tr><td>148</td><td><a href="./module/ads148.zip" >下载</a></td></tr>
-	<tr><td>147</td><td><a href="./module/ads147.zip" >下载</a></td></tr>
-	<tr><td>146</td><td><a href="./module/ads146.zip" >下载</a></td></tr>
-	<tr><td>145</td><td><a href="./module/ads145.zip" >下载</a></td></tr>
-	<tr><td>144</td><td><a href="./module/ads144.zip" >下载</a></td></tr>
-	<tr><td>143</td><td><a href="./module/ads143.zip" >下载</a></td></tr>
-	<tr><td>142</td><td><a href="./module/ads142.zip" >下载</a></td></tr>
-	<tr><td>141</td><td><a href="./module/ads141.zip" >下载</a></td></tr>
-	<tr><td>140</td><td><a href="./module/ads140.zip" >下载</a></td></tr>
-	<tr><td>139</td><td><a href="./module/ads139.zip" >下载</a></td></tr>
-	<tr><td>138</td><td><a href="./module/ads138.zip" >下载</a></td></tr>
-	<tr><td>137</td><td><a href="./module/ads137.zip" >下载</a></td></tr>
-	<tr><td>136</td><td><a href="./module/ads136.zip" >下载</a></td></tr>
-	<tr><td>135</td><td><a href="./module/ads135.zip" >下载</a></td></tr>
-	<tr><td>134</td><td><a href="./module/ads134.zip" >下载</a></td></tr>
-	<tr><td>133</td><td><a href="./module/ads133.zip" >下载</a></td></tr>
-	<tr><td>132</td><td><a href="./module/ads132.zip" >下载</a></td></tr>
-	<tr><td>131</td><td><a href="./module/ads131.zip" >下载</a></td></tr>
-	<tr><td>130</td><td><a href="./module/ads130.zip" >下载</a></td></tr>
-	<tr><td>129</td><td><a href="./module/ads129.zip" >下载</a></td></tr>
-	<tr><td>128</td><td><a href="./module/ads128.zip" >下载</a></td></tr>
-	<tr><td>127</td><td><a href="./module/ads127.zip" >下载</a></td></tr>
-	<tr><td>126</td><td><a href="./module/ads126.zip" >下载</a></td></tr>
-	<tr><td>125</td><td><a href="./module/ads125.zip" >下载</a></td></tr>
-	<tr><td>124</td><td><a href="./module/ads124.zip" >下载</a></td></tr>
-	<tr><td>123</td><td><a href="./module/ads123.zip" >下载</a></td></tr>
-	<tr><td>122</td><td><a href="./module/ads122.zip" >下载</a></td></tr>
-	<tr><td>121</td><td><a href="./module/ads121.zip" >下载</a></td></tr>
-	<tr><td>120</td><td><a href="./module/ads120.zip" >下载</a></td></tr>
-	<tr><td>119</td><td><a href="./module/ads119.zip" >下载</a></td></tr>
-	<tr><td>118</td><td><a href="./module/ads118.zip" >下载</a></td></tr>
-	<tr><td>117</td><td><a href="./module/ads117.zip" >下载</a></td></tr>
-	<tr><td>116</td><td><a href="./module/ads116.zip" >下载</a></td></tr>
-	<tr><td>115</td><td><a href="./module/ads115.zip" >下载</a></td></tr>
-	<tr><td>114</td><td><a href="./module/ads114.zip" >下载</a></td></tr>
-	<tr><td>113</td><td><a href="./module/ads113.zip" >下载</a></td></tr>
-	<tr><td>112</td><td><a href="./module/ads112.zip" >下载</a></td></tr>
-	<tr><td>111</td><td><a href="./module/ads111.zip" >下载</a></td></tr>
-	<tr><td>110</td><td><a href="./module/ads110.zip" >下载</a></td></tr>
-	<tr><td>109</td><td><a href="./module/ads109.zip" >下载</a></td></tr>
-	<tr><td>108</td><td><a href="./module/ads108.zip" >下载</a></td></tr>
-	<tr><td>107</td><td><a href="./module/ads107.zip" >下载</a></td></tr>
-	<tr><td>106</td><td><a href="./module/ads106.zip" >下载</a></td></tr>
-	<tr><td>105</td><td><a href="./module/ads105.zip" >下载</a></td></tr>
-	<tr><td>104</td><td><a href="./module/ads104.zip" >下载</a></td></tr>
-	<tr><td>103</td><td><a href="./module/ads103.zip" >下载</a></td></tr>
-	<tr><td>102</td><td><a href="./module/ads102.zip" >下载</a></td></tr>
-	<tr><td>101</td><td><a href="./module/ads101.zip" >下载</a></td></tr>
-	<tr><td>100</td><td><a href="./module/ads100.zip" >下载</a></td></tr>
-	<tr><td>99</td><td><a href="./module/ads99.zip" >下载</a></td></tr>
-	<tr><td>98</td><td><a href="./module/ads98.zip" >下载</a></td></tr>
-	<tr><td>97</td><td><a href="./module/ads97.zip" >下载</a></td></tr>
-	<tr><td>96</td><td><a href="./module/ads96.zip" >下载</a></td></tr>
-	<tr><td>95</td><td><a href="./module/ads95.zip" >下载</a></td></tr>
-	<tr><td>94</td><td><a href="./module/ads94.zip" >下载</a></td></tr>
-	<tr><td>93</td><td><a href="./module/ads93.zip" >下载</a></td></tr>
-	<tr><td>92</td><td><a href="./module/ads92.zip" >下载</a></td></tr>
-	<tr><td>91</td><td><a href="./module/ads91.zip" >下载</a></td></tr>
-	<tr><td>90</td><td><a href="./module/ads90.zip" >下载</a></td></tr>
-	<tr><td>89</td><td><a href="./module/ads89.zip" >下载</a></td></tr>
-	<tr><td>88</td><td><a href="./module/ads88.zip" >下载</a></td></tr>
-	<tr><td>87</td><td><a href="./module/ads87.zip" >下载</a></td></tr>
-	<tr><td>86</td><td><a href="./module/ads86.zip" >下载</a></td></tr>
-	<tr><td>85</td><td><a href="./module/ads85.zip" >下载</a></td></tr>
-	<tr><td>84</td><td><a href="./module/ads84.zip" >下载</a></td></tr>
-	<tr><td>83</td><td><a href="./module/ads83.zip" >下载</a></td></tr>
-	<tr><td>82</td><td><a href="./module/ads82.zip" >下载</a></td></tr>
-	<tr><td>81</td><td><a href="./module/ads81.zip" >下载</a></td></tr>
-	<tr><td>80</td><td><a href="./module/ads80.zip" >下载</a></td></tr>
-	<tr><td>79</td><td><a href="./module/ads79.zip" >下载</a></td></tr>
-	<tr><td>78</td><td><a href="./module/ads78.zip" >下载</a></td></tr>
-	<tr><td>77</td><td><a href="./module/ads77.zip" >下载</a></td></tr>
-	<tr><td>76</td><td><a href="./module/ads76.zip" >下载</a></td></tr>
-	<tr><td>75</td><td><a href="./module/ads75.zip" >下载</a></td></tr>
-	<tr><td>74</td><td><a href="./module/ads74.zip" >下载</a></td></tr>
-	<tr><td>73</td><td><a href="./module/ads73.zip" >下载</a></td></tr>
-	<tr><td>72</td><td><a href="./module/ads72.zip" >下载</a></td></tr>
-	<tr><td>71</td><td><a href="./module/ads71.zip" >下载</a></td></tr>
-	<tr><td>70</td><td><a href="./module/ads70.zip" >下载</a></td></tr>
-	<tr><td>69</td><td><a href="./module/ads69.zip" >下载</a></td></tr>
-	<tr><td>68</td><td><a href="./module/ads68.zip" >下载</a></td></tr>
-	<tr><td>67</td><td><a href="./module/ads67.zip" >下载</a></td></tr>
-	<tr><td>66</td><td><a href="./module/ads66.zip" >下载</a></td></tr>
-	<tr><td>65</td><td><a href="./module/ads65.zip" >下载</a></td></tr>
-	<tr><td>64</td><td><a href="./module/ads64.zip" >下载</a></td></tr>
-	<tr><td>63</td><td><a href="./module/ads63.zip" >下载</a></td></tr>
-	<tr><td>62</td><td><a href="./module/ads62.zip" >下载</a></td></tr>
-	<tr><td>61</td><td><a href="./module/ads61.zip" >下载</a></td></tr>
-	<tr><td>60</td><td><a href="./module/ads60.zip" >下载</a></td></tr>
-	<tr><td>59</td><td><a href="./module/ads59.zip" >下载</a></td></tr>
-	<tr><td>58</td><td><a href="./module/ads58.zip" >下载</a></td></tr>
-	<tr><td>57</td><td><a href="./module/ads57.zip" >下载</a></td></tr>
-	<tr><td>56</td><td><a href="./module/ads56.zip" >下载</a></td></tr>
-	<tr><td>55</td><td><a href="./module/ads55.zip" >下载</a></td></tr>
-	<tr><td>54</td><td><a href="./module/ads54.zip" >下载</a></td></tr>
-	<tr><td>53</td><td><a href="./module/ads53.zip" >下载</a></td></tr>
-	<tr><td>52</td><td><a href="./module/ads52.zip" >下载</a></td></tr>
-	<tr><td>51</td><td><a href="./module/ads51.zip" >下载</a></td></tr>
-	<tr><td>50</td><td><a href="./module/ads50.zip" >下载</a></td></tr>
-	<tr><td>49</td><td><a href="./module/ads49.zip" >下载</a></td></tr>
-	<tr><td>48</td><td><a href="./module/ads48.zip" >下载</a></td></tr>
-	<tr><td>47</td><td><a href="./module/ads47.zip" >下载</a></td></tr>
-	<tr><td>ads47[尝鲜版]</td><td><a href="./module/ads47%5B%E5%B0%9D%E9%B2%9C%E7%89%88%5D.zip" >下载</a></td></tr>
-	<tr><td>46</td><td><a href="./module/ads46.zip" >下载</a></td></tr>
-	<tr><td>45</td><td><a href="./module/ads45.zip" >下载</a></td></tr>
-	<tr><td>ads44（old）</td><td><a href="./module/ads44%EF%BC%88old%EF%BC%89.zip" >下载</a></td></tr>
-	<tr><td>44</td><td><a href="./module/ads44.zip" >下载</a></td></tr>
-	<tr><td>43</td><td><a href="./module/ads43.zip" >下载</a></td></tr>
-	<tr><td>42</td><td><a href="./module/ads42.zip" >下载</a></td></tr>
-	<tr><td>41</td><td><a href="./module/ads41.zip" >下载</a></td></tr>
-	<tr><td>40</td><td><a href="./module/ads40.zip" >下载</a></td></tr>
-	<tr><td>39</td><td><a href="./module/ads39.zip" >下载</a></td></tr>
-	<tr><td>38</td><td><a href="./module/ads38.zip" >下载</a></td></tr>
-	<tr><td>37</td><td><a href="./module/ads37.zip" >下载</a></td></tr>
-	<tr><td>36</td><td><a href="./module/ads36.zip" >下载</a></td></tr>
-	<tr><td>35</td><td><a href="./module/ads35.zip" >下载</a></td></tr>
-	<tr><td>34</td><td><a href="./module/ads34.zip" >下载</a></td></tr>
-	<tr><td>33</td><td><a href="./module/ads33.zip" >下载</a></td></tr>
-	<tr><td>32</td><td><a href="./module/ads32.zip" >下载</a></td></tr>
-	<tr><td>31</td><td><a href="./module/ads31.zip" >下载</a></td></tr>
-	<tr><td>30</td><td><a href="./module/ads30.zip" >下载</a></td></tr>
-	<tr><td>29</td><td><a href="./module/ads29.zip" >下载</a></td></tr>
-	<tr><td>ads23保留奖励广告</td><td><a href="./module/ads23%E4%BF%9D%E7%95%99%E5%A5%96%E5%8A%B1%E5%B9%BF%E5%91%8A.zip" >下载</a></td></tr>
-	<tr><td>23</td><td><a href="./module/ads23.zip" >下载</a></td></tr>
-	<tr><td>ads22保留奖励广告</td><td><a href="./module/ads22%E4%BF%9D%E7%95%99%E5%A5%96%E5%8A%B1%E5%B9%BF%E5%91%8A.zip" >下载</a></td></tr>
-	<tr><td>22</td><td><a href="./module/ads22.zip" >下载</a></td></tr>
-	<tr><td>13</td><td><a href="./module/adsv13.zip" >下载</a></td></tr>
-	<tr><td>8</td><td><a href="./module/ads8.zip" >下载</a></td></tr>
-	<tr><td>5</td><td><a href="./module/ads5.zip" >下载</a></td></tr>
-	<tr><td>1</td><td><a href="./module/ads1.zip" >下载</a></td></tr>
-		</tbody>
-		</table>
-	</div>
-</div>
-
-<div id="模块规则订阅">
-	<h3 style="text-align: left;">●模块规则订阅</h3>
-		<table>
-		<thead>
-			<tr>
-				<th>名称</th>
-				<th>订阅链接</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>完整版</td>
-				<td> <button onclick="copyTextGIthub1()" style="text-align:center; font-size:10px;" > 点击复制 </button></td>
-			</tr>
-			<tr>
-				<td>保留广告奖励</td>
-				<td> <button onclick="copyTextGIthub2()" style="text-align:center; font-size:10px;" > 点击复制 </button></td>
-			</tr>
-			<tr>
-				<td>Adblock规则</td>
-				<td> <button onclick="copyTextGIthub3()" style="text-align:center; font-size:10px;" > 点击复制 </button></td>
-			</tr>
-		</tbody>
-		<table>
-</div>
-
-<div id="其他">
-	<h3 style="text-align: left;">●其他</h3>
-		<table>
-		<thead><tr><th>链接</th></tr></thead>
-		<tbody><tr><td><a href="https://github.com/lingeringsound/10007" target="_blank" >GITHUB主页</a></td></tr><tr><td><a href="https://jihulab.com/foreseeable_boy/10007" target="_blank" >GITlab主页</a></td></tr><tr><td><a href="https://keytoolazy.lanzouw.com/b03j67j0f" target="_blank" >蓝奏云下载链接(密码666)</a></td></tr></tbody>
-		<table>
-</div>
-
-<div id="捐赠" style="text-align: center;">
-	<!-- img src="https://jihulab.com/foreseeable_boy/10007/-/raw/main/donate/donate1.png" style="zoom:15%" />
-	<img src="https://jihulab.com/foreseeable_boy/10007/-/raw/main/donate/donate2.jpg" style="zoom:15%" /-->
-	<img src="./donate/donate2.jpg" style="zoom:15%" />
-	<img src="./donate/donate1.png " style="zoom:15%" />
-</div>
+<div class="switch"><div class="knob" id="knob"></div></div>
 
 <script>
-function copyTextGIthub1() {
-	var copyText = document.getElementById("GIthub1");
-	var inputElement = document.createElement("input");
-	inputElement.setAttribute("value", copyText.textContent);
-		document.body.appendChild(inputElement);
-	inputElement.select();
-		document.execCommand("copy");
-	document.body.removeChild(inputElement);
+const config = {
+  downloads: [
+    {version: "274", file: "ads274.zip"},
+    {version: "273", file: "ads273.zip"},
+    {version: "272", file: "ads272.zip"},
+    {version: "271", file: "ads271.zip"},
+    {version: "270", file: "ads270.zip"},
+    {version: "269", file: "ads269.zip"},
+    {version: "268", file: "ads268.zip"},
+    {version: "267", file: "ads267.zip"},
+    {version: "266", file: "ads266.zip"},
+    {version: "265", file: "ads265.zip"},
+    {version: "264", file: "ads264.zip"},
+    {version: "263", file: "ads263.zip"},
+    {version: "262", file: "ads262.zip"},
+    {version: "261", file: "ads261.zip"},
+    {version: "260", file: "ads260.zip"},
+    {version: "259", file: "ads259.zip"},
+    {version: "258", file: "ads258.zip"},
+    {version: "257", file: "ads257.zip"},
+    {version: "256", file: "ads256.zip"},
+    {version: "255", file: "ads255.zip"},
+    {version: "254", file: "ads254.zip"},
+    {version: "253", file: "ads253.zip"},
+    {version: "251", file: "ads251.zip"},
+    {version: "250", file: "ads250.zip"},
+    {version: "249", file: "ads249.zip"},
+    {version: "248", file: "ads248.zip"},
+    {version: "247", file: "ads247.zip"},
+    {version: "246", file: "ads246.zip"},
+    {version: "245", file: "ads245.zip"},
+    {version: "244", file: "ads244.zip"},
+    {version: "243", file: "ads243.zip"},
+    {version: "242", file: "ads242.zip"},
+    {version: "241", file: "ads241.zip"},
+    {version: "240", file: "ads240.zip"},
+    {version: "239", file: "ads239.zip"},
+    {version: "238", file: "ads238.zip"},
+    {version: "237", file: "ads237.zip"},
+    {version: "236", file: "ads236.zip"},
+    {version: "235", file: "ads235.zip"},
+    {version: "234", file: "ads234.zip"},
+    {version: "233", file: "ads233.zip"},
+    {version: "232", file: "ads232.zip"},
+    {version: "231", file: "ads231.zip"},
+    {version: "230", file: "ads230.zip"},
+    {version: "229", file: "ads229.zip"},
+    {version: "228", file: "ads228.zip"},
+    {version: "227", file: "ads227.zip"},
+    {version: "226", file: "ads226.zip"},
+    {version: "225", file: "ads225.zip"},
+    {version: "224", file: "ads224.zip"},
+    {version: "223", file: "ads223.zip"},
+    {version: "222", file: "ads222.zip"},
+    {version: "221", file: "ads221.zip"},
+    {version: "220", file: "ads220.zip"},
+    {version: "219", file: "ads219.zip"},
+    {version: "218", file: "ads218.zip"},
+    {version: "217", file: "ads217.zip"},
+    {version: "216", file: "ads216.zip"},
+    {version: "215", file: "ads215.zip"},
+    {version: "214", file: "ads214.zip"},
+    {version: "213", file: "ads213.zip"},
+    {version: "212", file: "ads212.zip"},
+    {version: "211", file: "ads211.zip"},
+    {version: "210", file: "ads210.zip"},
+    {version: "209", file: "ads209.zip"},
+    {version: "208", file: "ads208.zip"},
+    {version: "207", file: "ads207.zip"},
+    {version: "206", file: "ads206.zip"},
+    {version: "205", file: "ads205.zip"},
+    {version: "204", file: "ads204.zip"},
+    {version: "203", file: "ads203.zip"},
+    {version: "202", file: "ads202.zip"},
+    {version: "201", file: "ads201.zip"},
+    {version: "200", file: "ads200.zip"},
+    {version: "199", file: "ads199.zip"},
+    {version: "198", file: "ads198.zip"},
+    {version: "197", file: "ads197.zip"},
+    {version: "196", file: "ads196.zip"},
+    {version: "195", file: "ads195.zip"},
+    {version: "194", file: "ads194.zip"},
+    {version: "193", file: "ads193.zip"},
+    {version: "192", file: "ads192.zip"},
+    {version: "191", file: "ads191.zip"},
+    {version: "190", file: "ads190.zip"},
+    {version: "189", file: "ads189.zip"},
+    {version: "188", file: "ads188.zip"},
+    {version: "187", file: "ads187.zip"},
+    {version: "186", file: "ads186.zip"},
+    {version: "185(有bug别下)", file: "ads185.zip"},
+    {version: "184(有bug别下)", file: "ads184.zip"},
+    {version: "183", file: "ads183.zip"},
+    {version: "182", file: "ads182.zip"},
+    {version: "181", file: "ads181.zip"},
+    {version: "180", file: "ads180.zip"},
+    {version: "179", file: "ads179.zip"},
+    {version: "178", file: "ads178.zip"},
+    {version: "177", file: "ads177.zip"},
+    {version: "176", file: "ads176.zip"},
+    {version: "175", file: "ads175.zip"},
+    {version: "174", file: "ads174.zip"},
+    {version: "173", file: "ads173.zip"},
+    {version: "172", file: "ads172.zip"},
+    {version: "171", file: "ads171.zip"},
+    {version: "170", file: "ads170.zip"},
+    {version: "169", file: "ads169.zip"},
+    {version: "168", file: "ads168.zip"},
+    {version: "167", file: "ads167.zip"},
+    {version: "166", file: "ads166.zip"},
+    {version: "165", file: "ads165.zip"},
+    {version: "164", file: "ads164.zip"},
+    {version: "163", file: "ads163.zip"},
+    {version: "162", file: "ads162.zip"},
+    {version: "161", file: "ads161.zip"},
+    {version: "160", file: "ads160.zip"},
+    {version: "159", file: "ads159.zip"},
+    {version: "158", file: "ads158.zip"},
+    {version: "157", file: "ads157.zip"},
+    {version: "156", file: "ads156.zip"},
+    {version: "155", file: "ads155.zip"},
+    {version: "154", file: "ads154.zip"},
+    {version: "153", file: "ads153.zip"},
+    {version: "152", file: "ads152.zip"},
+    {version: "151", file: "ads151.zip"},
+    {version: "150", file: "ads150.zip"},
+    {version: "149", file: "ads149.zip"},
+    {version: "148", file: "ads148.zip"},
+    {version: "147", file: "ads147.zip"},
+    {version: "146", file: "ads146.zip"},
+    {version: "145", file: "ads145.zip"},
+    {version: "144", file: "ads144.zip"},
+    {version: "143", file: "ads143.zip"},
+    {version: "142", file: "ads142.zip"},
+    {version: "141", file: "ads141.zip"},
+    {version: "140", file: "ads140.zip"},
+    {version: "139", file: "ads139.zip"},
+    {version: "138", file: "ads138.zip"},
+    {version: "137", file: "ads137.zip"},
+    {version: "136", file: "ads136.zip"},
+    {version: "135", file: "ads135.zip"},
+    {version: "134", file: "ads134.zip"},
+    {version: "133", file: "ads133.zip"},
+    {version: "132", file: "ads132.zip"},
+    {version: "131", file: "ads131.zip"},
+    {version: "130", file: "ads130.zip"},
+    {version: "129", file: "ads129.zip"},
+    {version: "128", file: "ads128.zip"},
+    {version: "127", file: "ads127.zip"},
+    {version: "126", file: "ads126.zip"},
+    {version: "125", file: "ads125.zip"},
+    {version: "124", file: "ads124.zip"},
+    {version: "123", file: "ads123.zip"},
+    {version: "122", file: "ads122.zip"},
+    {version: "121", file: "ads121.zip"},
+    {version: "120", file: "ads120.zip"},
+    {version: "119", file: "ads119.zip"},
+    {version: "118", file: "ads118.zip"},
+    {version: "117", file: "ads117.zip"},
+    {version: "116", file: "ads116.zip"},
+    {version: "115", file: "ads115.zip"},
+    {version: "114", file: "ads114.zip"},
+    {version: "113", file: "ads113.zip"},
+    {version: "112", file: "ads112.zip"},
+    {version: "111", file: "ads111.zip"},
+    {version: "110", file: "ads110.zip"},
+    {version: "109", file: "ads109.zip"},
+    {version: "108", file: "ads108.zip"},
+    {version: "107", file: "ads107.zip"},
+    {version: "106", file: "ads106.zip"},
+    {version: "105", file: "ads105.zip"},
+    {version: "104", file: "ads104.zip"},
+    {version: "103", file: "ads103.zip"},
+    {version: "102", file: "ads102.zip"},
+    {version: "101", file: "ads101.zip"},
+    {version: "100", file: "ads100.zip"},
+    {version: "99", file: "ads99.zip"},
+    {version: "98", file: "ads98.zip"},
+    {version: "97", file: "ads97.zip"},
+    {version: "96", file: "ads96.zip"},
+    {version: "95", file: "ads95.zip"},
+    {version: "94", file: "ads94.zip"},
+    {version: "93", file: "ads93.zip"},
+    {version: "92", file: "ads92.zip"},
+    {version: "91", file: "ads91.zip"},
+    {version: "90", file: "ads90.zip"},
+    {version: "89", file: "ads89.zip"},
+    {version: "88", file: "ads88.zip"},
+    {version: "87", file: "ads87.zip"},
+    {version: "86", file: "ads86.zip"},
+    {version: "85", file: "ads85.zip"},
+    {version: "84", file: "ads84.zip"},
+    {version: "83", file: "ads83.zip"},
+    {version: "82", file: "ads82.zip"},
+    {version: "81", file: "ads81.zip"},
+    {version: "80", file: "ads80.zip"},
+    {version: "79", file: "ads79.zip"},
+    {version: "78", file: "ads78.zip"},
+    {version: "77", file: "ads77.zip"},
+    {version: "76", file: "ads76.zip"},
+    {version: "75", file: "ads75.zip"},
+    {version: "74", file: "ads74.zip"},
+    {version: "73", file: "ads73.zip"},
+    {version: "72", file: "ads72.zip"},
+    {version: "71", file: "ads71.zip"},
+    {version: "70", file: "ads70.zip"},
+    {version: "69", file: "ads69.zip"},
+    {version: "68", file: "ads68.zip"},
+    {version: "67", file: "ads67.zip"},
+    {version: "66", file: "ads66.zip"},
+    {version: "65", file: "ads65.zip"},
+    {version: "64", file: "ads64.zip"},
+    {version: "63", file: "ads63.zip"},
+    {version: "62", file: "ads62.zip"},
+    {version: "61", file: "ads61.zip"},
+    {version: "60", file: "ads60.zip"},
+    {version: "59", file: "ads59.zip"},
+    {version: "58", file: "ads58.zip"},
+    {version: "57", file: "ads57.zip"},
+    {version: "56", file: "ads56.zip"},
+    {version: "55", file: "ads55.zip"},
+    {version: "54", file: "ads54.zip"},
+    {version: "53", file: "ads53.zip"},
+    {version: "52", file: "ads52.zip"},
+    {version: "51", file: "ads51.zip"},
+    {version: "50", file: "ads50.zip"},
+    {version: "49", file: "ads49.zip"},
+    {version: "48", file: "ads48.zip"},
+    {version: "47", file: "ads47.zip"},
+    {version: "ads47[尝鲜版]", file: "ads47[尝鲜版].zip"},
+    {version: "46", file: "ads46.zip"},
+    {version: "45", file: "ads45.zip"},
+    {version: "ads44（old）", file: "ads44（old）.zip"},
+    {version: "44", file: "ads44.zip"},
+    {version: "43", file: "ads43.zip"},
+    {version: "42", file: "ads42.zip"},
+    {version: "41", file: "ads41.zip"},
+    {version: "40", file: "ads40.zip"},
+    {version: "39", file: "ads39.zip"},
+    {version: "38", file: "ads38.zip"},
+    {version: "37", file: "ads37.zip"},
+    {version: "36", file: "ads36.zip"},
+    {version: "35", file: "ads35.zip"},
+    {version: "34", file: "ads34.zip"},
+    {version: "33", file: "ads33.zip"},
+    {version: "32", file: "ads32.zip"},
+    {version: "31", file: "ads31.zip"},
+    {version: "30", file: "ads30.zip"},
+    {version: "29", file: "ads29.zip"},
+    {version: "ads23保留奖励广告", file: "ads23保留奖励广告.zip"},
+    {version: "23", file: "ads23.zip"},
+    {version: "ads22保留奖励广告", file: "ads22保留奖励广告.zip"},
+    {version: "22", file: "ads22.zip"},
+    {version: "13", file: "adsv13.zip"},
+    {version: "8", file: "ads8.zip"},
+    {version: "5", file: "ads5.zip"},
+    {version: "1", file: "ads1.zip"}
+  ],
+  subscribe: [
+    {name: "完整版",       url: "https://lingeringsound.github.io/10007/all"},
+    {name: "保留广告奖励", url: "https://lingeringsound.github.io/10007/reward"},
+    {name: "Adblock规则",  url: "https://lingeringsound.github.io/10007/adb.txt"}
+  ]
+};
+
+function generateLinks(){
+  const downloadHtml = config.downloads.map(item => `
+    <div class="link-item">
+      <div class="link-name">去广告模块 v${item.version}</div>
+      <button class="download-btn" data-file="${item.file}">直接下载</button>
+      <button class="copy-btn" data-url="https://lingeringsound.github.io/10007/module/${item.file}" style="margin-top:6px;background:#5865f2;">复制链接</button>
+    </div>
+  `).join('');
+
+  const subscribeHtml = config.subscribe.map(item => `
+    <div class="link-item">
+      <div class="link-name">${item.name}</div>
+      <button class="copy-btn" data-url="${item.url}">复制订阅链接</button>
+    </div>
+  `).join('');
+
+  document.getElementById('download-links').innerHTML = downloadHtml;
+  document.getElementById('subscribe-links').innerHTML = subscribeHtml;
 }
-function copyTextGIthub2() {
-	var copyText = document.getElementById("GIthub2");
-	var inputElement = document.createElement("input");
-	inputElement.setAttribute("value", copyText.textContent);
-		document.body.appendChild(inputElement);
-	inputElement.select();
-		document.execCommand("copy");
-	document.body.removeChild(inputElement);
+
+generateLinks();
+
+document.addEventListener('click', e => {
+  if (e.target.classList.contains('download-btn')) {
+    const file = e.target.getAttribute('data-file');
+    const a = document.createElement('a');
+    a.href = `./module/${file}`;
+    a.download = file;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+
+    e.target.textContent = '下载中…';
+    e.target.classList.add('downloading');
+    setTimeout(() => {
+      e.target.textContent = '直接下载';
+      e.target.classList.remove('downloading');
+    }, 2000);
+  }
+
+  if (e.target.classList.contains('copy-btn')) {
+    const url = e.target.getAttribute('data-url');
+    navigator.clipboard.writeText(url).then(() => {
+      showToast();
+      e.target.classList.add('copied');
+      setTimeout(() => e.target.classList.remove('copied'), 2000);
+    });
+  }
+});
+
+function showToast(){
+  const t = document.getElementById('toast');
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2800);
 }
-function copyTextGIthub3() {
-	var copyText = document.getElementById("GIthub3");
-	var inputElement = document.createElement("input");
-	inputElement.setAttribute("value", copyText.textContent);
-		document.body.appendChild(inputElement);
-	inputElement.select();
-		document.execCommand("copy");
-	document.body.removeChild(inputElement);
-}
+
+const hint = document.getElementById('swipe-hint');
+new IntersectionObserver((e)=>{hint.classList.toggle('show',e[0].isIntersecting)},{threshold:0.6})
+.observe(document.querySelector('.swiper .slide'));
+
+const wrapper = document.getElementById('wrapper');
+const dots = document.querySelectorAll('.dot');
+let index = 0;
+function go(n){ index=n; wrapper.style.transform=`translateX(-${index*100}%)`; dots.forEach((d,i)=>d.classList.toggle('active',i===index)); }
+dots.forEach((d,i)=>d.onclick=()=>go(i));
+
+let startX=0, isDragging=false;
+const handleStart=e=>{startX=e.touches?e.touches[0].clientX:e.clientX; isDragging=true;};
+const handleMove=e=>{if(!isDragging)return; const x=e.touches?e.touches[0].clientX:e.clientX; const diff=startX-x; wrapper.style.transform=`translateX(calc(-\( {index*100}% - \){diff}px))`;};
+const handleEnd=e=>{if(!isDragging)return; isDragging=false; const x=e.changedTouches?e.changedTouches[0].clientX:e.clientX; const diff=startX-x; if(diff>80&&index<1)go(1);else if(diff<-80&&index>0)go(0);else go(index);};
+
+wrapper.parentElement.addEventListener('touchstart',handleStart,{passive:true});
+wrapper.parentElement.addEventListener('touchmove',handleMove,{passive:true});
+wrapper.parentElement.addEventListener('touchend',handleEnd);
+wrapper.parentElement.addEventListener('mousedown',handleStart);
+wrapper.parentElement.addEventListener('mousemove',handleMove);
+wrapper.parentElement.addEventListener('mouseup',handleEnd);
+wrapper.parentElement.addEventListener('mouseleave',()=>{if(isDragging){isDragging=false;go(index);}});
+
+const body=document.body, knob=document.getElementById('knob');
+let isDark=window.matchMedia('(prefers-color-scheme:dark)').matches;
+if(isDark)body.classList.add('dark');
+document.querySelector('.switch').onclick=()=>{body.classList.toggle('dark'); knob.style.left=body.classList.contains('dark')?'calc(100% - 26px - 4px)':'4px';};
+window.matchMedia('(prefers-color-scheme:dark)').addEventListener('change',e=>{if(e.matches!==body.classList.contains('dark'))document.querySelector('.switch').click();});
 </script>
-
 </body>
-
+</html>
