@@ -10,7 +10,7 @@
 | **274** | [下载链接](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads274.zip) |
 | **Host(保留广告奖励)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/reward) |
 | **Host(完整版)** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/all) |
-| **ADblock** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt)|
+| **Adguard规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | [GIthub加速订阅链接](https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt)|
 | **蓝奏云链接(密码666)** | [蓝奏云](https://keytoolazy.lanzouw.com/b03j67j0f) |
 
 
