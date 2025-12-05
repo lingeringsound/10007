@@ -11,12 +11,9 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v268
- - 移除`img14.360buyimg.com`，解决**手机性能排行图片**，部分使用京东图床的广告可能会出现。
->v269
- - 适配Magisk Alpha最新版`su -c`变成`su -i -c`命令。
 >v272
  - 取消锁定文件`/storage/emulated/0/Android/data/com.tencent.mobileqq/tencent/TMAssistantSDK`，解决部分设备QQ文件无法下载的问题。
-
+>v275
+ - 拦截域名`souka.iptrm.com`,`souka.ipts.com`,`souka.iptvlm.com`,`souka.iptvzj.com`，防止蓝奏云转跳，可能存在部分误杀。
 
 
