@@ -11,9 +11,8 @@
 
 >v183
  - 记住有个SB叫[刺客边风](https://m.bilibili.com/space/21131684)！！！
->v272
- - 取消锁定文件`/storage/emulated/0/Android/data/com.tencent.mobileqq/tencent/TMAssistantSDK`，解决部分设备QQ文件无法下载的问题。
 >v275
  - 拦截域名`souka.iptrm.com`,`souka.ipts.com`,`souka.iptvlm.com`,`souka.iptvzj.com`，防止蓝奏云转跳，可能存在部分误杀。
-
+> 278
+ - 模块在`KSU`/`Aptch`上使用`zygisk_next`(如果已经安装)的`zygiskd`隐藏修改的Hosts文件。
 

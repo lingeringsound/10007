@@ -1,9 +1,9 @@
 ## Remove Advertise
 
-- ## v277
+- ## v278
 | **name** | **Link** |  |
 | :-- | :-- | :-- |
-| **277** | [Download link](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads277.zip) |
+| **278** | [Download link](https://raw.githubusercontent.com/lingeringsound/10007/main/module/ads278.zip) |
 | **Host(reward)** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/reward) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/reward)~~ |
 | **Host(all)** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/all) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/all)~~ |
 | **Adguard规则** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007/main/adb.txt) | ~~[GITlink Subscription link](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007/raw/adb.txt)~~|
