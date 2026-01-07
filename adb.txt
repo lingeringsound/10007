@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7G9bQiB4b4WETl1aT7UsGA
+! Checksum: FK0ay6QVtKAnW/70hU1SKg
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2026-01-04 11:23:17
+! Last modified: 2026-01-07 23:38:20
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 
 
@@ -571,7 +571,7 @@
 ! QQ9.X获取服务器更新域名
 @@||qappcenterv6.3g.qq.com^$document
 @@||tdid.m.qq.com^$document
-@@||tangram.e.qq.com^$document
+@@||tangram.e.qq.com^$document,app=com.tencent.mobileqq
 
 
 ! 添加一些规则
@@ -852,7 +852,6 @@
 ||2341.a.dlads.cn^
 ||2345-sandko-42325.com^
 ||23986834.com^
-||23e4d976.355c2dad197e2ed1b6bd1017.workers.dev^
 ||23gtest.bj2cu.u3.ucweb.com^
 ||240.zaloapp.ads.zdn.vn^
 ||24gtest.bj2cu.u3.ucweb.com^
@@ -1536,7 +1535,6 @@
 ||ad.deepthought.industries^
 ||ad.depo.hu^
 ||ad.depositfiles.com^
-||ad.detailfolk.dk^
 ||ad.dev.360.cn^
 ||ad.deviantart.com^
 ||ad.digitallook.com^
@@ -1626,7 +1624,6 @@
 ||ad.genybet.fr^
 ||ad.ghfusion.com^
 ||ad.giaitriwin79.club^
-||ad.globalgrape.no^
 ||ad.gmw.cn^
 ||ad.go.com^
 ||ad.gogox.com^
@@ -1764,7 +1761,6 @@
 ||ad.leadboltapps.net^
 ||ad.leadboltmobile.net^
 ||ad.leap.app^
-||ad.lectinect.no^
 ||ad.leongaming.com^
 ||ad.letmeads.com^
 ||ad.lflucky.com^
@@ -4644,7 +4640,6 @@
 ||adsee.jp^
 ||adsehera.ximalaya.com^
 ||adselect.nuggad.net^
-||adselect72.online^
 ||adsellers.net^
 ||adsemirate.com^
 ||adsence.sogou.com^
@@ -5210,7 +5205,6 @@
 ||adson.biz^
 ||adsonar.com^
 ||adsoptimal.com^
-||adsorconcl.pro^
 ||adsorg.com^
 ||adsota.com^
 ||adsovo.com^
@@ -5571,7 +5565,6 @@
 ||advanced-ip-sccanner.com^
 ||advanced-prime.fr^
 ||advanced-removals.com^
-||advanced-resolution.com^
 ||advanced-shake.pro^
 ||advanced-web-analytics.com^
 ||advanced.praticaestoica.com.br^
@@ -5620,7 +5613,6 @@
 ||advantagesclotblend.com^
 ||advantageshallwayasks.com^
 ||advantagesresponse.com^
-||advantawebagency.xyz^
 ||advantax-ai-2.com^
 ||advantax-e300-ai.com^
 ||advantax-e300ai.com^
@@ -5630,6 +5622,7 @@
 ||advantaxe300ai.net^
 ||advantic.webtrekk.net^
 ||advantic01.webtrekk.net^
+||advantmanpower.com^
 ||advap.fr^
 ||advapi.ahtv.cn^
 ||advapi.joyplus.tv^
@@ -5654,16 +5647,15 @@
 ||advendi.de^
 ||advendsol.com^
 ||adveng.hiasys.com^
-||advenscrip.pro^
 ||advent-discount.luckypickr.com^
 ||adventcalendar.site^
 ||adventcalendarhouse.com^
+||adventistas.org.gt^
 ||adventistsoapbox.org^
 ||adventori.com^
 ||adventory.com^
 ||adventure-move.info^
 ||adventure-mypacere.shop^
-||adventureanddiscoverer.com^
 ||adventureandnaturelife.info^
 ||adventuredigital.co.il^
 ||adventurefeeds.com^
@@ -5677,14 +5669,9 @@
 ||adventurerarmory.com^
 ||adventuresinthekitchenculinaryretreats.com^
 ||adventuretravelandleisure.info^
-||adventurousadder.pro^
 ||adventurousamount.com^
-||adventurousbison.pro^
 ||adventurouscapuchin.pro^
 ||adventurouscomprehendhold.com^
-||adventurousgharial.pro^
-||adventurousmalkoha.pro^
-||adventurouspiculet.pro^
 ||adventuroustame.com^
 ||adventurouswren.pro^
 ||adver.24h.com.vn^
@@ -5716,7 +5703,6 @@
 ||advert.file.no^
 ||advert.funimation.com^
 ||advert.godt.no^
-||advert.hwb.no^
 ||advert.hwn.no^
 ||advert.leo.org^
 ||advert.livesportmedia.eu^
@@ -5746,7 +5732,6 @@
 ||adverterenbijnh.nl^
 ||adverterenbijsbs.nl^
 ||advertica-cdn.com^
-||advertica-cdn2.com^
 ||advertica.com^
 ||adverticum.com^
 ||adverticum.net^
@@ -5836,7 +5821,6 @@
 ||advertmarket.com^
 ||advertmedia.de^
 ||advertnative.com^
-||advertnetworks.com^
 ||advertone.ru^
 ||advertpay-vip-ssl.xunlei.com^
 ||advertpay.net^
@@ -6194,7 +6178,6 @@
 ||ailceadsl.fr^
 ||aio.lp.mydas.mobi^
 ||aiqua-sdk.c.appier.net^
-||aisadseepe.com^
 ||aiseet.aa.atianqi.com^
 ||aitmadsath.org^
 ||aizhantj.com^
@@ -7819,7 +7802,6 @@
 ||bds.snssdk.com^
 ||bdsearch.2345.com^
 ||bdsp.x.jd.com^
-||bdweb3legaladvisors.com^
 ||be-ms.teads.tv^
 ||be.ads.justpremium.com^
 ||be.adserver.yahoo.com^
@@ -7958,7 +7940,6 @@
 ||bo.goadservices.com^
 ||boffoadsapi.com^
 ||boffoadsfeeds.com^
-||bogads.com^
 ||boilingmadsoup.com^
 ||bokvennen.ads.ramsalt.com^
 ||bolt.jebe.renren.com^
@@ -8147,7 +8128,6 @@
 ||cadsecs.com^
 ||cadsimz.com^
 ||cadskiz.com^
-||cadslims.com^
 ||cadstandardparts.com^
 ||cadsuta.net^
 ||cadswkyoxlcfn.site^
@@ -8412,7 +8392,6 @@
 ||chosentalladvanced.com^
 ||christianbusinessadvertising.com^
 ||christiepointadvocates.com^
-||chuguadventures.co.tz^
 ||chuundads.com^
 ||circuit.advertserve.com^
 ||city-ads.de^
@@ -9032,7 +9011,6 @@
 ||de1-bid.adsrvr.org^
 ||deapi.nestads.com^
 ||decathlon.adventsshop.com^
-||decent-advance.pro^
 ||decenterads.com^
 ||decibelads.com^
 ||decorateadverb.com^
@@ -9079,7 +9057,6 @@
 ||deta.ero-advertising.com^
 ||detail-adsapi.vivo.com.cn^
 ||details-update.com^
-||detectedadvancevisiting.com^
 ||dev.flurry.com^
 ||dev.mobilead.vn^
 ||dev.tg.wan.360.cn^
@@ -9674,7 +9651,6 @@
 ||fasts-downloads.com^
 ||fata.ero-advertising.com^
 ||fav.simba.taobao.com^
-||fb51-11-en.ad-facebook.shop^
 ||fbofferads.com^
 ||fc.adswt.com^
 ||fcanr.tracking.miui.com^
@@ -10149,7 +10125,6 @@
 ||grs.dbankcloud.eu^
 ||gslbali.ximalaya.com^
 ||gtm.adscoffee.vn^
-||gtm.adslancorrea.com.br^
 ||gtm.advertical.vip^
 ||gtm.advocaciapedrocosta.com.br^
 ||gtm.claudiaadvprevidenciaria.com.br^
@@ -10160,6 +10135,7 @@
 ||gtm.hwrocha.adv.br^
 ||gtm.igfadvogados.com.br^
 ||gtm.kb99ads.xyz^
+||gtm.priscilafernandesadv.com^
 ||gtm.uaileads.com.br^
 ||gtm.weileretorres.adv.br^
 ||gtm.wfads.com.br^
@@ -10700,7 +10676,6 @@
 ||ipko.pl-api-frontend-corp-online.pro^
 ||ipko.pl-main-stage-client-api.pro^
 ||ipko.pl-management-alpha-server-api-gateway.pro^
-||ipko.pl-secure-partner-management-node.pro^
 ||ipm.atm.cp31.ott.cibntv.net^
 ||ipm.atm.youku.com^
 ||ipmatm.cp12.wasu.tv^
@@ -10902,6 +10877,7 @@
 ||kissmyads.biz^
 ||kiva.perkquestadventures.xyz^
 ||kl.67it.com^
+||kl.smalltripadvisor.cv^
 ||klient.live-dns.online^
 ||km.adsdomaintracking.com^
 ||kmadvancedpainmanagementcenterjhotwarajaipur.com^
@@ -11009,7 +10985,6 @@
 ||leadsmonitor.io^
 ||leadsold.cinemamovie.biz^
 ||leadspace.com^
-||leadspark52.online^
 ||leadsrhino.com^
 ||leadsrx.com^
 ||leadsy.ai^
@@ -11142,6 +11117,7 @@
 ||load.gtm.jesadvocacia.com.br^
 ||load.instinctiveads.com^
 ||load.mango.shopperadvocate.com^
+||load.set.bolderadventurepark.com^
 ||load.sst.advantagegold.com^
 ||load77.exelator.com^
 ||loadsabingo.com^
@@ -11285,7 +11261,6 @@
 ||madsone.com^
 ||madspmz.com^
 ||madstickets.com^
-||madstoamore.pro^
 ||madvendi.top^
 ||madvera.com^
 ||madvertise.de^
@@ -11771,6 +11746,7 @@
 ||myriaadventures.com^
 ||mytruckadvisor.com^
 ||mz-api.smzdm.com^
+||mzki911advancedmetaserver.ahmedhassan.pro^
 ||n--pan-eixe.xn--baidu-jm6h.com^
 ||n-ad-bg.adwo.com^
 ||n-ad.work^
@@ -11854,7 +11830,6 @@
 ||net.24-ads.com^
 ||net.salmonads.com^
 ||netads.hotwired.com^
-||netboard4advance.online^
 ||netsolads.com^
 ||network.advertise.com^
 ||network.advplace.com^
@@ -11933,7 +11908,6 @@
 ||novaonads.com^
 ||novel.pangolin-sdk-toutiao.com^
 ||novelsns.html5.qq.com^
-||novemberadventures.com^
 ||novemberadventures.name^
 ||noxagile.duapp.com^
 ||ns-strategy.cdn.bcebos.com^
@@ -12014,7 +11988,6 @@
 ||odsadsmobile.biz^
 ||oeeee.adsame.com^
 ||of.inviziads.com^
-||offerleads.club^
 ||offers.propellerads.com^
 ||offerstimeads.com^
 ||offerwall.yandex.net^
@@ -12476,7 +12449,6 @@
 ||pagepeel.ero-advertising.com^
 ||pages-juxiao.mediav.com^
 ||pages.juxiao.mediav.com^
-||panasonic-ads.com^
 ||panda.adsame.com^
 ||pandora-pansionat.com^
 ||pandora-profit-ai.net^
@@ -12580,10 +12552,6 @@
 ||perf.gds.mmstat.com^
 ||perf.mmstat.com^
 ||perf.teads.tv.edgekey.net^
-||performadvancedcompletelythe-file.top^
-||performadvancedmostthe-file.top^
-||performcompletelyadvancedthe-file.top^
-||performmostadvancedthe-file.top^
 ||perquisition-fad6fd.ingress-daribow.ewp.live^
 ||persgroepadvertising.nl^
 ||pets.channeladvisor.com^
@@ -12819,7 +12787,6 @@
 ||prod.tahoe-analytics.publishers.advertising.a2z.com^
 ||productionadvice.com^
 ||profile-api-prod-elb.53.localytics.com^
-||profixadvertzone.sbs^
 ||progressive.lp.mydas.mobi^
 ||project.activeadvice.eu^
 ||projectorreviews.advertserve.com^
@@ -13047,7 +13014,6 @@
 ||reads-mo.re^
 ||readserv.com^
 ||readstoryuhc.info^
-||readvconve.pro^
 ||readvesti.ru^
 ||real.dvanadva.ru^
 ||realads.realmedia.com^
@@ -13193,7 +13159,6 @@
 ||rmpad.imtt.qq.com^
 ||rmxads.com^
 ||roadadventures.info^
-||roadsaggra.pro^
 ||roadslime.cyou^
 ||roadstupidsupporter.com^
 ||roadvacuum.cfd^
@@ -13602,6 +13567,7 @@
 ||saad.ms.zhangyue.net^
 ||saadsfds7.myshoplaza.com^
 ||sac.ayads.co^
+||sad-engine.pro^
 ||sad-torg.com.ua^
 ||sadsecs.com^
 ||sadspacekitty.com^
@@ -13650,7 +13616,6 @@
 ||saxs.sina.cn^
 ||saxs.sina.com.cn^
 ||sbeacon.sina.com.cn^
-||sbiadvivac.pro^
 ||sbs-ad.com^
 ||sc-analytics.appspot.com^
 ||sc.gouyb.mobi^
@@ -13939,6 +13904,7 @@
 ||serving.ad.org.vn^
 ||serving.adserver.live^
 ||sestat.baidu.com^
+||setadventcalendar.store^
 ||setting.snswin.qq.com^
 ||settings-analytics.hotstar.com^
 ||setup.advancedcleaner.com^
@@ -14217,6 +14183,7 @@
 ||squirtatt15.sugar1818.net^
 ||srd.simba.taobao.com^
 ||srepdata.montgomeryadvertiser.com^
+||srepdata.newarkadvocate.com^
 ||srepdata.theadvertiser.com^
 ||srtb.msn.com^
 ||srv.buysellads.com^
@@ -14778,6 +14745,7 @@
 ||thind.unityads.unity3d.com^
 ||this.content.served.by.adshuffle.com^
 ||thoadsaibsou.net^
+||thoughtfuladvance.com^
 ||thumb.ero-advertising.com^
 ||thumbads.ero-advertising.com^
 ||thumbnail.smartnews-ads.com^
@@ -15482,7 +15450,6 @@
 ||valp.atm.youku.com^
 ||valt.atm.youku.com^
 ||van.ads.link4ads.com^
-||vanadvapor.pro^
 ||vapixel.adsafeprotected.com^
 ||vas-hl-x.snssdk.com^
 ||vast-events-staging.inner-active.mobi^
@@ -16202,7 +16169,6 @@
 ||www.1-free-share-buttons.com^
 ||www.2345-sandko-42325.com^
 ||www.2345.com^
-||www.23e4d976.355c2dad197e2ed1b6bd1017.workers.dev^
 ||www.2baners.ero-advertising.com^
 ||www.2ds.ero-advertising.com^
 ||www.2fbanners.ero-advertising.com^
@@ -16375,6 +16341,7 @@
 ||www.advancedsoftwaresupport.com^
 ||www.advancepathflow12.sbs^
 ||www.advanpromo.com^
+||www.advantmanpower.com^
 ||www.advconversion.com^
 ||www.advcostacouto.sbs^
 ||www.advent-discount.luckypickr.com^
@@ -16801,7 +16768,6 @@
 ||www.ipko.pl-api-frontend-corp-online.pro^
 ||www.ipko.pl-main-stage-client-api.pro^
 ||www.ipko.pl-management-alpha-server-api-gateway.pro^
-||www.ipko.pl-secure-partner-management-node.pro^
 ||www.ironbrookadvisors.mom^
 ||www.ironharborventures.mobi^
 ||www.itunesdownloadstore.com^
@@ -17070,6 +17036,7 @@
 ||www.security-update.qhigh.com^
 ||www.sephora.advents-sales.com^
 ||www.servedby-buysellads.com^
+||www.setadventcalendar.store^
 ||www.seure-update.fartit.com^
 ||www.sexadvertentiesite.nl^
 ||www.sexyads.net^
