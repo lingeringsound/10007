@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FK0ay6QVtKAnW/70hU1SKg
+! Checksum: 5kmrNZAF4/N2xWA7ToX8tA
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2026-01-07 23:38:20
+! Last modified: 2026-01-08 11:24:33
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 
 
@@ -1573,6 +1573,7 @@
 ||ad.dzwww.com^
 ||ad.e-dpe.jp^
 ||ad.e-kolay.net^
+||ad.e.waimai.sankuai.com^
 ||ad.ecplaza.net^
 ||ad.edugram.com^
 ||ad.egloos.com^
@@ -2591,6 +2592,7 @@
 ||ads-api.videojj.com^
 ||ads-api.videy.co^
 ||ads-api.x.com^
+||ads-api.xiaohongshu.com^
 ||ads-appnexusprod.gbc.criteo.com^
 ||ads-backend.chaincliq.com^
 ||ads-bi.zenkube.com^
@@ -4166,6 +4168,7 @@
 ||ads.xemphimso.com^
 ||ads.xfastest.com^
 ||ads.xhamster.com^
+||ads.xiaohongshu.com^
 ||ads.xlxtra.com^
 ||ads.xnet.is^
 ||ads.xtargeting.com^
@@ -5986,6 +5989,7 @@
 ||adx-api.hupu.com^
 ||adx-api.jinmo.tech^
 ||adx-api.otm-r.com^
+||adx-api.yfanads.com^
 ||adx-asia-imp.aarki.net^
 ||adx-asia.aarki.net^
 ||adx-bid.tianzhuobj.com^
@@ -12094,6 +12098,7 @@
 ||optimized.by.vitalads.net^
 ||optimus-ads-ykx.amap.com^
 ||optimus-ads.amap.com^
+||optimus-ads.amap.com.w.alikunlun.com^
 ||optimus.ipinyou.com^
 ||optoutadvertising.com^
 ||opus.analytics.yahoo.com^
@@ -12873,6 +12878,7 @@
 ||pw.analytics.console.aws.a2z.com^
 ||pw.cnzz.com^
 ||pwr-ads.com^
+||px.ads.linkedin.cn^
 ||px.ads.linkedin.com^
 ||px.moatads.com^
 ||px.tvadsync.com^
@@ -13271,6 +13277,7 @@
 ||rtb.advertrek.com^
 ||rtb.adview.cn^
 ||rtb.adx1.com^
+||rtb.adxsenmeng.com^
 ||rtb.mfadsrvr.com^
 ||rtb.nativeads.com^
 ||rtb.tamura.ad.dev.nend.net^
@@ -13569,6 +13576,7 @@
 ||sac.ayads.co^
 ||sad-engine.pro^
 ||sad-torg.com.ua^
+||sadfasdfa962.com^
 ||sadsecs.com^
 ||sadspacekitty.com^
 ||sadstr.cyou^
@@ -14245,6 +14253,7 @@
 ||ssp.vivo.com.cn^
 ||ssp15.adview.cn^
 ||ssp16.adview.cn^
+||sspapi.youxiaoad.com^
 ||sspmservice.ad-survey.com^
 ||sspservice.ad-survey.com^
 ||sst.adventure-valley.be^
@@ -14564,6 +14573,7 @@
 ||synsads.com^
 ||syzbh66.xyz^
 ||t-ads.adap.tv^
+||t-ads.xiaohongshu.com^
 ||t-adx.52qumao.com^
 ||t-e.flyme.cn^
 ||t-flow.flyme.cn^
@@ -14577,6 +14587,7 @@
 ||t.ads.sohu.com^
 ||t.advalia.it^
 ||t.adx.opera.com^
+||t.adxchina.cn^
 ||t.agrantsem.com^
 ||t.alimama.com^
 ||t.channeladvisor.com^
@@ -17489,6 +17500,7 @@
 ||yesads.com^
 ||yesadvertising.com^
 ||yfanads.cn^
+||yfanads.com^
 ||yieldads.com^
 ||yieldlove-ad-serving.net^
 ||yildun.iad-03.appboy.com^

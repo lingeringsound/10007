@@ -826,6 +826,7 @@
 0.0.0.0 ad.dzwww.com
 0.0.0.0 ad.e-dpe.jp
 0.0.0.0 ad.e-kolay.net
+0.0.0.0 ad.e.waimai.sankuai.com
 0.0.0.0 ad.ecplaza.net
 0.0.0.0 ad.edugram.com
 0.0.0.0 ad.egloos.com
@@ -1844,6 +1845,7 @@
 0.0.0.0 ads-api.videojj.com
 0.0.0.0 ads-api.videy.co
 0.0.0.0 ads-api.x.com
+0.0.0.0 ads-api.xiaohongshu.com
 0.0.0.0 ads-appnexusprod.gbc.criteo.com
 0.0.0.0 ads-backend.chaincliq.com
 0.0.0.0 ads-bi.zenkube.com
@@ -3419,6 +3421,7 @@
 0.0.0.0 ads.xemphimso.com
 0.0.0.0 ads.xfastest.com
 0.0.0.0 ads.xhamster.com
+0.0.0.0 ads.xiaohongshu.com
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ads.xnet.is
 0.0.0.0 ads.xtargeting.com
@@ -5239,6 +5242,7 @@
 0.0.0.0 adx-api.hupu.com
 0.0.0.0 adx-api.jinmo.tech
 0.0.0.0 adx-api.otm-r.com
+0.0.0.0 adx-api.yfanads.com
 0.0.0.0 adx-asia-imp.aarki.net
 0.0.0.0 adx-asia.aarki.net
 0.0.0.0 adx-bid.tianzhuobj.com
@@ -11347,6 +11351,7 @@
 0.0.0.0 optimized.by.vitalads.net
 0.0.0.0 optimus-ads-ykx.amap.com
 0.0.0.0 optimus-ads.amap.com
+0.0.0.0 optimus-ads.amap.com.w.alikunlun.com
 0.0.0.0 optimus.ipinyou.com
 0.0.0.0 optoutadvertising.com
 0.0.0.0 opus.analytics.yahoo.com
@@ -12126,6 +12131,7 @@
 0.0.0.0 pw.analytics.console.aws.a2z.com
 0.0.0.0 pw.cnzz.com
 0.0.0.0 pwr-ads.com
+0.0.0.0 px.ads.linkedin.cn
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px.moatads.com
 0.0.0.0 px.tvadsync.com
@@ -12524,6 +12530,7 @@
 0.0.0.0 rtb.advertrek.com
 0.0.0.0 rtb.adview.cn
 0.0.0.0 rtb.adx1.com
+0.0.0.0 rtb.adxsenmeng.com
 0.0.0.0 rtb.mfadsrvr.com
 0.0.0.0 rtb.nativeads.com
 0.0.0.0 rtb.tamura.ad.dev.nend.net
@@ -12822,6 +12829,7 @@
 0.0.0.0 sac.ayads.co
 0.0.0.0 sad-engine.pro
 0.0.0.0 sad-torg.com.ua
+0.0.0.0 sadfasdfa962.com
 0.0.0.0 sadsecs.com
 0.0.0.0 sadspacekitty.com
 0.0.0.0 sadstr.cyou
@@ -13498,6 +13506,7 @@
 0.0.0.0 ssp.vivo.com.cn
 0.0.0.0 ssp15.adview.cn
 0.0.0.0 ssp16.adview.cn
+0.0.0.0 sspapi.youxiaoad.com
 0.0.0.0 sspmservice.ad-survey.com
 0.0.0.0 sspservice.ad-survey.com
 0.0.0.0 sst.adventure-valley.be
@@ -13817,6 +13826,7 @@
 0.0.0.0 synsads.com
 0.0.0.0 syzbh66.xyz
 0.0.0.0 t-ads.adap.tv
+0.0.0.0 t-ads.xiaohongshu.com
 0.0.0.0 t-adx.52qumao.com
 0.0.0.0 t-e.flyme.cn
 0.0.0.0 t-flow.flyme.cn
@@ -13830,6 +13840,7 @@
 0.0.0.0 t.ads.sohu.com
 0.0.0.0 t.advalia.it
 0.0.0.0 t.adx.opera.com
+0.0.0.0 t.adxchina.cn
 0.0.0.0 t.agrantsem.com
 0.0.0.0 t.alimama.com
 0.0.0.0 t.channeladvisor.com
@@ -16742,6 +16753,7 @@
 0.0.0.0 yesads.com
 0.0.0.0 yesadvertising.com
 0.0.0.0 yfanads.cn
+0.0.0.0 yfanads.com
 0.0.0.0 yieldads.com
 0.0.0.0 yieldlove-ad-serving.net
 0.0.0.0 yildun.iad-03.appboy.com
