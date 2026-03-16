@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TBrOIdiO+lwh9+TcxQ96BQ
+! Checksum: eXMKbwV/cN9Kq8tYmXDWjg
 ! Title: Host 10007
 ! ZH_Homepage: https://gitcode.net/weixin_45617236/10007_auto 
-! Last modified: 2026-03-15 23:41:14
+! Last modified: 2026-03-16 17:21:09
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 
 
@@ -3758,7 +3758,6 @@
 ||ads.poconorecord.com^
 ||ads.pof.com^
 ||ads.pointroll.com^
-||ads.policy-management-security.cfd^
 ||ads.popfolkstars.com^
 ||ads.pornharlot.net^
 ||ads.postandparcel.info^
@@ -9588,7 +9587,6 @@
 ||eduardogomes.adv.br^
 ||eduardorodrigues.adv.br^
 ||education.leads360.com^
-||educationadvicegn.com^
 ||eedclicks.ero-advertising.com^
 ||eeghadse.com^
 ||efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com^
@@ -9784,7 +9782,6 @@
 ||fasts-downloads.com^
 ||fata.ero-advertising.com^
 ||fav.simba.taobao.com^
-||fbaddadsbook.com^
 ||fbofferads.com^
 ||fc.adswt.com^
 ||fcanr.tracking.miui.com^
@@ -9933,6 +9930,7 @@
 ||fr.rtb-rubicon-1.ads-userverlua-aws-va-106.gbc.criteo.com^
 ||fra1-ib.adnxs-simple.com^
 ||francecadstre.fr^
+||frank-advantage-131766.framer.app^
 ||freakads.com^
 ||free-ebookdownloads.com^
 ||free247downloads.com^
@@ -11551,7 +11549,6 @@
 ||mathads.com^
 ||mathilde-ads.com^
 ||maticooads.com^
-||matildesadvocacia.com^
 ||matwbp.iask.sina.com.cn^
 ||maven.ad4game.com^
 ||max-adserv.com^
@@ -12846,6 +12843,7 @@
 ||pl.relevance.enzymeadvisinggroup.com^
 ||pl.update-myinformations.info^
 ||pl.update-tracks.com^
+||pla.advanced-blutickfanpages.sbs^
 ||planeadvancing.com^
 ||planning-analytics.ibmcloud.com^
 ||platform-api.sharethis.com^
@@ -13114,7 +13112,6 @@
 ||qsptv.net^
 ||qsskp.legalinjuryadvocates.com^
 ||qstore.inner.api.sj.360.cn^
-||quadvskinny.space^
 ||quanjing.cnzz.com^
 ||quantumads.com^
 ||quartermedia-ad-service.net^
@@ -16194,7 +16191,6 @@
 ||wan.2345.com^
 ||wan.youku.com^
 ||wangmeng.baidu.com^
-||wap.fbaddadsbook.com^
 ||wap.hot-mob.com^
 ||wap.mpush.qq.com^
 ||wapwbclick.mobile.sina.cn^
@@ -17170,6 +17166,7 @@
 ||www.pin.live-click.shop^
 ||www.piwik.ero-advertising.com^
 ||www.pl-oferta6583198-google-pixel-10-pro-xl-512.cfd^
+||www.pla.advanced-blutickfanpages.sbs^
 ||www.pladvertising-manage.com^
 ||www.plconnectpost.dns.army^
 ||www.poad1811.serv00.net^
